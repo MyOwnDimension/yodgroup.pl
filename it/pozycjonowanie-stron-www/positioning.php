@@ -1,5 +1,5 @@
 <center><h4 id='doswiadczenie'>Doświadczenie w pozycjonowaniu</h4></center>
-Doświadczneie w pozycjonowaniu zdobyliśmy wśród wielu lat zgłębiania wiedzy na temat funkcjonowania wyszukiwarek internetowych oraz podczas pracy zawodowej w firmach w całej kraju.
+Doświadczenie w pozycjonowaniu stron WWW zdobyliśmy wśród wielu lat zgłębiania wiedzy na temat funkcjonowania wyszukiwarek internetowych oraz podczas pracy zawodowej w firmach w całym kraju.
 <br><br>
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br>

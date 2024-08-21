@@ -151,7 +151,7 @@ Pozycjonowanie stron <br>WWW
 <div id='textA9' class='textService' style='display:none'>Tworzymy skrypty, rozszerzenia do aplikacji i frameworków: <br>- do Państwa narzędzi, jeśli na to pozwalają<br>- do przeglądarek internetowych<br>- wtyczki wordpress<br> </div>
 
 
-<div id='textMain' class='textMain' style='display:block'>Projekt Yod Group<br><br>Jesteśmy pasjonatami rozwiązań cyfrowych<br>Automatyzujemy procesy w firmie<br>Pozycjononujemy strony WWW + SEO<br>Tworzymy rozszerzenia do programów<br><br>Zapraszamy do zapoznania się z aktualną ofertą<br></div>
+<div id='textMain' class='textMain' style='display:block'><br><br>Jesteśmy pasjonatami rozwiązań cyfrowych<br>Automatyzujemy procesy w firmie<br>Pozycjononujemy strony WWW + SEO<br>Tworzymy rozszerzenia do programów<br><br>Zapraszamy do zapoznania się z aktualną ofertą<br></div>
 	
 </td>
 

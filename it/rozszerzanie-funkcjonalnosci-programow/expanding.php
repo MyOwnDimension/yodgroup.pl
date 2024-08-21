@@ -1,6 +1,6 @@
 <center><h4 id='doswiadczenie'>Doświadczenie w tworzeniu rozszerzeń aplikacji</h4></center>
 W trakcie wielu lat pracy z różnymi narzędziami, mieliśmy wiele okoliczności do rozszerzenie funkcji owych progamów jeśli taką możliwosć przewidział twórca narzędzia.<br>
-Były to aplikacje napisane między innymi w języku Java, Python, C++<br>  
+Były to aplikacje napisane między innymi w języku PHP, Java, C++<br>  
 <br><br>
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br>
