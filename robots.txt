@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /scripts/
+Disallow: /noindex/
+
+sitemap: http://yodgroup.pl/sitemap.xml
