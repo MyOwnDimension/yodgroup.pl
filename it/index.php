@@ -24,12 +24,12 @@
 <!--<script type='text/javascript' language='JavaScript' src='javascripts/main.js'></script>-->
 <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
-  <link rel="stylesheet" href= "../noindex/pl/it/css/jquery-ui-1.12.1.css"> 
-  <script type='text/javascript' src= "../noindex/pl/it/scripts/jquery-ui-1.12.1.js"> 
-  </script> 
-  
+  <link rel="stylesheet" href= "../noindex/pl/it/css/jquery-ui-1.12.1.css">
+  <script type='text/javascript' src= "../noindex/pl/it/scripts/jquery-ui-1.12.1.js">
+  </script>
 
-  
+
+
 <script type='text/javascript' src='../noindex/pl/it/scripts/main.js'>
 
 </script>
@@ -213,22 +213,11 @@ Pozycjonowanie stron <br>WWW
 <tr>
 
 <td  class='pageFooter'  >
- <div id="generalTermsOfWebsiteIdPc" class='rodoLink'>Ogólne warunki użytkowania strony</div> 
-    <div id="generalTermsOfWebsiteContentIdPc" title="" style='background-color:#FCEEF7; 	color: #000000;'> 
-      <?php
-	  include ('../noindex/pl/warunki-uzytkowania/gt.php');
-	  ?>
-    </div> 
-   
+	<a href="..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLink' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='pageFooter'  >
- <div id="rodoLinkIdPc" class='rodoLink'>Polityka prywatności i Cookies</div> 
-    <div id="privayPolicyContentIdPc" title="" style='background-color:#FCEEF7; 	color: #000000;' > 
-      <?php
-	  include ('../noindex/pl/polityka-prywatnosci/pp.php');
-	  ?>
-    </div> 
+	<a href="..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLink' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 
 <td  class='pageFooter' >

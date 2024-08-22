@@ -1,10 +1,12 @@
 
 
   var w = window.innerWidth;
+  var h = window.innerHeight;
   document.documentElement.style.setProperty('--width0', `${w}px`);
   document.documentElement.style.setProperty('--width1', `${w}px`);
   document.documentElement.style.setProperty('--width2', `${w}px`);
   document.documentElement.style.setProperty('--width3', `${w}px`);
+  document.documentElement.style.setProperty('--height0', `${h}px`);
 
     var userAgent = navigator.userAgent;
     if (userAgent.indexOf("Edg") > -1) {

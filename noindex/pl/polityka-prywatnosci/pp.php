@@ -1,3 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!--
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE HTML>
+-->
+<HTML lang='pl'>
+
+<HEAD>
+
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+<meta name='robots' content='noindex,nofollow' >
+
+<TITLE>POLITYKA PRYWATNOŚCI STRONY INTERNETOWEJ YODGROUP.PL</TITLE>
+
+<link rel='stylesheet' type='text/css' href='../css/rodo.css'>
+<link rel='shortcut icon' href='../../../images/YodGroup.ico'>
+<script type='text/javascript' src= "../scripts/rodo.js" >
+</script>
+
+<body class=main>
+
 <center>POLITYKA PRYWATNOŚCI</center><br>
 <center>STRONY INTERNETOWEJ</center><br>
 <center>(YODGROUP.PL)</center><br>
@@ -103,3 +124,6 @@ f. Zbierania informacji statystycznych o tym, jak Użytkownik korzysta ze stro
 <br>
 
 <br>
+</body>
+
+</html>

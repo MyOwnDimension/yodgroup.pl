@@ -1,10 +1,14 @@
 :root {
-	--width0: 100%;
+
+      --width0: 100% ;
+
     --width1: 100%;
 	--width2: 100%;
 	--width3: 100%;
 	
 	--widthBrowser: 382px;
+
+	--height0: 900px;
 }
 
 
@@ -258,4 +262,69 @@ a.linkSmallerLanguage:hover {
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;
+}
+
+td.rodo{
+	text-align: center;
+	border-style: none;
+	border-color: #d0d0d0;
+	background-image: url('backgroundLink.png');
+	width: 350px;
+	height: 28x;
+}
+
+div.rodo{
+position: relative;
+top: calc(var(--height0) * 0.85);
+}
+
+a.rodoLink:link {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
+
+a.rodoLink:visited {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
+
+a.rodoLink:active {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
+
+a.rodoLink:hover {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+
 }

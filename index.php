@@ -17,7 +17,7 @@
 <meta name='Revisit-after' content='7 days'>
 <link rel='stylesheet' type='text/css' href='./noindex/pl/css/main.css'>
 <link rel='shortcut icon' href='./images/YodGroup.ico'>
-<meta name="msvalidate.01" content="7B58CAFEBC4ECF096F4E8235AE70645E" />
+<meta name="msvalidate.01" content="7B58CAFEBC4ECF096F4E8235AE70645E" >
 
   
 
@@ -39,14 +39,14 @@ $acceptNoJava = stripslashes($_GET["acceptNoJava"]);
 
 
 
-<BODY class=main id = 'body'>
+<BODY class='main' id = 'body'>
 	<noscript>
       <div style="border: 1px solid purple; padding: 10px; text-align: center;">
         <span style="color:red; font-family: 'Arial', 'Verdana'; ">Brak włączonej JavyScript w przeglądarce ! Strona może działać nieprawidłowo !</span>
       </div>
 	</noscript>
 <br>
-<table class=main>
+<table class='main'>
 
 <tr >
 
@@ -143,7 +143,27 @@ CZ
 
 </div>
 -->
+<div class='rodo'>
 
+<table class=main>
+
+<tr>
+<td  class='rodo' >
+	<a href=".\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLink' target="_blank">Ogólne warunki użytkowania strony</a>
+</td>
+
+<td  class='rodo'  >
+	<a href=".\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLink' target="_blank">Polityka prywatności i Cookies</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+
+</tr>
+</table>
+
+</div>
 </BODY>
 
 </HTML>

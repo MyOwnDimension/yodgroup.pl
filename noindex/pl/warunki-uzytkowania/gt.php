@@ -1,3 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!--
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE HTML>
+-->
+<HTML lang='pl'>
+
+<HEAD>
+
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+<meta name='robots' content='noindex,nofollow' >
+
+<TITLE>OGÓLNE WARUNKI UŻYTKOWANIA STRONY INTERNETOWEJ</TITLE>
+
+<link rel='stylesheet' type='text/css' href='../css/rodo.css'>
+<link rel='shortcut icon' href='../../../images/YodGroup.ico'>
+<script type='text/javascript' src= "../scripts/rodo.js" >
+</script>
+
+<body class=main>
+
 <center>OGÓLNE WARUNKI UŻYTKOWANIA STRONY INTERNETOWEJ</center><br>
 <center>(REGULAMIN)</center><br>
 <br>
@@ -167,5 +188,7 @@ oraz inne właściwe przepisy prawa polskiego.<br>
 <br>
 
 <br>
+</body>
 
+</html>
 

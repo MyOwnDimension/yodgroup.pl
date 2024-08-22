@@ -269,22 +269,11 @@ Wszystkie usługi
 <tr>
 
 <td  class='pageFooter'  >
- <div id="generalTermsOfWebsiteId" class='rodoLink'>Ogólne warunki użytkowania strony</div> 
-    <div id="generalTermsOfWebsiteContentId" title="" style='background-color:#FCEEF7; 	color: #000000;'> 
-      <?php
-	  include ('../../noindex/pl/warunki-uzytkowania/gt.php');
-	  ?>
-    </div> 
-   
+	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLink' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='pageFooter'  >
- <div id="rodoLinkId" class='rodoLink'>Polityka prywatności i Cookies</div> 
-    <div id="privayPolicyContentId" title="" style='background-color:#FCEEF7; 	color: #000000;'> 
-      <?php
-	  include ('../../noindex/pl/polityka-prywatnosci/pp.php');
-	  ?>
-    </div> 
+	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLink' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 
 <td  class='pageFooter' >

@@ -260,12 +260,7 @@ $messageStart="Proszę o kontakt \n\n";
 			</td>
 			
 			<td  align='center'>  	
-			<div id="informationClauseId" class='rodoLink'>Klauzula informacyjna</div> 
-    <div id="informationClauseContentId" title="" style='background-color:#FCEEF7; 	color: #000000;'> 
-      <?php
-	  include ('../../noindex/pl/klauzula-informacyjna/ic.php');
-	  ?>
-    </div> 		 
+	<a href="..\..\noindex\pl\klauzula-informacyjna\ic.php" class='rodoLink' target="_blank">Klauzula informacyjna</a>
 	</td>
 	<td  align='center'>  		
 			<button type="submit" name="send">&nbsp&nbsp Wyślij &nbsp&nbsp</button>
