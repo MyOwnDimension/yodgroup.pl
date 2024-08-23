@@ -476,3 +476,470 @@ a.rodoLink:hover {
 		cursor: help;
 
 }
+
+/*             MOBILE                   */
+
+table.mainMobile {
+	width: calc(var(--width0) * 1);
+	/*to center table*/
+	margin-left: auto;
+	margin-right: auto;
+	border-style: none;
+	border-color: #d0d0d0;
+	border-spacing: 10px;
+	border-collapse: collapse;
+}
+
+td.contentMobile {
+	height: 70px;
+	border-style: none;
+	border-color: #d0d0d0;
+}
+
+div.contentMobile {
+
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+	color: #000000;
+	border: 0px none;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 17px;
+	/*	color: rgb(0,0,0);*/
+	text-align: justify;
+	text-decoration: none;
+	font-weight: normal;
+}
+.contentDynamicMobile {
+
+	height: 50px;
+}
+
+.mainSmallerMobile {
+	text-align: center;
+	border-style: none;
+	border-color: #d0d0d0;
+
+	width: 300px;
+	height: 30px;
+}
+
+.mainSmallMobile {
+	text-align: center;
+	border-style: none;
+	border-color: #d0d0d0;
+
+	height: 40px;
+}
+
+table.languageMobile {
+
+		/*to center table*/
+	margin-left: 0px;
+    margin-right: auto;
+
+
+	border-color: #d0d0d0;
+
+    border-spacing: 1px;
+
+    border-collapse: collapse;
+
+   border-style: none;
+   border-color: #d0d0d0;
+
+/*
+	        border-color: #F0C3DA;
+
+	 background-image: url('green.png');
+*/
+}
+.mainSmallerLanguageMobile {
+	text-align: left;
+	border-style: none;
+	border-color: #d0d0d0;
+
+	width: 120px;
+	height: 28x;
+}
+
+tr.mainNormalMobile {
+	height: 150px;
+}
+
+td.mainNormalMobile {
+	text-align: center;
+	border-style: none;
+	border-color: #d0d0d0;
+
+	width: 300px;
+}
+td.pageFooterMobile {
+   border-style: none;
+   border-color: #d0d0d0;
+   	 	text-align: center;
+	 height: 100px;
+	 width: 300px;
+}
+div.textMainMobile {
+	color: #000000;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 18px;
+	color: rgb(0, 0, 0);
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+div.textServiceMobile {
+
+	color: #000000;
+
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 17px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+div.textService1Mobile {
+		margin-left: auto;
+	margin-right: auto;
+	color: #000000;
+	border: 0px none;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 17px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+table.emailInfoMobile {
+	width: 90%;
+	border: 0px none;
+
+	color: #000000;
+
+	font-family: "Arial", "Verdana";
+
+	font-style: normal;
+
+	font-variant: normal;
+
+	font-size: 17px;
+
+	color: rgb(0, 0, 0);
+
+	text-align: center;
+
+	text-decoration: none;
+
+	font-weight: normal;
+
+
+}
+
+text.emailInfoMobile {
+	width: 90%;
+	border: 0px none;
+
+	color: #0032c0;
+
+	font-family: "Arial", "Verdana";
+
+	font-style: normal;
+
+	font-variant: normal;
+
+	font-size: 17px;
+
+
+	text-align: center;
+
+	text-decoration: none;
+
+	font-weight: bold;
+
+
+}
+tr.emailTableMobile
+{
+	height:40px;
+}
+
+div.currentLinkMobile {
+	cursor: default;
+	/*	color: rgb(0,255,255);*/
+	color: #2f9a3c;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 18px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+	div.linkUnknownMobile {
+	cursor: default;
+	/*	color: rgb(0,255,255);*/
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 18px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkServiceMobile:link {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 30px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkServiceMobile:visited {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkServiceMobile:active {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 30px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkServiceMobile:hover {
+	color: rgb(0, 0, 0);
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerMobile:link {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 28px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerMobile:visited {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 28px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerMobile:active {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 28px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerMobile:hover {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 28px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+
+a.linkSmallerLanguageMobile:link {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerLanguageMobile:visited {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerLanguageMobile:active {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerLanguageMobile:hover {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkToTopMobile:link {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	color: rgb(0, 0, 0);
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkToTopMobile:visited {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+font-size: 14px;
+	color: rgb(0, 0, 0);
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkToTopMobile:active {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkToTopMobile:hover {
+	color: rgb(0, 0, 0);
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.rodoLinkMobile:link {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
+
+a.rodoLinkMobile:visited {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
+
+a.rodoLinkMobile:active {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
+
+a.rodoLinkMobile:hover {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+
+}

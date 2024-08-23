@@ -5,8 +5,8 @@ const width = window.innerWidth;
 var divMobile = document.getElementById("MOBILE"); 
   var divPC = document.getElementById("PC"); 
 
-if(height>width){
-	//document.write('MOBILE 1 '+divMobile);
+if(height<width){
+//	document.write('MOBILE 1 '+divMobile);
 	
 
 	  if (divPC.style.display === "block") {
@@ -37,7 +37,7 @@ if(height>width){
   
   
 }else{
-	//document.write('PC 1 '+divPC+'  ');
+//	document.write('PC 1 '+divPC+'  ');
 	
 	  if (divPC.style.display === "none") {
     divPC.style.display = "block";

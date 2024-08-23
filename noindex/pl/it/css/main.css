@@ -357,4 +357,353 @@ a.rodoLink:hover {
 		cursor: help;
 }
 
+/*             MOBILE                   */
 
+body.main
+{
+background-color:#FCEEF7;
+/*
+background-color:#FCEEF7;
+*/
+}
+
+table.mainMobile {
+
+			   width: calc(var(--width0) * 1);
+
+
+		/*to center table*/
+	margin-left: auto;
+    margin-right: auto;
+
+
+	border-color: #d0d0d0;
+
+    border-spacing: 10px;
+
+    border-collapse: collapse;
+
+   border-style: none;
+   border-color: #d0d0d0;
+
+/*
+	        border-color: #F0C3DA;
+
+	 background-image: url('green.png');
+*/
+}
+
+table.languageMobile {
+
+		/*to center table*/
+	margin-left: 0px;
+    margin-right: auto;
+
+
+	border-color: #d0d0d0;
+
+    border-spacing: 1px;
+
+    border-collapse: collapse;
+
+   border-style: none;
+   border-color: #d0d0d0;
+
+/*
+	        border-color: #F0C3DA;
+
+	 background-image: url('green.png');
+*/
+}
+
+tr.tr_rowMobile {
+	text-align:center;
+}
+
+td.mainMobile {
+   border-style: none;
+   border-color: #d0d0d0;
+
+	 height: 150px;
+	   width: calc(var(--width0) * 0.5);
+}
+
+td.pageFooterMobile {
+   border-style: none;
+   border-color: #d0d0d0;
+   	 	text-align: center;
+	 height: 100px;
+	 width: 300px;
+}
+
+.mainSmallMobile {
+	text-align: center;
+	border-style: none;
+	border-color: #d0d0d0;
+
+	height: 40px;
+}
+
+.mainSmallerMobile {
+	text-align: center;
+	border-style: none;
+	border-color: #d0d0d0;
+
+	width: 300px;
+	height: 30px;
+}
+
+.mainSmallerLanguageMobile {
+	text-align: left;
+	border-style: none;
+	border-color: #d0d0d0;
+
+	width: 120px;
+	height: 28x;
+}
+
+div.textMainMobile {
+	color: #000000;
+	font-family:'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 19px;
+
+	 text-align:center;
+	text-decoration: none;
+	font-weight:normal;
+
+	  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+	}
+
+div.textServiceMobile {
+	color: #000000;
+	font-family:'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 19px;
+
+	 text-align:center;
+	text-decoration: none;
+	font-weight:normal;
+
+		  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+
+
+	}
+
+
+	div.linkUnknownMobile {
+	cursor: default;
+	/*	color: rgb(0,255,255);*/
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 18px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkServiceMobile:link {
+	color: #373737;
+	font-family:'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 30px;
+
+	 text-align:center;
+	text-decoration: none;
+	font-weight:normal;
+
+	}
+a.linkServiceMobile:visited {
+	color: #373737;
+	font-family:'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 30px;
+
+	 text-align:center;
+	text-decoration: none;
+	font-weight:normal;
+
+
+	}
+a.linkServiceMobile:active {
+	color: #373737;
+	font-family:'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 30px;
+	/*
+	//color: rgb(0,0,0);
+	 */
+	 text-align:center;
+	text-decoration: none;
+	font-weight:normal;
+	}
+a.linkServiceMobile:hover {
+	color: rgb(0,0,0);
+	color: #0032c0;
+	font-family:'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 30px;
+
+	 text-align:center;
+	text-decoration: none;
+	font-weight:normal;
+}
+
+
+a.linkSmallerMobile:link {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 28px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerMobile:visited {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 28px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerMobile:active {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 28px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerMobile:hover {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 28px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerLanguageMobile:link {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerLanguageMobile:visited {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerLanguageMobile:active {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerLanguageMobile:hover {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+
+
+a.rodoLinkMobile:link {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
+
+a.rodoLinkMobile:visited {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
+
+a.rodoLinkMobile:active {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
+
+a.rodoLinkMobile:hover {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
