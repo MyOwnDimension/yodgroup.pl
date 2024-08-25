@@ -5,7 +5,7 @@ const width = window.innerWidth;
 var divMobile = document.getElementById("MOBILE"); 
   var divPC = document.getElementById("PC"); 
 
-if(height<width){
+if(height>width){
 //	document.write('MOBILE 1 '+divMobile);
 	
 

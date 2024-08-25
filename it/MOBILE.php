@@ -18,6 +18,17 @@ Wszystkie usługi
 </td>
 </tr>
 
+<tr  >
+
+<td id='linkA2' class='mainSmallMobile'  >
+
+</td>
+
+
+<td id='linkA3' class='mainSmallMobile'  >
+
+</td>
+</tr>
 
 <tr class='tr_rowMobile' >
 

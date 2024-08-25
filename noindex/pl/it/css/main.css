@@ -506,7 +506,7 @@ div.textServiceMobile {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 18px;
+	font-size: 30px;
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;
@@ -663,7 +663,7 @@ a.rodoLinkMobile:link {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 14px;
+	font-size: 20px;
 	/*	color: rgb(0,0,0);*/
 	text-align: center;
 	text-decoration: none;

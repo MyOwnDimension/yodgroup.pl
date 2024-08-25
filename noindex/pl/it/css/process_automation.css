@@ -510,7 +510,7 @@ div.contentMobile {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 17px;
+	font-size: 25px;
 	/*	color: rgb(0,0,0);*/
 	text-align: justify;
 	text-decoration: none;
@@ -699,7 +699,7 @@ div.currentLinkMobile {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 18px;
+	font-size: 30px;
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;
@@ -850,7 +850,7 @@ a.linkToTopMobile:link {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 14px;
+	font-size: 20px;
 	color: rgb(0, 0, 0);
 	text-align: center;
 	text-decoration: none;
@@ -862,7 +862,7 @@ a.linkToTopMobile:visited {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-font-size: 14px;
+font-size: 20px;
 	color: rgb(0, 0, 0);
 	text-align: center;
 	text-decoration: none;
@@ -874,7 +874,7 @@ a.linkToTopMobile:active {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 14px;
+	font-size: 20px;
 	/*	color: rgb(0,0,0);*/
 	text-align: center;
 	text-decoration: none;
@@ -887,7 +887,7 @@ a.linkToTopMobile:hover {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 14px;
+	font-size: 20px;
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;
@@ -898,7 +898,7 @@ a.rodoLinkMobile:link {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 14px;
+	font-size: 20px;
 	/*	color: rgb(0,0,0);*/
 	text-align: center;
 	text-decoration: none;
@@ -911,7 +911,7 @@ a.rodoLinkMobile:visited {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 14px;
+	font-size: 20px;
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;
@@ -923,7 +923,7 @@ a.rodoLinkMobile:active {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 14px;
+	font-size: 20px;
 	/*	color: rgb(0,0,0);*/
 	text-align: center;
 	text-decoration: none;
@@ -936,7 +936,7 @@ a.rodoLinkMobile:hover {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 14px;
+	font-size: 20px;
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;

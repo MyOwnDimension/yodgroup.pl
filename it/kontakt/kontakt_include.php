@@ -260,7 +260,7 @@ $messageStart="Proszę o kontakt \n\n";
 			</td>
 			
 			<td  align='center'>  	
-	<a href="..\..\noindex\pl\klauzula-informacyjna\ic.php" class='rodoLink' target="_blank">Klauzula informacyjna</a>
+	<a href="..\..\noindex\pl\klauzula-informacyjna\ic.php" class='rodoLinkMobile' target="_blank">Klauzula informacyjna</a>
 	</td>
 	<td  align='center'>  		
 			<button type="submit" name="send">&nbsp&nbsp Wyślij &nbsp&nbsp</button>

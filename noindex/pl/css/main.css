@@ -328,3 +328,304 @@ a.rodoLink:hover {
 		cursor: help;
 
 }
+
+/*   MOBILE   */
+
+
+body.mainMobile
+{
+background-color:#FCEEF7;
+/*
+background-color:#FCEEF7;
+*/
+}
+
+table.mainMobile {
+	   width: calc(var(--width0) * 1);
+
+
+
+	/*width: 1208px;*/
+		/*to center table*/
+	margin-left: auto;
+    margin-right: auto;
+
+
+	border-color: #d0d0d0;
+
+    border-spacing: 10px;
+
+    border-collapse: collapse;
+
+   border-style: none;
+   border-color: #d0d0d0;
+
+/*
+	        border-color: #F0C3DA;
+
+	 background-image: url('green.png');
+*/
+}
+
+.mainSmallerMobile {
+	text-align: center;
+	border-style: none;
+	border-color: #d0d0d0;
+	background-image: url('backgroundLink.png');
+	width: var(--widthBrowser); /*382 for firefox and 370 fo EDGE*/
+	/*width: 300px;*/
+	height: 30px;
+}
+
+.mainSmallerLanguageMobile {
+	text-align: left;
+	border-style: none;
+	border-color: #d0d0d0;
+	background-image: url('backgroundLink.png');
+	width: 120px;
+	height: 28x;
+}
+
+table.languageMobile {
+
+
+		/*to center table*/
+	margin-left: 0px;
+    margin-right: auto;
+
+
+	border-color: #d0d0d0;
+
+    border-spacing: 1px;
+
+    border-collapse: collapse;
+
+   border-style: none;
+   border-color: #d0d0d0;
+
+/*
+	        border-color: #F0C3DA;
+
+	 background-image: url('green.png');
+*/
+}
+
+a.linkSmallerMobile:link {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 16px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerMobile:visited {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 16px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerMobile:active {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 16px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerMobile:hover {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 16px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+
+
+
+a.linkServiceMobile:link {
+	color: #373737;
+	font-family:'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 40px;
+
+	 text-align:center;
+	text-decoration: none;
+	font-weight:bold;
+
+	}
+a.linkServiceMobile:visited {
+	color: #373737;
+	font-family:'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 40px;
+
+	 text-align:center;
+	text-decoration: none;
+	font-weight:bold;
+
+
+	}
+a.linkServiceMobile:active {
+	color: #373737;
+	font-family:'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 40px;
+	/*
+	//color: rgb(0,0,0);
+	 */
+	 text-align:center;
+	text-decoration: none;
+	font-weight:bold;
+	}
+a.linkServiceMobile:hover {
+	color: rgb(0,0,0);
+	color: #0032c0;
+	font-family:'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 40px;
+
+	 text-align:center;
+	text-decoration: none;
+	font-weight:bold;
+}
+
+div.itMobile
+{
+   position:absolute;
+   top: 20%;
+   left: calc(var(--width1) * 0.40);
+}
+
+
+
+a.linkSmallerLanguageMobile:link {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerLanguageMobile:visited {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerLanguageMobile:active {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.linkSmallerLanguageMobile:hover {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+td.rodoMobile{
+	text-align: center;
+	border-style: none;
+	border-color: #d0d0d0;
+	background-image: url('backgroundLink.png');
+	width: 350px;
+	height: 28x;
+}
+
+div.rodoMobile{
+position: relative;
+top: calc(var(--height0) * 0.85);
+}
+
+a.rodoLinkMobile:link {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 20px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
+
+a.rodoLinkMobile:visited {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
+
+a.rodoLinkMobile:active {
+	color: #373737;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 20px;
+	/*	color: rgb(0,0,0);*/
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+}
+
+a.rodoLinkMobile:hover {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+		cursor: help;
+
+}
