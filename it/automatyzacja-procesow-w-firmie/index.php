@@ -57,10 +57,11 @@ include ('MOBILE.php');
 
 
 <br><br>
-</BODY>
 <script type='text/javascript' src='../../noindex/pl/it/scripts/mainPcMobile.js'>
 
 </script>
+</BODY>
+
 
 </HTML>
 

@@ -5,9 +5,11 @@
 <tr  class='mainSmallerMobile'>
 
 <td class='mainSmallerMobile' >
+<!--
 <a class='linkSmallerMobile' href='../'>
 Wszystkie usługi
 </a>
+-->
 </td>
 
 <td class='mainSmallerMobile'>
@@ -20,12 +22,12 @@ Wszystkie usługi
 
 <tr  >
 
-<td id='linkA2' class='mainSmallMobile'  >
+<td class='mainSmallMobile'  >
 
 </td>
 
 
-<td id='linkA3' class='mainSmallMobile'  >
+<td class='mainSmallMobile'  >
 
 </td>
 </tr>
@@ -34,7 +36,7 @@ Wszystkie usługi
 
 <td class=mainMobile  >
 
-<a class='linkServiceMobile'  href='./automatyzacja-procesow-w-firmie/' title='Automatyzacja procesów'>
+<a class='linkServiceMobile'  href='./automatyzacja-procesow-w-firmie/' title='Automatyzacja procesów w biznesie'>
 
     Automatyzacja<br>procesów w firmie
 
@@ -43,16 +45,20 @@ Wszystkie usługi
 </td>
 
 <td  class=mainMobile   >
-<div class='linkUnknownMobile' >
-.....................
-</div>
+<a class='linkServiceMobile'  href='./skuteczny-emailing/'  title='E=mailing w biznesie'>
+
+Skuteczny e-mailing
+
+</a>
 </td>
 </tr>
 <tr class='tr_rowMobile' >
 <td  class=mainMobile >
-<div class='linkUnknownMobile' >
-.....................
-</div>
+<a class='linkServiceMobile'  href='./tworzenie-stron-www/'  title='Tworzenie stron WWW'>
+
+Tworzenie stron<br>WWW
+
+</a>
 </td>
 
 <td class=mainMobile  >
@@ -68,55 +74,69 @@ Pozycjonowanie stron <br>WWW
 <tr class='tr_rowMobile' >
 
 <td  class=mainMobile  >
-<div class='linkUnknownMobile' >
-.....................
-</div>
+<a class='linkServiceMobile'  href='./tworzenie-aplikacji-na-zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
+
+Programy<br>na zlecenie
+
+</a>
 </td>
 
 <td  class=mainMobile  >
 <a class='linkServiceMobile'  href='./rozszerzanie-funkcjonalnosci-programow/' title='Wtyczki, pluginy, rozszerzanie funkcji aplikacji' >
 
-	Rozszerzenia <br>funkcjonalności programów
+Rozszerzenia <br>funkcjonalności programów
 
 </a>
 </td>
 </tr>
 <tr class='tr_rowMobile' >
 <td  class=mainMobile   >
-<div class='linkUnknownMobile' >
-.....................
-</div>
+<a class='linkServiceMobile'  href='./wyszukiwanie-informacji-w-internecie/'  title='Wyszukiwanie informacji w internecie'>
+
+Usługa wyszukiwania<br>informacji w internecie
+
+</a>
 </td>
 <td  class=mainMobile   >
-<div class='linkUnknownMobile' >
-.....................
-</div>
+<a class='linkServiceMobile'  href='./marketing-internetowy/'  title='Marketing internetowy'>
+
+Marketing internetowy
+
+</a>
 </td>
 </tr>
 
 <tr class='tr_rowMobile' >
 
 <td  class=mainMobile   >
-<div class='linkUnknownMobile' >
-.....................
-</div>
+<a class='linkServiceMobile'  href='./VR-wirtualna-rzeczywistosc/'  title='Wirtualna rzeczywistość VR'>
+
+VR<br>wirtualna rzeczywistość
+
+</a>
 </td>
 <td  class=mainMobile   >
-<div class='linkUnknownMobile' >
-.....................
-</div>
+<a class='linkServiceMobile'  href='./grafika-3D/'  title='Grafika 3D'>
+
+Grafika 3D
+
+</a>
 </td>
 </tr>
 <tr class='tr_rowMobile' >
 <td  class=mainMobile  >
-<div class='linkUnknownMobile' >
-.....................
-</div>
+<a class='linkServiceMobile'  href='./grafika-2D/'  title='Grafika 2D'>
+
+Grafika 2D
+
+</a>
 </td>
 <td  class=mainMobile  >
-<div class='linkUnknownMobile' >
-.....................
-</div>
+<a class='linkServiceMobile'  href='./wsparcie-utrzymanie-rozwoj-aplikacji/'  title='Wsparcie, utrzymanie, rozwój aplikacji'>
+
+Wsparcie, utrzymanie<br>i rozwój aplikacji
+
+</a>
 </td>
 </tr>
 

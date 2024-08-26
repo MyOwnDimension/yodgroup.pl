@@ -15,7 +15,7 @@
 <tr  class='mainSmallerMobile'>
 
 <td class='mainSmallerMobile' >
-<a class='linkSmallerMobile' id='linkA1' href='../'>
+<a class='linkSmallerMobile' href='../'>
 Wszystkie usługi
 </a>
 </td>
@@ -55,19 +55,19 @@ PL
 
 <tr  >
 
-<td id='linkA2' class='mainSmallMobile'  >
+<td class='mainSmallMobile'  >
 
 </td>
 
 
-<td id='linkA3' class='mainSmallMobile'  >
+<td class='mainSmallMobile'  >
 
 </td>
 </tr>
 
 <tr class='mainNormalMobile' >
 
-<td id='linkA4' class='mainNormalMobile' >
+<td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='../automatyzacja-procesow-w-firmie/#doswiadczenie_2'  title='Doświadczenie w automatyzacji procesów w firmie'>
 
 Doświadczenie w<br>automatyzacji
@@ -76,7 +76,7 @@ Doświadczenie w<br>automatyzacji
 
 </td>
 
-<td id='linkA5' class='mainNormalMobile'  >
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='../automatyzacja-procesow-w-firmie/#zastosowanie_2'  title='Zastosowanie automatyzacji'>
 
 Zastosowanie<br>automatyzacji
@@ -86,7 +86,7 @@ Zastosowanie<br>automatyzacji
 </td>
 </tr>
 <tr class='mainNormalMobile' >
-<td id='linkA6' class='mainNormalMobile'  >
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='../automatyzacja-procesow-w-firmie/#cele_korzysci_2'  title='Cele automatyzacji procesów'>
 
 Cele<br>automatyzacji
@@ -95,7 +95,7 @@ Cele<br>automatyzacji
 
 </td>
 
-<td id='linkA7' class='mainNormalMobile'  >
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='../automatyzacja-procesow-w-firmie/#etapy_2'  title='Etapy automatyzacji procesów biznesowcyh'>
 
 Etapy<br>automatyzacji
@@ -107,14 +107,14 @@ Etapy<br>automatyzacji
 
 <tr class='mainNormalMobile' >
 
-<td id='linkA8' class='mainNormalMobile'  >
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='../automatyzacja-procesow-w-firmie/#przyklady_2'  title='Przykłady automatyzacji w biznesie'>
 
 Przykłady <br>automatyzacji
 
 </a>
 </td>
-<td id='linkA9' class='mainNormalMobile' >
+<td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='../automatyzacja-procesow-w-firmie/#kontakt_2'  title='Kontakt'>
 
 Kontakt
@@ -123,13 +123,13 @@ Kontakt
 </td>
 </tr>
 <tr class='mainNormalMobile' >
-<td id='linkA10' class='mainNormalMobile' >
+<td class='mainNormalMobile' >
 <div class='linkUnknownMobile' >
 .....................
 </div>
 </td>
 
-<td id='linkA11' class='mainNormalMobile' >
+<td class='mainNormalMobile' >
 <div class='linkUnknownMobile' >
 .....................
 </div>
@@ -139,23 +139,6 @@ Kontakt
 <tr  >
 
 <td  colspan='2' class='contentDynamicMobile'>
-<div id='textA0' class='textServiceMobile' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA1' class='textServiceMobile' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
-<div id='textA2' class='textServiceMobile' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA3' class='textServiceMobile' style='display:none'></div>
-<div id='textA4' class='textServiceMobile' style='display:none'>Doświadczenie w automatyzacji</div>
-<div id='textA5' class='textServiceMobile' style='display:none'>Zastosowanie automatyzacji w firmie</div>
-<div id='textA6' class='textServiceMobile' style='display:none'>Cele automatyzacji</div>
-<div id='textA7' class='textService' style='display:none'>Etapy automatyzacji</div>
-
-<div id='textA8' class='textServiceMobile' style='display:none'>Przykłady automatyzacji procesów w firmie</div>
-<div id='textA9' class='textServiceMobile' style='display:none'>Kontakt</div>
-<div id='textA10' class='textServiceMobile' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA11' class='textServiceMobile' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA12' class='textServiceMobile' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA13' class='textServiceMobile' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA14' class='textServiceMobile' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA15' class='textServiceMobile' style='display:none'>Automatyzacja procesów w firmie</div>
 
 </td>
 
