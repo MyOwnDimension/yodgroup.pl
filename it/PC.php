@@ -15,11 +15,11 @@
 <tr  class='mainSmaller'>
 
 <td class='mainSmaller' >
-<!--
+
 <a class='linkSmaller' id='linkA1' href='../'>
 Wszystkie usługi
 </a>
--->
+
 </td>
 <td colspan='2' >
 <table id='table' class=language>
@@ -75,25 +75,25 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='./automatyzacja-procesow-w-firmie/'  title='Automatyzacja procesów w biznesie'>
+<a class='linkService'  href='./automatyzacja-pracy/'  title='Automatyzacja procesów w biznesie'>
 
-Automatyzacja<br>procesów w firmie
+Automatyzacja pracy
 
 </a>
 
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='./skuteczny-emailing/'  title='E=mailing w biznesie'>
+<a class='linkService'  href='./e-mailing/'  title='E=mailing w biznesie'>
 
-Skuteczny e-mailing
+E-mailing
 
 </a>
 
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='./tworzenie-stron-www/'  title='Tworzenie stron WWW'>
+<a class='linkService'  href='./strony-www/'  title='Tworzenie stron WWW'>
 
 Tworzenie stron<br>WWW
 
@@ -102,7 +102,7 @@ Tworzenie stron<br>WWW
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='./pozycjonowanie-stron-www/'  title='Pozycjonowanie stron WWW, SEO'>
+<a class='linkService'  href='./pozycjonowanie/'  title='Pozycjonowanie stron WWW, SEO'>
 
 Pozycjonowanie stron<br>WWW
 
@@ -114,31 +114,30 @@ Pozycjonowanie stron<br>WWW
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='./tworzenie-aplikacji-na-zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
+<a class='linkService'  href='./programy-na-zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
 
 Programy<br>na zlecenie
 
 </a>
 </td>
 <td id='linkA9' class='mainNormal' >
-<a class='linkService'  href='./rozszerzanie-funkcjonalnosci-programow/'  title='Rozszerzanie funkcji programów: wtyczki, pluginy'>
+<a class='linkService'  href='./wtyczki-pluginy/'  title='Rozszerzanie funkcji programów: wtyczki, pluginy'>
 
-Rozszerzenia<br>funkcjonalności programów
-
+Wtyczki, pluginy, dodatki
 </a>
 </td>
 <td id='linkA10' class='mainNormal' >
-<a class='linkService'  href='./wyszukiwanie-informacji-w-internecie/'  title='Wyszukiwanie informacji w internecie'>
+<a class='linkService'  href='./VR/'  title='Wirtualna rzeczywistość VR'>
 
-Usługa wyszukiwania<br>informacji w internecie
+VR<br>wirtualna rzeczywistość
 
 </a>
 </td>
 
 <td id='linkA11' class='mainNormal' >
-<a class='linkService'  href='./marketing-internetowy/'  title='Marketing internetowy'>
+<a class='linkService'  href='./grafika-3D/'  title='Grafika 3D'>
 
-Marketing internetowy
+Grafika 3D
 
 </a>
 </td>
@@ -146,34 +145,33 @@ Marketing internetowy
 <tr class='mainNormal' >
 
 <td id='linkA12' class='mainNormal' >
-<a class='linkService'  href='./VR-wirtualna-rzeczywistosc/'  title='Wirtualna rzeczywistość VR'>
+<a class='linkService'  href='./aplikacje-3D/'  title='Grafika 2D'>
 
-VR<br>wirtualna rzeczywistość
+Aplikacje 3D
 
 </a>
 </td>
 
 <td id='linkA13' class='mainNormal'  >
-<a class='linkService'  href='./grafika-3D/'  title='Grafika 3D'>
+<a class='linkService'  href='./wsparcie-utrzymanie-rozwoj-aplikacji/'  title='Wsparcie, utrzymanie, rozwój aplikacji'>
 
-Grafika 3D
+Wsparcie, utrzymanie<br>i rozwój aplikacji
 
 </a>
 </td>
 
 <td id='linkA14' class='mainNormal' >
-<a class='linkService'  href='./grafika-2D/'  title='Grafika 2D'>
+<a class='linkService'  href='./marketing-internetowy/'  title='Marketing internetowy'>
 
-Grafika 2D
+Marketing internetowy
 
 </a>
 </td>
 
 <td id='linkA15' class='mainNormal'  >
-<a class='linkService'  href='./wsparcie-utrzymanie-rozwoj-aplikacji/'  title='Wsparcie, utrzymanie, rozwój aplikacji'>
+<a class='linkService'  href='./uslugi-inne/'  title='Wyszukiwanie informacji w internecie'>
 
-Wsparcie, utrzymanie<br>i rozwój aplikacji
-
+Inne usługi
 </a>
 </td>
 
@@ -187,19 +185,18 @@ Wsparcie, utrzymanie<br>i rozwój aplikacji
 <div id='textA1' class='textService' style='display:none'></div>
 <div id='textA2' class='textService' style='display:none'></div>
 <div id='textA3' class='textService' style='display:none'></div>
-<div id='textA4' class='textService' style='display:none'>Automatyzacja procesów w biznesie</div>
+<div id='textA4' class='textService' style='display:none'>Automatyzacja pracy w firmie</div>
 <div id='textA5' class='textService' style='display:none'>Skuteczny e-mailing </div>
 <div id='textA6' class='textService' style='display:none'>Tworzenie stron WWW</div>
 <div id='textA7' class='textService' style='display:none'>Pozycjonowanie stron WWW</div>
-
 <div id='textA8' class='textService' style='display:none'>Programy na zlecenie: PC, Mobile (Android)</div>
 <div id='textA9' class='textService' style='display:none'>Rozszerzanie funkcji programów: wtyczki (pluginy)</div>
-<div id='textA10' class='textService' style='display:none'>Usługa wyszukiwania informacji w internecie</div>
-<div id='textA11' class='textService' style='display:none'>Marketing internetowy</div>
-<div id='textA12' class='textService' style='display:none'>Wirtualna rzeczywistość - VR</div>
-<div id='textA13' class='textService' style='display:none'>Grafika 3D</div>
-<div id='textA14' class='textService' style='display:none'>Grafika 2D</div>
-<div id='textA15' class='textService' style='display:none'>Wsparcie utrzymanie i rozwój aplikacji</div>
+<div id='textA10' class='textService' style='display:none'>Wirtualna rzeczywistość - VR</div>
+<div id='textA11' class='textService' style='display:none'>Grafika 3D</div>
+<div id='textA12' class='textService' style='display:none'>Aplikacje 3D</div>
+<div id='textA13' class='textService' style='display:none'>Wsparcie utrzymanie i rozwój aplikacji</div>
+<div id='textA14' class='textService' style='display:none'>Marketing internetowy</div>
+<div id='textA15' class='textService' style='display:none'>Usługa wyszukiwania informacji w internecie</div>
 
 </td>
 
@@ -213,7 +210,7 @@ Wsparcie, utrzymanie<br>i rozwój aplikacji
 <td colspan='4' class='content'>
 <div class='content' >
 <?php
-include ('automation_pc.php');
+include ('content_pc.php');
 ?>
 </div>
 </td>
@@ -238,7 +235,7 @@ include ('automation_pc.php');
 <tr  >
 
 <td colspan='2' class='mainSmall'>
-<a href='../' class='linkService'>
+<a href='../' class='linkSmaller' id='linkA1'>
 
 Wszystkie usługi
 

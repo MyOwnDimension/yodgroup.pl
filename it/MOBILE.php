@@ -36,25 +36,25 @@ Wszystkie usługi
 
 <td class=mainMobile  >
 
-<a class='linkServiceMobile'  href='./automatyzacja-procesow-w-firmie/' title='Automatyzacja procesów w biznesie'>
+<a class='linkServiceMobile'  href='./automatyzacja-pracy/' title='Automatyzacja pracy w firmie'>
 
-    Automatyzacja<br>procesów w firmie
+    Automatyzacja pracy
 
 </a>
 
 </td>
 
 <td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./skuteczny-emailing/'  title='E=mailing w biznesie'>
+<a class='linkServiceMobile'  href='./e-mailing/'  title='E=mailing w biznesie'>
 
-Skuteczny e-mailing
+E-mailing
 
 </a>
 </td>
 </tr>
 <tr class='tr_rowMobile' >
 <td  class=mainMobile >
-<a class='linkServiceMobile'  href='./tworzenie-stron-www/'  title='Tworzenie stron WWW'>
+<a class='linkServiceMobile'  href='./strony-www/'  title='Tworzenie stron WWW'>
 
 Tworzenie stron<br>WWW
 
@@ -62,7 +62,7 @@ Tworzenie stron<br>WWW
 </td>
 
 <td class=mainMobile  >
-<a class='linkServiceMobile'  href='./pozycjonowanie-stron-www/' title='SEO, optymalizacja i pozycjonowanie www' >
+<a class='linkServiceMobile'  href='./pozycjonowanie/' title='SEO, optymalizacja i pozycjonowanie www' >
 
 Pozycjonowanie stron <br>WWW
 
@@ -74,7 +74,7 @@ Pozycjonowanie stron <br>WWW
 <tr class='tr_rowMobile' >
 
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./tworzenie-aplikacji-na-zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
+<a class='linkServiceMobile'  href='./programy-na-zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
 
 Programy<br>na zlecenie
 
@@ -82,34 +82,19 @@ Programy<br>na zlecenie
 </td>
 
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./rozszerzanie-funkcjonalnosci-programow/' title='Wtyczki, pluginy, rozszerzanie funkcji aplikacji' >
+<a class='linkServiceMobile'  href='./wtyczki-pluginy/' title='Wtyczki, pluginy, rozszerzanie funkcji aplikacji' >
 
-Rozszerzenia <br>funkcjonalności programów
-
-</a>
-</td>
-</tr>
-<tr class='tr_rowMobile' >
-<td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./wyszukiwanie-informacji-w-internecie/'  title='Wyszukiwanie informacji w internecie'>
-
-Usługa wyszukiwania<br>informacji w internecie
-
-</a>
-</td>
-<td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./marketing-internetowy/'  title='Marketing internetowy'>
-
-Marketing internetowy
+Wtyczki, pluginy,<br> &nbsp dodatki
 
 </a>
 </td>
 </tr>
 
+
 <tr class='tr_rowMobile' >
 
 <td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./VR-wirtualna-rzeczywistosc/'  title='Wirtualna rzeczywistość VR'>
+<a class='linkServiceMobile'  href='./VR/'  title='Wirtualna rzeczywistość VR'>
 
 VR<br>wirtualna rzeczywistość
 
@@ -125,9 +110,9 @@ Grafika 3D
 </tr>
 <tr class='tr_rowMobile' >
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./grafika-2D/'  title='Grafika 2D'>
+<a class='linkServiceMobile'  href='./aplikacje-3D/'  title='Aplikacje 3D'>
 
-Grafika 2D
+Aplikacje 3D
 
 </a>
 </td>
@@ -140,9 +125,38 @@ Wsparcie, utrzymanie<br>i rozwój aplikacji
 </td>
 </tr>
 
+<tr class='tr_rowMobile' >
+
+<td  class=mainMobile   >
+<a class='linkServiceMobile'  href='./marketing-internetowy/'  title='Marketing internetowy'>
+
+Marketing internetowy
+
+</a>
+</td>
+<td  class=mainMobile   >
+<a class='linkServiceMobile'  href='./uslugi-inne/'  title='Wyszukiwanie informacji w internecie'>
+
+Inne usługi
+
+</a>
+</td>
+
+</tr>
+
+<tr  >
+
+<td colspan='4' class='contentMobile'>
+<div class='contentMobile' >
+<?php
+include ('content_mobile.php');
+?>
+</div>
+</td>
 
 
 
+</tr>
 
 <tr>
 
