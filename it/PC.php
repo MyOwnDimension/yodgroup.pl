@@ -102,9 +102,9 @@ Tworzenie stron<br>WWW
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='./pozycjonowanie/'  title='Pozycjonowanie stron WWW, SEO'>
+<a class='linkService'  href='./pozycjonowanie-seo/'  title='Pozycjonowanie stron WWW, SEO'>
 
-Pozycjonowanie stron<br>WWW
+Pozycjonowanie WWW<br>SEO
 
 </a>
 </td>

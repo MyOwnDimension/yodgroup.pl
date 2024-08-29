@@ -62,9 +62,9 @@ Tworzenie stron<br>WWW
 </td>
 
 <td class=mainMobile  >
-<a class='linkServiceMobile'  href='./pozycjonowanie/' title='SEO, optymalizacja i pozycjonowanie www' >
+<a class='linkServiceMobile'  href='./pozycjonowanie-seo/' title='SEO, optymalizacja i pozycjonowanie www' >
 
-Pozycjonowanie stron <br>WWW
+Pozycjonowanie WWW <br>SEO
 
 </a>
 </td>

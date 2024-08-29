@@ -7,43 +7,43 @@
 
 if (isset($_GET["doswiadczenie"])) {
 echo '<TITLE>Doświadczeni w e-mailingu - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/?doswiadczenie" />'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/?doswiadczenie" >'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 
 } else if (isset($_GET["zastosowanie"])) {
 echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/?zastosowanie" />'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/?zastosowanie" >'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 
 }else if (isset($_GET["cele"])) {
 echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/?cele" />'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/?cele" /'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 
 }else if (isset($_GET["etapy"])) {
 echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/?etapy" />'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/?etapy" >'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 
 }else if (isset($_GET["przyklady"])) {
 echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/?przyklady" />'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/?przyklady" >'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 
 }else if (isset($_GET["kontakt"])) {
 echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/?kontakt" />'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/?kontakt" >'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 
 } else{
 echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/" />'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/" >'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 
