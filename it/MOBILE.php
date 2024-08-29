@@ -5,11 +5,11 @@
 <tr  class='mainSmallerMobile'>
 
 <td class='mainSmallerMobile' >
-<!--
+
 <a class='linkSmallerMobile' href='../'>
 Wszystkie usługi
 </a>
--->
+
 </td>
 
 <td class='mainSmallerMobile'>

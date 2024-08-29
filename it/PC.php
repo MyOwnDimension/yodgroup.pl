@@ -235,7 +235,7 @@ include ('content_pc.php');
 <tr  >
 
 <td colspan='2' class='mainSmall'>
-<a href='../' class='linkSmaller' id='linkA1'>
+<a href='../' class='linkSmaller'>
 
 Wszystkie usługi
 
