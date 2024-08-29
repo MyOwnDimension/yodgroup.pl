@@ -153,9 +153,9 @@ Aplikacje 3D
 </td>
 
 <td id='linkA13' class='mainNormal'  >
-<a class='linkService'  href='./wsparcie-utrzymanie-rozwoj-aplikacji/'  title='Wsparcie, utrzymanie, rozwój aplikacji'>
+<a class='linkService'  href='./rozwoj-utrzymanie-aplikacji/'  title='Utrzymanie, rozwój aplikacji'>
 
-Wsparcie, utrzymanie<br>i rozwój aplikacji
+Utrzymanie i rozwój<br> aplikacji
 
 </a>
 </td>
@@ -194,7 +194,7 @@ Inne usługi
 <div id='textA10' class='textService' style='display:none'>Wirtualna rzeczywistość - VR</div>
 <div id='textA11' class='textService' style='display:none'>Grafika 3D</div>
 <div id='textA12' class='textService' style='display:none'>Aplikacje 3D</div>
-<div id='textA13' class='textService' style='display:none'>Wsparcie utrzymanie i rozwój aplikacji</div>
+<div id='textA13' class='textService' style='display:none'>Utrzymanie i rozwój aplikacji</div>
 <div id='textA14' class='textService' style='display:none'>Marketing internetowy</div>
 <div id='textA15' class='textService' style='display:none'>Usługa wyszukiwania informacji w internecie</div>
 
