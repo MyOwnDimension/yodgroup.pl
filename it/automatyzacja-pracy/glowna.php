@@ -1,4 +1,4 @@
-<center><h4>Automatyzajca pracy w firmie</h4></center>
+<center><h4>Automatyzacja pracy w firmie</h4></center>
 Strona Główna<br>
 
 <br><br>

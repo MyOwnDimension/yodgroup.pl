@@ -182,7 +182,7 @@ Inne usługi
 
 <div id='textMain' class='textService' style='display:block'>Usługi IT</div>
 <div id='textA0' class='textService' style='display:none'></div>
-<div id='textA1' class='textService' style='display:none'></div>
+<div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług</div>
 <div id='textA2' class='textService' style='display:none'></div>
 <div id='textA3' class='textService' style='display:none'></div>
 <div id='textA4' class='textService' style='display:none'>Automatyzacja pracy w firmie</div>

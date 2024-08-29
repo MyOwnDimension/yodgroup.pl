@@ -1,14 +1,14 @@
   var w = window.innerWidth;
   document.documentElement.style.setProperty('--width0', `${w}px`);
-  
+
   $(document).ready(function() {
     /*kolenosc ma znaczenie, ostatni w talbei musi byc pierwszym tutaj !!!!*/
     $('#linkA15').mouseenter(function() {
         $('#textA15').show();
-        $('#textMain').hide();
+    $('#textMain').hide();
     });
     $('#linkA15').mouseleave(function() {
-        $('#textA15').hide();
+   $('#textA15').hide();
         $('#textMain').show();
     });
     $('#linkA14').mouseenter(function() {
@@ -69,11 +69,12 @@
     });
     $('#linkA7').mouseenter(function() {
         $('#textA7').show();
-        $('#textMain').hide();
+		  $('#textMain').hide()
+		
     });
     $('#linkA7').mouseleave(function() {
         $('#textA7').hide();
-        $('#textMain').show();
+		  $('#textMain').show()
     });
     $('#linkA6').mouseenter(function() {
         $('#textA6').show();
@@ -94,21 +95,23 @@
 	
 	$('#linkA4').mouseenter(function(){
 		$('#textA4').show();
-		$('#textMain').hide();
-	});
+        $('#textMain').hide();
+    });
+		
 	$('#linkA4').mouseleave(function(){
-		$('#textA4').hide();
-		$('#textMain').show();
+        $('#textA4').hide();
+        $('#textMain').show();
 	});
-	
+
     $('#linkA3').mouseenter(function() {
-		$('#textA3').hide();
+        $('#textA3').show();
         $('#textMain').hide();
     });
     $('#linkA3').mouseleave(function() {
         $('#textA3').hide();
         $('#textMain').show();
     });
+	
     $('#linkA2').mouseenter(function() {
         $('#textA2').show();
         $('#textMain').hide();
