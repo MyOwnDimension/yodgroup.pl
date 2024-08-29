@@ -167,9 +167,10 @@ Kontakt
 <tr  >
 
 <td  colspan='4' class='contentDynamic'>
-<div id='textA0' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
+<div id='textMain' class='textService' style='display:block'>Automatyzacja procesów w firmie</div>
+<div id='textA0' class='textService' style='display:none'></div>
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
-<div id='textA2' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
+<div id='textA2' class='textService' style='display:none'></div>
 <div id='textA3' class='textService' style='display:none'></div>
 <div id='textA4' class='textService' style='display:none'>Doświadczenie w automatyzacji</div>
 <div id='textA5' class='textService' style='display:none'>Zastosowanie automatyzacji w firmie</div>
