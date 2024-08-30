@@ -56,18 +56,18 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='?doswiadczenie'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkServiceMobile'  href='?doswiadczenie'  title='Doświadczenie w pozycjonownaiu i SEO'>
 
-Doświadczenie w<br>automatyzacji
+Doświadczenie w<br>pozycjonownaiu, SEO
 
 </a>
 
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?zastosowanie'  title='Zastosowanie automatyzacji'>
+<a class='linkServiceMobile'  href='?zastosowanie'  title='Zastosowanie pozycjonowania'>
 
-Zastosowanie<br>automatyzacji
+Zastosowanie<br>pozycjonowania, SEO
 
 </a>
 
@@ -77,7 +77,7 @@ Zastosowanie<br>automatyzacji
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='?cele'  title='Cele automatyzacji procesów'>
 
-Cele<br>automatyzacji
+Cele<br>pozycjonowania
 
 </a>
 
@@ -86,7 +86,7 @@ Cele<br>automatyzacji
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='?etapy'  title='Etapy automatyzacji procesów biznesowcyh'>
 
-Etapy<br>automatyzacji
+Etapy<br>pozycjonowania
 
 </a>
 </td>
@@ -96,31 +96,37 @@ Etapy<br>automatyzacji
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?przyklady'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkServiceMobile'  href='?seo_optymalizacja'  title='Przykłady automatyzacji w biznesie'>
 
-Przykłady <br>automatyzacji
+SEO<br>optymalizacja
 
 </a>
 </td>
+<td class='mainNormalMobile' >
+<a class='linkServiceMobile'  href='?seo_etapy'  title='Przykłady automatyzacji w biznesie'>
+
+SEO<br>etapy
+
+</a>
+
+</td>
+</tr>
+<tr class='mainNormalMobile' >
+<td class='mainNormalMobile' >
+<a class='linkServiceMobile'  href='?monitorowanie'  title='Przykłady automatyzacji w biznesie'>
+
+Monitorowanie<br>pozycjonowania WWW
+
+</a>
+
+</td>
+
 <td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='?kontakt'  title='Kontakt'>
 
 Kontakt
 
 </a>
-</td>
-</tr>
-<tr class='mainNormalMobile' >
-<td class='mainNormalMobile' >
-<div class='linkUnknownMobile' >
-.....................
-</div>
-</td>
-
-<td class='mainNormalMobile' >
-<div class='linkUnknownMobile' >
-.....................
-</div>
 </td>
 </tr>
 
@@ -142,35 +148,24 @@ Kontakt
 <?php
 
 if (isset($_GET["doswiadczenie"])) {
-$doswiadczenie = stripslashes($_GET["doswiadczenie"]);
-
 include('doswiadczenie.php');
-} 
-
-else if (isset($_GET["zastosowanie"])) {
-$zastosowanie = stripslashes($_GET["zastosowanie"]);
-
+}else if (isset($_GET["zastosowanie"])) {
 include('zastosowanie.php');
 }else if (isset($_GET["cele"])) {
-$cele = stripslashes($_GET["cele"]);
-
 include('cele.php');
 }else if (isset($_GET["etapy"])) {
-$etapy = stripslashes($_GET["etapy"]);
-
 include('etapy.php');
-}else if (isset($_GET["przyklady"])) {
-$przyklady = stripslashes($_GET["przyklady"]);
-
-include('przyklady.php');
+}else if (isset($_GET["seo_optymalizacja"])) {
+include('seo_optymalizacja.php');
+}else if (isset($_GET["seo_etapy"])) {
+include('seo_etapy.php');
+}else if (isset($_GET["monitorowanie"])) {
+include('monitorowanie.php');
 }else if (isset($_GET["kontakt"])) {
-$kontakt = stripslashes($_GET["kontakt"]);
-
-include ('../kontakt/kontakt_include_mobile.php');
+include ('../kontakt/kontakt_include_pc.php');
 } else{
-	include('glowna.php');
+include('glowna.php');
 }
-
 ?>
 </div>
 </td>

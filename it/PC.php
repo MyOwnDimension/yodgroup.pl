@@ -1,16 +1,5 @@
 <table class='main' >
-<!--
-<tr>
-<td colspan='4' class=main>
 
-<noscript>
-<a href='oferta.html'><IMG SRC='SklepyDrobiarskie_images/sklep_drobiarski_1000.jpg' border=0 align='middle' alt='sklep drobiarski'></a>
-</noscript>
-<script type='text/javascript'>WyswietlBaner();</script>
-
-</td>
-</tr>
--->
 
 <tr  class='mainSmaller'>
 
@@ -123,7 +112,7 @@ Programy<br>na zlecenie
 <td id='linkA9' class='mainNormal' >
 <a class='linkService'  href='./wtyczki-pluginy/'  title='Rozszerzanie funkcji programów: wtyczki, pluginy'>
 
-Wtyczki, pluginy, dodatki
+Wtyczki (pluginy), dodatki
 </a>
 </td>
 <td id='linkA10' class='mainNormal' >

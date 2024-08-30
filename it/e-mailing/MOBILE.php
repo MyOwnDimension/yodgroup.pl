@@ -1,16 +1,5 @@
 <table class='mainMobile' >
-<!--
-<tr>
-<td colspan='4' class=main>
 
-<noscript>
-<a href='oferta.html'><IMG SRC='SklepyDrobiarskie_images/sklep_drobiarski_1000.jpg' border=0 align='middle' alt='sklep drobiarski'></a>
-</noscript>
-<script type='text/javascript'>WyswietlBaner();</script>
-
-</td>
-</tr>
--->
 
 <tr  class='mainSmallerMobile'>
 
@@ -68,7 +57,7 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='?doswiadczenie'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkServiceMobile'  href='?doswiadczenie'  title='Doświadczenie w e-mailingu'>
 
 Doświadczenie w<br>e-mailingu
 
@@ -77,7 +66,7 @@ Doświadczenie w<br>e-mailingu
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?zastosowanie'  title='Zastosowanie automatyzacji'>
+<a class='linkServiceMobile'  href='?zastosowanie'  title='Zastosowanie e-mailingu'>
 
 Zastosowanie<br>e-mailingu
 
@@ -87,7 +76,7 @@ Zastosowanie<br>e-mailingu
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?cele'  title='Cele automatyzacji procesów'>
+<a class='linkServiceMobile'  href='?cele'  title='Cele e-mailingu'>
 
 Cele<br>e-mailingu
 
@@ -96,7 +85,7 @@ Cele<br>e-mailingu
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?etapy'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkServiceMobile'  href='?etapy'  title='Etapy e-mailingu'>
 
 Etapy<br>e-mailingu
 
@@ -108,7 +97,7 @@ Etapy<br>e-mailingu
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?przyklady'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkServiceMobile'  href='?przyklady'  title='Przykłady e-mailingu'>
 
 Przykłady <br>e-mailingu
 

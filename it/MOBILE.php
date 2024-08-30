@@ -84,7 +84,7 @@ Programy<br>na zlecenie
 <td  class=mainMobile  >
 <a class='linkServiceMobile'  href='./wtyczki-pluginy/' title='Wtyczki, pluginy, rozszerzanie funkcji aplikacji' >
 
-Wtyczki, pluginy,<br> &nbsp dodatki
+Wtyczki (pluginy)<br>, &nbsp dodatki
 
 </a>
 </td>

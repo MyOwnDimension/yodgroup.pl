@@ -1,16 +1,5 @@
 <table class='mainMobile' >
-<!--
-<tr>
-<td colspan='4' class=main>
 
-<noscript>
-<a href='oferta.html'><IMG SRC='SklepyDrobiarskie_images/sklep_drobiarski_1000.jpg' border=0 align='middle' alt='sklep drobiarski'></a>
-</noscript>
-<script type='text/javascript'>WyswietlBaner();</script>
-
-</td>
-</tr>
--->
 
 <tr  class='mainSmallerMobile'>
 
@@ -70,16 +59,16 @@ PL
 <td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='?doswiadczenie'  title='Doświadczenie w automatyzacji procesów w firmie'>
 
-Doświadczenie w<br>e-mailingu
+Doświadczenie,<br>wtyczki (pluginy)
 
 </a>
 
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?zastosowanie'  title='Zastosowanie automatyzacji'>
+<a class='linkServiceMobile'  href='?wtyczki'  title='Zastosowanie automatyzacji'>
 
-Zastosowanie<br>e-mailingu
+Wtyczki, dodatki
 
 </a>
 
@@ -87,46 +76,52 @@ Zastosowanie<br>e-mailingu
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
+<a class='linkServiceMobile'  href='?zastosowanie'  title='Zastosowanie automatyzacji'>
+
+Zastosowanie<br>wtyczek
+
+</a>
+
+
+</td>
+
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='?cele'  title='Cele automatyzacji procesów'>
 
-Cele<br>e-mailingu
+Cele<br>pluginów
 
 </a>
 
 </td>
+
+</tr>
+
+<tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='?etapy'  title='Etapy automatyzacji procesów biznesowcyh'>
 
-Etapy<br>e-mailingu
+Etapy tworzenia<br>pluginów
 
 </a>
+
 </td>
-
-</tr>
-
-<tr class='mainNormalMobile' >
-
-<td class='mainNormalMobile'  >
+<td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='?przyklady'  title='Przykłady automatyzacji w biznesie'>
 
-Przykłady <br>e-mailingu
+Przykłady <br>wtyczek (pluginów)
 
 </a>
+
 </td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='?kontakt'  title='Kontakt'>
 
 Kontakt
 
 </a>
-</td>
-</tr>
-<tr class='mainNormalMobile' >
-<td class='mainNormalMobile' >
-<div class='linkUnknownMobile' >
-.....................
-</div>
 </td>
 
 <td class='mainNormalMobile' >
@@ -154,32 +149,20 @@ Kontakt
 <?php
 
 if (isset($_GET["doswiadczenie"])) {
-$doswiadczenie = stripslashes($_GET["doswiadczenie"]);
-
 include('doswiadczenie.php');
-} 
-
-else if (isset($_GET["zastosowanie"])) {
-$zastosowanie = stripslashes($_GET["zastosowanie"]);
-
+}else if (isset($_GET["wtyczki"])) {
+include('wtyczki-pluginy.php');
+}else if (isset($_GET["zastosowanie"])) {
 include('zastosowanie.php');
 }else if (isset($_GET["cele"])) {
-$cele = stripslashes($_GET["cele"]);
-
 include('cele.php');
 }else if (isset($_GET["etapy"])) {
-$etapy = stripslashes($_GET["etapy"]);
-
 include('etapy.php');
 }else if (isset($_GET["przyklady"])) {
-$przyklady = stripslashes($_GET["przyklady"]);
-
 include('przyklady.php');
 }else if (isset($_GET["kontakt"])) {
-$kontakt = stripslashes($_GET["kontakt"]);
-
 include ('../kontakt/kontakt_include_mobile.php');
-} else{
+}else{
 	include('glowna.php');
 }
 

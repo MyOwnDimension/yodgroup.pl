@@ -1,16 +1,5 @@
 <table class='main' >
-<!--
-<tr>
-<td colspan='4' class=main>
 
-<noscript>
-<a href='oferta.html'><IMG SRC='SklepyDrobiarskie_images/sklep_drobiarski_1000.jpg' border=0 align='middle' alt='sklep drobiarski'></a>
-</noscript>
-<script type='text/javascript'>WyswietlBaner();</script>
-
-</td>
-</tr>
--->
 
 <tr  class='mainSmaller'>
 
@@ -73,7 +62,7 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='?doswiadczenie'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkService'  href='?doswiadczenie'  title='Doświadczenie w e-mailingu'>
 
 Doświadczenie w<br>e-mailing
 
@@ -82,7 +71,7 @@ Doświadczenie w<br>e-mailing
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='?zastosowanie'  title='Zastosowanie automatyzacji'>
+<a class='linkService'  href='?zastosowanie'  title='Zastosowanie e-mailingu'>
 
 Zastosowanie<br>e-mailingu
 
@@ -91,7 +80,7 @@ Zastosowanie<br>e-mailingu
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='?cele'  title='Cele automatyzacji procesów'>
+<a class='linkService'  href='?cele'  title='Cele e-mailingu'>
 
 Cele<br>e-mailingu
 
@@ -100,7 +89,7 @@ Cele<br>e-mailingu
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='?etapy'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkService'  href='?etapy'  title='Etapy e-mailingu'>
 
 Etapy<br>e-mailingu
 
@@ -112,7 +101,7 @@ Etapy<br>e-mailingu
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='?przyklady'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkService'  href='?przyklady'  title='Przykłady e-mailingu'>
 
 Przykłady <br>e-mailingu
 
@@ -172,19 +161,19 @@ Kontakt
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
 <div id='textA2' class='textService' style='display:none'></div>
 <div id='textA3' class='textService' style='display:none'></div>
-<div id='textA4' class='textService' style='display:none'>Doświadczenie w automatyzacji</div>
-<div id='textA5' class='textService' style='display:none'>Zastosowanie automatyzacji w firmie</div>
-<div id='textA6' class='textService' style='display:none'>Cele automatyzacji</div>
-<div id='textA7' class='textService' style='display:none'>Etapy automatyzacji</div>
+<div id='textA4' class='textService' style='display:none'>Doświadczenie w e-mailingi</div>
+<div id='textA5' class='textService' style='display:none'>Zastosowanie e-mailingu</div>
+<div id='textA6' class='textService' style='display:none'>Cele e-mailingu</div>
+<div id='textA7' class='textService' style='display:none'>Etapy e-mailingu</div>
 
-<div id='textA8' class='textService' style='display:none'>Przykłady automatyzacji procesów w firmie</div>
+<div id='textA8' class='textService' style='display:none'>Przykłady e-mailingu</div>
 <div id='textA9' class='textService' style='display:none'>Kontakt</div>
-<div id='textA10' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA11' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA12' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA13' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA14' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA15' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
+<div id='textA10' class='textService' style='display:none'>Skuteczny e-mailing</div>
+<div id='textA11' class='textService' style='display:none'>Skuteczny e-mailing</div>
+<div id='textA12' class='textService' style='display:none'>Skuteczny e-mailing</div>
+<div id='textA13' class='textService' style='display:none'>Skuteczny e-mailing</div>
+<div id='textA14' class='textService' style='display:none'>Skuteczny e-mailing</div>
+<div id='textA15' class='textService' style='display:none'>Skuteczny e-mailing</div>
 
 </td>
 

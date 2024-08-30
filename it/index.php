@@ -8,7 +8,7 @@
 <HEAD>
 
 <TITLE>Automatyzacja procesów w firmie, pozycjonowanie WWW, rozszerzenia funkcji aplikacji, wtyczki, pluginy</TITLE>
-<link rel="canonical" href="http://yodgroup.pl/it/" />
+<link rel="canonical" href="http://yodgroup.pl/it/" >
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta name='Language' content='PL'>

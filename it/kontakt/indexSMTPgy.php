@@ -379,18 +379,7 @@ $('#textA4').show();
 });
 </script>
 <table class="main" >
-<!--
-<tr>
-<td colspan="4" class=main>
 
-<noscript>
-<a href="oferta.html"><IMG SRC="SklepyDrobiarskie_images/sklep_drobiarski_1000.jpg" border=0 align="middle" alt="sklep drobiarski"></a>
-</noscript>
-<script type="text/javascript">WyswietlBaner();</script>
- 
-</td>
-</tr>
--->
 
 <tr align=center valign=middle class=mainLinks>
 

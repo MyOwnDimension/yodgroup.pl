@@ -11,7 +11,13 @@ echo '<link rel="canonical" href="http://yodgroup.pl/it/wtyczki-pluginy/?doswiad
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 
-} else if (isset($_GET["zastosowanie"])) {
+} else if (isset($_GET["wtyczki"])) {
+echo '<TITLE>Czym są wtyczki: pluginy, dodatki - Yod Group</TITLE>'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/wtyczki-pluginy/?wtyczki" >'."\r\n";
+echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
+echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
+
+}else if (isset($_GET["zastosowanie"])) {
 echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
 echo '<link rel="canonical" href="http://yodgroup.pl/it/wtyczki-pluginy/?zastosowanie" >'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
@@ -68,7 +74,7 @@ echo '<meta name="description" content="Oferujemy automatyzację procesów w fir
   <script type='text/javascript' src= "../../noindex/pl/it/scripts/jquery-ui-1.12.1.js"> 
   </script> 
   
-  <script type='text/javascript' src= "../../noindex/pl/it/scripts/e-mailing.js"> 
+  <script type='text/javascript' src= "../../noindex/pl/it/scripts/expanding_program_functionality.js"> 
   </script> 
 
 </HEAD>

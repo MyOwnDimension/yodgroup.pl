@@ -62,40 +62,38 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='?doswiadczenie'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkService'  href='?doswiadczenie'  title='Doświadczenie w pozycjonownaiu, SEO'>
 
-Doświadczenie,<br>wtyczki (pluginy)
+Doświadczenie w<br>pozycjonowaniu, SEO
 
 </a>
 
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='?wtyczki'  title='Zastosowanie automatyzacji'>
+<a class='linkService'  href='?zastosowanie'  title='Zastosowanie pozycjonowania, SEO'>
 
-Wtyczki, dodatki
+Zastosowanie<br>pozycjonowania, SEO
 
 </a>
+
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='?zastosowanie'  title='Zastosowanie automatyzacji'>
+<a class='linkService'  href='?cele'  title='Cele pozycjonowania'>
 
-Zastosowanie<br>wtyczek
+Cele<br>pozycjonowania
 
 </a>
-
 
 </td>
 
 <td id='linkA7' class='mainNormal'  >
+<a class='linkService'  href='?etapy'  title='Etapy pozycjonowania WWW'>
 
-<a class='linkService'  href='?cele'  title='Cele automatyzacji procesów'>
-
-Cele<br>pluginów
+Etapy<br>pozycjonowania
 
 </a>
-
 </td>
 
 </tr>
@@ -103,33 +101,33 @@ Cele<br>pluginów
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='?etapy'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkService'  href='?seo_optymalizacja'  title='SEO - optymalizajca stron WWW'>
 
-Etapy tworzenia<br>pluginów
+SEO<br>optymalizacja
 
 </a>
-
 </td>
 <td id='linkA9' class='mainNormal' >
-<a class='linkService'  href='?przyklady'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkService'  href='?seo_etapy'  title='SEO - etapy optymalizacji'>
 
-Przykłady <br>wtyczek (pluginów)
+SEO<br>etapy
 
 </a>
-
 </td>
 <td id='linkA10' class='mainNormal' >
-<a class='linkService'  href='?kontakt'  title='Kontakt'>
+<a class='linkService'  href='?monitorowanie'  title='Monitorowanie pozycjonowania WWW'>
 
-Kontakt
+Monitorowanie<br>pozycjonowania WWW
 
 </a>
 </td>
 
 <td id='linkA11' class='mainNormal' >
-<div class='linkUnknown' >
-.....................
-</div>
+<a class='linkService'  href='?kontakt'  title='Kontakt'>
+
+Kontakt
+
+</a>
 </td>
 </tr>
 <tr class='mainNormal' >
@@ -162,25 +160,23 @@ Kontakt
 <tr  >
 
 <td  colspan='4' class='contentDynamic'>
-<div id='textMain' class='textService' style='display:block'>Tworzymy wtyczki (pluginy), dodatki do programów</div>
+<div id='textMain' class='textService' style='display:block'>Pozycjonowanie stron WWW, SEO</div>
 <div id='textA0' class='textService' style='display:none'></div>
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
 <div id='textA2' class='textService' style='display:none'></div>
 <div id='textA3' class='textService' style='display:none'></div>
-<div id='textA4' class='textService' style='display:none'>Doświadczenie w tworzeniu wtyczek (pluginów), dodatków</div>
-<div id='textA5' class='textService' style='display:none'>Czym są wtyczki (pluginy), doadatki do programów</div>
-<div id='textA6' class='textService' style='display:none'>Zastosowanie wtyczek (pluginów) , dodatków do programów</div>
-<div id='textA7' class='textService' style='display:none'>Cele wtyczek (pluginów), dodatków do programów</div>
-<div id='textA8' class='textService' style='display:none'>Etapy tworzenia wtyczek i dodatków</div>
-
-<div id='textA9' class='textService' style='display:none'>Przykłady wtyczek (pluginów), dodatków</div>
-<div id='textA10' class='textService' style='display:none'>Kontakt</div>
-<div id='textA11' class='textService' style='display:none'>Tworzymy wtyczki (pluginy), dodatki do programów</div>
-<div id='textA12' class='textService' style='display:none'>Tworzymy wtyczki (pluginy), dodatki do programów</div>
-<div id='textA13' class='textService' style='display:none'>Tworzymy wtyczki (pluginy), dodatki do programów</div>
-<div id='textA14' class='textService' style='display:none'>Tworzymy wtyczki (pluginy), dodatki do programów</div>
-<div id='textA15' class='textService' style='display:none'>Tworzymy wtyczki (pluginy), dodatki do programów</div>
-
+<div id='textA4' class='textService' style='display:none'>Doświadczenie w pozycjonowaniu</div>
+<div id='textA5' class='textService' style='display:none'>Zastosowanie pozycjonowania</div>
+<div id='textA6' class='textService' style='display:none'>Cele pozycjonowania</div>
+<div id='textA7' class='textService' style='display:none'>Etapy pozycjonowania</div>
+<div id='textA8' class='textService' style='display:none'>SEO - optymalizacja pod kątek wyszukiwarek</div>
+<div id='textA9' class='textService' style='display:none'>SEO - etapy optymalizacji</div>
+<div id='textA10' class='textService' style='display:none'>Monitorowanie pozycjonowania i efektów optymalizacji strony WWW</div>
+<div id='textA11' class='textService' style='display:none'>Kontakt</div>
+<div id='textA12' class='textService' style='display:none'>Pozycjonowanie stron WWW, SEO</div>
+<div id='textA13' class='textService' style='display:none'>Pozycjonowanie stron WWW, SEO</div>
+<div id='textA14' class='textService' style='display:none'>Pozycjonowanie stron WWW, SEO</div>
+<div id='textA15' class='textService' style='display:none'>Pozycjonowanie stron WWW, SEO</div>
 </td>
 
 
@@ -196,20 +192,22 @@ Kontakt
 
 if (isset($_GET["doswiadczenie"])) {
 include('doswiadczenie.php');
-}else if (isset($_GET["wtyczki"])) {
-include('wtyczki-pluginy.php');
 }else if (isset($_GET["zastosowanie"])) {
 include('zastosowanie.php');
 }else if (isset($_GET["cele"])) {
 include('cele.php');
 }else if (isset($_GET["etapy"])) {
 include('etapy.php');
-}else if (isset($_GET["przyklady"])) {
-include('przyklady.php');
+}else if (isset($_GET["seo_optymalizacja"])) {
+include('seo_optymalizacja.php');
+}else if (isset($_GET["seo_etapy"])) {
+include('seo_etapy.php');
+}else if (isset($_GET["monitorowanie"])) {
+include('monitorowanie.php');
 }else if (isset($_GET["kontakt"])) {
 include ('../kontakt/kontakt_include_pc.php');
-}else{
-	include('glowna.php');
+} else{
+include('glowna.php');
 }
 
 ?>
