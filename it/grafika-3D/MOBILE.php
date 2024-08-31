@@ -164,47 +164,24 @@ include('content_mobile.php');
 
 
 
-<tr  >
-
-<td  class='mainSmallMobile'>
-<a href='../' class='linkSmallerMobile'>
-
-Wszystkie usługi
-
-	</a>
-</td>
-
-
-<td class='mainSmallMobile' >
-
-</td>
-</tr>
-
-
 <tr>
 
 <td  class='pageFooterMobile'  >
- <div id="generalTermsOfWebsiteIdMob" class='rodoLink'>Ogólne warunki użytkowania strony</div> 
-    <div id="generalTermsOfWebsiteContentIdMob" style="display: none; visibility: hidden" title=""> 
-      <?php
-	  include ('../../noindex/pl/warunki-uzytkowania/gt.php');
-	  ?>
-    </div> 
+	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLinkMobile' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='pageFooterMobile'  >
- <div id="rodoLinkIdMob" class='rodoLink'>Polityka prywatności i Cookies</div> 
-    <div id="privayPolicyContentIdMob" title="" style="display: none; visibility: hidden" > 
-      <?php
-	  include ('../../noindex/pl/polityka-prywatnosci/pp.php');
-	  ?>
-    </div> 
+	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 
+<td  class='pageFooter' >
 
+</td>
+
+<td  class='pageFooter' >
+
+</td>
 
 </tr>
 
 </table>
-<script type='text/javascript' src= "../../noindex/pl/it/scripts/rodoMobile.js"> 
-</script> 

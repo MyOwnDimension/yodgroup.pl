@@ -224,22 +224,11 @@ Wszystkie usługi
 <tr>
 
 <td  class='pageFooter'  >
- <div id="generalTermsOfWebsiteIdPc" class='rodoLink'>Ogólne warunki użytkowania strony</div> 
-    <div id="generalTermsOfWebsiteContentIdPc" style="display: none; visibility: hidden" title=""> 
-      <?php
-	  include ('../../noindex/pl/warunki-uzytkowania/gt.php');
-	  ?>
-    </div> 
-   
+	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLink' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='pageFooter'  >
- <div id="rodoLinkIdPc" class='rodoLink'>Polityka prywatności i Cookies</div> 
-    <div id="privayPolicyContentIdPc" title="" style="display: none; visibility: hidden" > 
-      <?php
-	  include ('../../noindex/pl/polityka-prywatnosci/pp.php');
-	  ?>
-    </div> 
+	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLink' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 
 <td  class='pageFooter' >
@@ -253,5 +242,3 @@ Wszystkie usługi
 </tr>
 
 </table>
-<script type='text/javascript' src= "../../noindex/pl/it/scripts/rodoPC.js"> 
-</script> 

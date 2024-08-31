@@ -26,23 +26,23 @@
 </HEAD>
 
 <BODY>
+
 	<noscript>
       <div style="border: 1px solid purple; padding: 10px; text-align: center;">
         <span style="color:red; font-family: 'Arial', 'Verdana'; ">Brak włączonej JavyScript w przeglądarce ! Strona może działać nieprawidłowo !</span>
-<br>
-	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLink' target="_blank">Ogólne warunki użytkowania strony</a>
-<br>
-	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLink' target="_blank">Polityka prywatności i Cookies</a>
-<br>
-	<a href="..\..\noindex\pl\klauzula-informacyjna\ic.php" class='rodoLink' target="_blank">Klauzula informacyjna</a>
-
       </div>
+<div id="PC" style="  display: block; visibility: visible">
+<!--<h1>PC</H1>-->
+<?php
+include ('PC.php');
+?>
+</div>
 	</noscript>
 <br>
 
 
 
-<div id="PC" style="  display: block; visibility: visible">
+<div id="PC" style="  display: none; visibility: hidden">
 <!--<h1>PC</H1>-->
 <?php
 include ('PC.php');
@@ -67,9 +67,9 @@ include ('MOBILE.php');
 
 
 <br><br>
+
 <script type='text/javascript' src='../../noindex/pl/it/scripts/mainPcMobile.js'>
 </script>
-
 
 </BODY>
 

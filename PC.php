@@ -12,26 +12,15 @@
 
 <tr>
 <td  class='rodo' >
-
- <div id="generalTermsOfWebsiteIdPc" class='rodoLink'>Ogólne warunki użytkowania strony</div> 
-    <div id="generalTermsOfWebsiteContentIdPc" title="" style="display: none; visibility: hidden" > 
-      <?php
-	  include ('./noindex/pl/warunki-uzytkowania/gt.php');
-	  ?>
-    </div> 
+	<a href=".\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLink' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='rodo'  >
- <div id="rodoLinkIdPc" class='rodoLink'>Polityka prywatności i Cookies</div> 
-    <div id="privayPolicyContentIdPc" title="" style="display: none; visibility: hidden" > 
-      <?php
-	  include ('i');
-	  ?>
-    </div> 
+	<a href=".\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLink' target="_blank">Polityka prywatności i Cookies</a>
 </td>
+
 
 </tr>
 </table>
-  <script type='text/javascript' src= "./noindex/pl/scripts/rodoPC.js"> 
-  </script> 
+
 </div>

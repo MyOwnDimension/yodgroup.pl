@@ -149,35 +149,16 @@ Inne usługi
 <tr>
 
 <td  class='pageFooterMobile'  >
- <div id="generalTermsOfWebsiteIdMob" class='rodoLinkMobile'>Ogólne warunki użytkowania strony</div> 
-    <div id="generalTermsOfWebsiteContentIdMob" title="" style="display: none; visibility: hidden"> 
-      <?php
-	  include ('../noindex/pl/warunki-uzytkowania/gt.php');
-	  ?>
-    </div> 
-   
+	<a href="..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLinkMobile' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='pageFooterMobile'  >
- <div id="rodoLinkIdMob" class='rodoLinkMobile'>Polityka prywatności i Cookies</div> 
-    <div id="privayPolicyContentIdMob" title="" style="display: none; visibility: hidden" > 
-      <?php
-	  include ('../noindex/pl/polityka-prywatnosci/pp.php');
-	  ?>
-    </div> 
+	<a href="..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 
-<td  class='pageFooter' >
 
-</td>
-
-<td  class='pageFooter' >
-
-</td>
 
 </tr>
 
 </table>
 </center>
-  <script type='text/javascript' src= "../noindex/pl/it/scripts/rodoMobile.js"> 
-  </script> 
