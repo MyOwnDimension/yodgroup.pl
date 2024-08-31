@@ -278,6 +278,34 @@ position: relative;
 top: calc(var(--height0) * 0.85);
 }
 
+div.rodoLink {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	color: rgb(0, 0, 0);
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+	cursor: help;
+}
+
+div.rodoLinkMobile {
+	color: #0032c0;
+	font-family: 'Arial', 'Verdana';
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	color: rgb(0, 0, 0);
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+	cursor: help;
+}
+
+
+
 a.rodoLink:link {
 	color: #373737;
 	font-family: 'Arial', 'Verdana';

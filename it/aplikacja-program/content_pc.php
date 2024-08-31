@@ -1,0 +1,43 @@
+<center><h4 id='mobilne_free_1'>Doświadczenie w SEO</h4></center>
+Doświadczenie w pozycjonowaniu stron WWW zdobyliśmy wśród wielu lat zgłębiania wiedzy na temat funkcjonowania wyszukiwarek internetowych oraz podczas pracy zawodowej w firmach w całym kraju.
+<br><br>
+<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
+<br><br>
+<center><h4 id='mobilne_pay_1'>Zastosowanie SEO</h4></center>
+Pozycjonowanie znajduje zastosowanie w przypadku każdej strony internetowej,<br>
+której właściciel pragnie osiągnąć wysoką pozycję jego strony w wyniku wyszukiwania po konkretnych słowach kluczowych,<br>
+w między innymi takich wyszukiwarkach jak:<br>
+- Google<br>
+- Bing<br>
+- Yandex<br>
+- Yahoo<br>
+
+<br><br>
+<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
+<br><br>
+<center><h4 id='pc_free_1'>Cele SEO</h4></center>
+Zamieszczenie strony internetowej na serwerze oraz przypisanie jej domeny jest pierwszym z etapów zaistnienia biznesu w świecie online.<br>
+Na tym jednak nie powinno się kończyć, bowiem Państwa strona powinna być łatwa do znalezienia w wyszukiwarkach internetowych.<br>
+Każdy kto nie zna adresu Państwa strony, ma szanse odnaleźć ją w wyszukiwarce internetowej po wpisaniu kilku słów identyfikujących Państwa działalność.<br>
+Celem pozycjnowania Państwa strony internetowej, jest zdobycie jak najwyższej pozycji w wyniku wyszukiwania po słowach kluczowych wpisanych przez potencjalnego klietna.<br>
+
+<br><br>
+<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
+<br><br><center><h4 id='pc_pay_1'>Etapy SEO</h4></center>
+Wśród etapów pozycjonowania wyróżnić należy:<br>
+- wywiad ze zleceniodawcą na temat oczekiwań stawianych od strony internetowej,<br>
+- wspólne ustalenie strategii pozycjonowania i ram czasowych,<br>
+- działania po naszej stronie zmierzające do uzyskania stawianych nam celów pozycjonowania,<br>
+- okres monitorownaia efektów pozycjonowania, zależny między innymi od czynników zewnętrznych,<br>
+- ewentualna reakcja na zmiany w wynikach wyszkukwiania na skutek zmian np. w obszarze konkurencji<br>
+<br><br>
+<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
+<br><br>
+
+
+<center><h4 id='kontakt_1'>Kontakt</h4></center>
+
+<?php
+
+include ('../kontakt/kontakt_include_pc.php');
+?>

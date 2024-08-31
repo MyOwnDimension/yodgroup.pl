@@ -57,7 +57,7 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='?doswiadczenie'  title='Doświadczenie w e-mailingu'>
+<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w e-mailingu'>
 
 Doświadczenie w<br>e-mailingu
 
@@ -66,7 +66,7 @@ Doświadczenie w<br>e-mailingu
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?zastosowanie'  title='Zastosowanie e-mailingu'>
+<a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie e-mailingu'>
 
 Zastosowanie<br>e-mailingu
 
@@ -76,7 +76,7 @@ Zastosowanie<br>e-mailingu
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?cele'  title='Cele e-mailingu'>
+<a class='linkServiceMobile'  href='#cele_2'  title='Cele e-mailingu'>
 
 Cele<br>e-mailingu
 
@@ -85,7 +85,7 @@ Cele<br>e-mailingu
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?etapy'  title='Etapy e-mailingu'>
+<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy e-mailingu'>
 
 Etapy<br>e-mailingu
 
@@ -97,14 +97,14 @@ Etapy<br>e-mailingu
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?przyklady'  title='Przykłady e-mailingu'>
+<a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady e-mailingu'>
 
 Przykłady <br>e-mailingu
 
 </a>
 </td>
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='?kontakt'  title='Kontakt'>
+<a class='linkServiceMobile'  href='#kontakt_2'  title='Kontakt'>
 
 Kontakt
 
@@ -142,35 +142,7 @@ Kontakt
 <div class='contentMobile' >
 <?php
 
-if (isset($_GET["doswiadczenie"])) {
-$doswiadczenie = stripslashes($_GET["doswiadczenie"]);
-
-include('doswiadczenie.php');
-} 
-
-else if (isset($_GET["zastosowanie"])) {
-$zastosowanie = stripslashes($_GET["zastosowanie"]);
-
-include('zastosowanie.php');
-}else if (isset($_GET["cele"])) {
-$cele = stripslashes($_GET["cele"]);
-
-include('cele.php');
-}else if (isset($_GET["etapy"])) {
-$etapy = stripslashes($_GET["etapy"]);
-
-include('etapy.php');
-}else if (isset($_GET["przyklady"])) {
-$przyklady = stripslashes($_GET["przyklady"]);
-
-include('przyklady.php');
-}else if (isset($_GET["kontakt"])) {
-$kontakt = stripslashes($_GET["kontakt"]);
-
-include ('../kontakt/kontakt_include_mobile.php');
-} else{
-	include('glowna.php');
-}
+include('content_mobile.php');
 
 ?>
 </div>
@@ -213,11 +185,21 @@ Wszystkie usługi
 <tr>
 
 <td  class='pageFooterMobile'  >
-	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLinkMobile' target="_blank">Ogólne warunki użytkowania strony</a>
+ <div id="generalTermsOfWebsiteIdMob" class='rodoLink'>Ogólne warunki użytkowania strony</div> 
+    <div id="generalTermsOfWebsiteContentIdMob" style="display: none; visibility: hidden" title=""> 
+      <?php
+	  include ('../../noindex/pl/warunki-uzytkowania/gt.php');
+	  ?>
+    </div> 
 </td>
 
 <td  class='pageFooterMobile'  >
-	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
+ <div id="rodoLinkIdMob" class='rodoLink'>Polityka prywatności i Cookies</div> 
+    <div id="privayPolicyContentIdMob" title="" style="display: none; visibility: hidden" > 
+      <?php
+	  include ('../../noindex/pl/polityka-prywatnosci/pp.php');
+	  ?>
+    </div> 
 </td>
 
 
@@ -225,3 +207,5 @@ Wszystkie usługi
 </tr>
 
 </table>
+<script type='text/javascript' src= "../../noindex/pl/it/scripts/rodoMobile.js"> 
+</script> 

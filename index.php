@@ -43,6 +43,11 @@ $acceptNoJava = stripslashes($_GET["acceptNoJava"]);
 	<noscript>
       <div style="border: 1px solid purple; padding: 10px; text-align: center;">
         <span style="color:red; font-family: 'Arial', 'Verdana'; ">Brak włączonej JavyScript w przeglądarce ! Strona może działać nieprawidłowo !</span>
+<br>
+	<a href=".\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLink' target="_blank">Ogólne warunki użytkowania strony</a>
+<br>
+	<a href=".\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLink' target="_blank">Polityka prywatności i Cookies</a>
+
       </div>
 	</noscript>
 <br>

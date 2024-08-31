@@ -1,45 +1,13 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><!--<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><!DOCTYPE HTML>-->
 <HTML lang='pl'>
 <HEAD>
-<?php
+
+<TITLE>Programy na zlecenie - Yod Group</TITLE>
+<link rel="canonical" href="http://yodgroup.pl/it/programy-na-zlecenie/" >
+<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">
+<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">
 
 
-
-if (isset($_GET["doswiadczenie"])) {
-echo '<TITLE>Doświadczeni w automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?doswiadczenie" >'."\r\n";
-echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
-echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
-
-}else if (isset($_GET["cele"])) {
-echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?cele" >'."\r\n";
-echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
-echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
-
-} else if (isset($_GET["etapy"])) {
-echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?etapy" >'."\r\n";
-echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
-echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
-
-}else if (isset($_GET["kontakt"])) {
-echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?kontakt" >'."\r\n";
-echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
-echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
-
-} else{
-echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/" >'."\r\n";
-echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
-echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
-
-}
-
-
-
-?>
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta name='Language' content='PL'>
@@ -62,6 +30,13 @@ echo '<meta name="description" content="Oferujemy automatyzację procesów w fir
 	<noscript>
       <div style="border: 1px solid purple; padding: 10px; text-align: center;">
         <span style="color:red; font-family: 'Arial', 'Verdana'; ">Brak włączonej JavyScript w przeglądarce ! Strona może działać nieprawidłowo !</span>
+<br>
+	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLink' target="_blank">Ogólne warunki użytkowania strony</a>
+<br>
+	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLink' target="_blank">Polityka prywatności i Cookies</a>
+<br>
+	<a href="..\..\noindex\pl\klauzula-informacyjna\ic.php" class='rodoLink' target="_blank">Klauzula informacyjna</a>
+
       </div>
 	</noscript>
 <br>

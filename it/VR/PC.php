@@ -62,36 +62,36 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='?doswiadczenie'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w automatyzacji procesów w firmie'>
 
-Doświadczenie w<br>automatyzacji
+Doświadczenie w<br>VR
 
 </a>
 
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='?zastosowanie'  title='Zastosowanie automatyzacji'>
+<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie automatyzacji'>
 
-Zastosowanie<br>automatyzacji
+Zastosowanie<br>VR
 
 </a>
 
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='?cele'  title='Cele automatyzacji procesów'>
+<a class='linkService'  href='#cele_1'  title='Cele automatyzacji procesów'>
 
-Cele<br>automatyzacji
+Cele<br>VR
 
 </a>
 
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='?etapy'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkService'  href='#etapy_1'  title='Etapy automatyzacji procesów biznesowcyh'>
 
-Etapy<br>automatyzacji
+Etapy<br>VR
 
 </a>
 </td>
@@ -101,14 +101,14 @@ Etapy<br>automatyzacji
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='?przyklady'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkService'  href='#przyklady_1'  title='Przykłady automatyzacji w biznesie'>
 
-Przykłady <br>automatyzacji
+Przykłady <br>VR
 
 </a>
 </td>
 <td id='linkA9' class='mainNormal' >
-<a class='linkService'  href='?kontakt'  title='Kontakt'>
+<a class='linkService'  href='#kontakt_1'  title='Kontakt'>
 
 Kontakt
 
@@ -156,24 +156,24 @@ Kontakt
 <tr  >
 
 <td  colspan='4' class='contentDynamic'>
-<div id='textMain' class='textService' style='display:block'>Automatyzacja procesów w firmie</div>
+<div id='textMain' class='textService' style='display:block'>Wirtualna rzeczywistość, VR</div>
 <div id='textA0' class='textService' style='display:none'></div>
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
 <div id='textA2' class='textService' style='display:none'></div>
 <div id='textA3' class='textService' style='display:none'></div>
-<div id='textA4' class='textService' style='display:none'>Doświadczenie w automatyzacji</div>
-<div id='textA5' class='textService' style='display:none'>Zastosowanie automatyzacji w firmie</div>
-<div id='textA6' class='textService' style='display:none'>Cele automatyzacji</div>
-<div id='textA7' class='textService' style='display:none'>Etapy automatyzacji</div>
+<div id='textA4' class='textService' style='display:none'>Doświadczenie w VR</div>
+<div id='textA5' class='textService' style='display:none'>Zastosowanie VR</div>
+<div id='textA6' class='textService' style='display:none'>Cele VR</div>
+<div id='textA7' class='textService' style='display:none'>Etapy VR</div>
 
-<div id='textA8' class='textService' style='display:none'>Przykłady automatyzacji procesów w firmie</div>
+<div id='textA8' class='textService' style='display:none'>Przykłady VR</div>
 <div id='textA9' class='textService' style='display:none'>Kontakt</div>
-<div id='textA10' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA11' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA12' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA13' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA14' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA15' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
+<div id='textA10' class='textService' style='display:none'>Wirtualna rzeczywistość, VR</div>
+<div id='textA11' class='textService' style='display:none'>Wirtualna rzeczywistość, VR</div>
+<div id='textA12' class='textService' style='display:none'>Wirtualna rzeczywistość, VR</div>
+<div id='textA13' class='textService' style='display:none'>Wirtualna rzeczywistość, VR</div>
+<div id='textA14' class='textService' style='display:none'>Wirtualna rzeczywistość, VR</div>
+<div id='textA15' class='textService' style='display:none'>Wirtualna rzeczywistość, VR</div>
 
 </td>
 
@@ -188,21 +188,9 @@ Kontakt
 <div class='content' >
 <?php
 
-if (isset($_GET["doswiadczenie"])) {
-include('doswiadczenie.php');
-}else if (isset($_GET["zastosowanie"])) {
-include('zastosowanie.php');
-}else if (isset($_GET["cele"])) {
-include('cele.php');
-}else if (isset($_GET["etapy"])) {
-include('etapy.php');
-}else if (isset($_GET["przyklady"])) {
-include('przyklady.php');
-}else if (isset($_GET["kontakt"])) {
-include ('../kontakt/kontakt_include_pc.php');
-} else{
-	include('glowna.php');
-}
+
+	include('content_pc.php');
+
 
 ?>
 </div>
@@ -238,11 +226,22 @@ Wszystkie usługi
 <tr>
 
 <td  class='pageFooter'  >
-	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLink' target="_blank">Ogólne warunki użytkowania strony</a>
+ <div id="generalTermsOfWebsiteIdPc" class='rodoLink'>Ogólne warunki użytkowania strony</div> 
+    <div id="generalTermsOfWebsiteContentIdPc" style="display: none; visibility: hidden" title=""> 
+      <?php
+	  include ('../../noindex/pl/warunki-uzytkowania/gt.php');
+	  ?>
+    </div> 
+   
 </td>
 
 <td  class='pageFooter'  >
-	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLink' target="_blank">Polityka prywatności i Cookies</a>
+ <div id="rodoLinkIdPc" class='rodoLink'>Polityka prywatności i Cookies</div> 
+    <div id="privayPolicyContentIdPc" title="" style="display: none; visibility: hidden" > 
+      <?php
+	  include ('../../noindex/pl/polityka-prywatnosci/pp.php');
+	  ?>
+    </div> 
 </td>
 
 <td  class='pageFooter' >
@@ -256,3 +255,5 @@ Wszystkie usługi
 </tr>
 
 </table>
+<script type='text/javascript' src= "../../noindex/pl/it/scripts/rodoPC.js"> 
+</script> 

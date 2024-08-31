@@ -54,17 +54,17 @@ E-mailing
 </tr>
 <tr class='tr_rowMobile' >
 <td  class=mainMobile >
-<a class='linkServiceMobile'  href='./strony-www/'  title='Tworzenie stron WWW'>
+<a class='linkServiceMobile'  href='./pozycjonowanie/'  title='Pozycjonowanie stron WWW'>
 
-Tworzenie stron<br>WWW
+Pozycjonowanie WWW
 
 </a>
 </td>
 
 <td class=mainMobile  >
-<a class='linkServiceMobile'  href='./pozycjonowanie-seo/' title='SEO, optymalizacja i pozycjonowanie www' >
+<a class='linkServiceMobile'  href='./seo-optymalizacja/'  title='SEO - optymalizacja WWW'>
 
-Pozycjonowanie WWW <br>SEO
+SEO<br>optymalizacja
 
 </a>
 </td>
@@ -117,7 +117,7 @@ Aplikacje 3D
 </a>
 </td>
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./rozwoj-utrzymanie-aplikacji/'  title='Utrzymanie, rozwój aplikacji'>
+<a class='linkServiceMobile'  href='./utrzymanie-rozwoj-aplikacji/'  title='Utrzymanie, rozwój aplikacji'>
 
 Utrzymanie i rozwój<br> aplikacji
 
@@ -144,33 +144,40 @@ Inne usługi
 
 </tr>
 
-<tr  >
 
-<td colspan='4' class='contentMobile'>
-<div class='contentMobile' >
-<?php
-include ('content_mobile.php');
-?>
-</div>
-</td>
-
-
-
-</tr>
 
 <tr>
 
 <td  class='pageFooterMobile'  >
-	<a href="..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLinkMobile' target="_blank">Ogólne warunki użytkowania strony</a>
+ <div id="generalTermsOfWebsiteIdMob" class='rodoLinkMobile'>Ogólne warunki użytkowania strony</div> 
+    <div id="generalTermsOfWebsiteContentIdMob" title="" style="display: none; visibility: hidden"> 
+      <?php
+	  include ('../noindex/pl/warunki-uzytkowania/gt.php');
+	  ?>
+    </div> 
+   
 </td>
 
 <td  class='pageFooterMobile'  >
-	<a href="..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
+ <div id="rodoLinkIdMob" class='rodoLinkMobile'>Polityka prywatności i Cookies</div> 
+    <div id="privayPolicyContentIdMob" title="" style="display: none; visibility: hidden" > 
+      <?php
+	  include ('../noindex/pl/polityka-prywatnosci/pp.php');
+	  ?>
+    </div> 
 </td>
 
+<td  class='pageFooter' >
 
+</td>
+
+<td  class='pageFooter' >
+
+</td>
 
 </tr>
 
 </table>
 </center>
+  <script type='text/javascript' src= "../noindex/pl/it/scripts/rodoMobile.js"> 
+  </script> 

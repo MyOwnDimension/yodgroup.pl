@@ -56,7 +56,7 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='?doswiadczenie'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w automatyzacji procesów w firmie'>
 
 Doświadczenie w<br>automatyzacji
 
@@ -65,7 +65,7 @@ Doświadczenie w<br>automatyzacji
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?zastosowanie'  title='Zastosowanie automatyzacji'>
+<a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie automatyzacji'>
 
 Zastosowanie<br>automatyzacji
 
@@ -75,7 +75,7 @@ Zastosowanie<br>automatyzacji
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?cele'  title='Cele automatyzacji procesów'>
+<a class='linkServiceMobile'  href='#cele_2'  title='Cele automatyzacji procesów'>
 
 Cele<br>automatyzacji
 
@@ -84,7 +84,7 @@ Cele<br>automatyzacji
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?etapy'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy automatyzacji procesów biznesowcyh'>
 
 Etapy<br>automatyzacji
 
@@ -96,14 +96,14 @@ Etapy<br>automatyzacji
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?przyklady'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady automatyzacji w biznesie'>
 
 Przykłady <br>automatyzacji
 
 </a>
 </td>
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='?kontakt'  title='Kontakt'>
+<a class='linkServiceMobile'  href='#kontakt_2'  title='Kontakt'>
 
 Kontakt
 
@@ -141,21 +141,7 @@ Kontakt
 <div class='contentMobile' >
 <?php
 
-if (isset($_GET["doswiadczenie"])) {
-include('doswiadczenie.php');
-} else if (isset($_GET["zastosowanie"])) {
-include('zastosowanie.php');
-}else if (isset($_GET["cele"])) {
-include('cele.php');
-}else if (isset($_GET["etapy"])) {
-include('etapy.php');
-}else if (isset($_GET["przyklady"])) {
-include('przyklady.php');
-}else if (isset($_GET["kontakt"])) {
-include ('../kontakt/kontakt_include_mobile.php');
-} else{
-	include('glowna.php');
-}
+include('content_mobile.php');
 
 ?>
 </div>
@@ -198,11 +184,21 @@ Wszystkie usługi
 <tr>
 
 <td  class='pageFooterMobile'  >
-	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLinkMobile' target="_blank">Ogólne warunki użytkowania strony</a>
+ <div id="generalTermsOfWebsiteIdMob" class='rodoLink'>Ogólne warunki użytkowania strony</div> 
+    <div id="generalTermsOfWebsiteContentIdMob" style="display: none; visibility: hidden" title=""> 
+      <?php
+	  include ('../../noindex/pl/warunki-uzytkowania/gt.php');
+	  ?>
+    </div> 
 </td>
 
 <td  class='pageFooterMobile'  >
-	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
+ <div id="rodoLinkIdMob" class='rodoLink'>Polityka prywatności i Cookies</div> 
+    <div id="privayPolicyContentIdMob" title="" style="display: none; visibility: hidden" > 
+      <?php
+	  include ('../../noindex/pl/polityka-prywatnosci/pp.php');
+	  ?>
+    </div> 
 </td>
 
 
@@ -210,3 +206,5 @@ Wszystkie usługi
 </tr>
 
 </table>
+<script type='text/javascript' src= "../../noindex/pl/it/scripts/rodoMobile.js"> 
+</script> 

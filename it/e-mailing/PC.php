@@ -62,7 +62,7 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='?doswiadczenie'  title='Doświadczenie w e-mailingu'>
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w e-mailingu'>
 
 Doświadczenie w<br>e-mailing
 
@@ -71,7 +71,7 @@ Doświadczenie w<br>e-mailing
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='?zastosowanie'  title='Zastosowanie e-mailingu'>
+<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie e-mailingu'>
 
 Zastosowanie<br>e-mailingu
 
@@ -80,7 +80,7 @@ Zastosowanie<br>e-mailingu
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='?cele'  title='Cele e-mailingu'>
+<a class='linkService'  href='#cele_1'  title='Cele e-mailingu'>
 
 Cele<br>e-mailingu
 
@@ -89,7 +89,7 @@ Cele<br>e-mailingu
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='?etapy'  title='Etapy e-mailingu'>
+<a class='linkService'  href='#etapy_1'  title='Etapy e-mailingu'>
 
 Etapy<br>e-mailingu
 
@@ -101,14 +101,14 @@ Etapy<br>e-mailingu
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='?przyklady'  title='Przykłady e-mailingu'>
+<a class='linkService'  href='#przyklady_1'  title='Przykłady e-mailingu'>
 
 Przykłady <br>e-mailingu
 
 </a>
 </td>
 <td id='linkA9' class='mainNormal' >
-<a class='linkService'  href='?kontakt'  title='Kontakt'>
+<a class='linkService'  href='#kontakt_1'  title='Kontakt'>
 
 Kontakt
 
@@ -188,35 +188,9 @@ Kontakt
 <div class='content' >
 <?php
 
-if (isset($_GET["doswiadczenie"])) {
-$doswiadczenie = stripslashes($_GET["doswiadczenie"]);
 
-include('doswiadczenie.php');
-} 
+	include('content_pc.php');
 
-else if (isset($_GET["zastosowanie"])) {
-$zastosowanie = stripslashes($_GET["zastosowanie"]);
-
-include('zastosowanie.php');
-}else if (isset($_GET["cele"])) {
-$cele = stripslashes($_GET["cele"]);
-
-include('cele.php');
-}else if (isset($_GET["etapy"])) {
-$etapy = stripslashes($_GET["etapy"]);
-
-include('etapy.php');
-}else if (isset($_GET["przyklady"])) {
-$przyklady = stripslashes($_GET["przyklady"]);
-
-include('przyklady.php');
-}else if (isset($_GET["kontakt"])) {
-$kontakt = stripslashes($_GET["kontakt"]);
-
-include ('../kontakt/kontakt_include_pc.php');
-} else{
-	include('glowna.php');
-}
 
 ?>
 </div>
@@ -252,11 +226,22 @@ Wszystkie usługi
 <tr>
 
 <td  class='pageFooter'  >
-	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLink' target="_blank">Ogólne warunki użytkowania strony</a>
+ <div id="generalTermsOfWebsiteIdPc" class='rodoLink'>Ogólne warunki użytkowania strony</div> 
+    <div id="generalTermsOfWebsiteContentIdPc" style="display: none; visibility: hidden" title=""> 
+      <?php
+	  include ('../../noindex/pl/warunki-uzytkowania/gt.php');
+	  ?>
+    </div> 
+   
 </td>
 
 <td  class='pageFooter'  >
-	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLink' target="_blank">Polityka prywatności i Cookies</a>
+ <div id="rodoLinkIdPc" class='rodoLink'>Polityka prywatności i Cookies</div> 
+    <div id="privayPolicyContentIdPc" title="" style="display: none; visibility: hidden" > 
+      <?php
+	  include ('../../noindex/pl/polityka-prywatnosci/pp.php');
+	  ?>
+    </div> 
 </td>
 
 <td  class='pageFooter' >
@@ -270,3 +255,5 @@ Wszystkie usługi
 </tr>
 
 </table>
+<script type='text/javascript' src= "../../noindex/pl/it/scripts/rodoPC.js"> 
+</script> 

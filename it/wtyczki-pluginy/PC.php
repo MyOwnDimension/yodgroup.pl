@@ -62,7 +62,7 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='?doswiadczenie'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w automatyzacji procesów w firmie'>
 
 Doświadczenie,<br>wtyczki (pluginy)
 
@@ -71,7 +71,7 @@ Doświadczenie,<br>wtyczki (pluginy)
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='?wtyczki'  title='Zastosowanie automatyzacji'>
+<a class='linkService'  href='#wtyczki_1'  title='Zastosowanie automatyzacji'>
 
 Wtyczki, dodatki
 
@@ -79,7 +79,7 @@ Wtyczki, dodatki
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='?zastosowanie'  title='Zastosowanie automatyzacji'>
+<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie automatyzacji'>
 
 Zastosowanie<br>wtyczek
 
@@ -90,7 +90,7 @@ Zastosowanie<br>wtyczek
 
 <td id='linkA7' class='mainNormal'  >
 
-<a class='linkService'  href='?cele'  title='Cele automatyzacji procesów'>
+<a class='linkService'  href='#cele_1'  title='Cele automatyzacji procesów'>
 
 Cele<br>pluginów
 
@@ -103,7 +103,7 @@ Cele<br>pluginów
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='?etapy'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkService'  href='#etapy_1'  title='Etapy automatyzacji procesów biznesowcyh'>
 
 Etapy tworzenia<br>pluginów
 
@@ -111,7 +111,7 @@ Etapy tworzenia<br>pluginów
 
 </td>
 <td id='linkA9' class='mainNormal' >
-<a class='linkService'  href='?przyklady'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkService'  href='#przyklady_1'  title='Przykłady automatyzacji w biznesie'>
 
 Przykłady <br>wtyczek (pluginów)
 
@@ -119,7 +119,7 @@ Przykłady <br>wtyczek (pluginów)
 
 </td>
 <td id='linkA10' class='mainNormal' >
-<a class='linkService'  href='?kontakt'  title='Kontakt'>
+<a class='linkService'  href='#kontakt_1'  title='Kontakt'>
 
 Kontakt
 
@@ -194,23 +194,9 @@ Kontakt
 <div class='content' >
 <?php
 
-if (isset($_GET["doswiadczenie"])) {
-include('doswiadczenie.php');
-}else if (isset($_GET["wtyczki"])) {
-include('wtyczki-pluginy.php');
-}else if (isset($_GET["zastosowanie"])) {
-include('zastosowanie.php');
-}else if (isset($_GET["cele"])) {
-include('cele.php');
-}else if (isset($_GET["etapy"])) {
-include('etapy.php');
-}else if (isset($_GET["przyklady"])) {
-include('przyklady.php');
-}else if (isset($_GET["kontakt"])) {
-include ('../kontakt/kontakt_include_pc.php');
-}else{
-	include('glowna.php');
-}
+
+	include('content_pc.php');
+
 
 ?>
 </div>
@@ -246,11 +232,22 @@ Wszystkie usługi
 <tr>
 
 <td  class='pageFooter'  >
-	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLink' target="_blank">Ogólne warunki użytkowania strony</a>
+ <div id="generalTermsOfWebsiteIdPc" class='rodoLink'>Ogólne warunki użytkowania strony</div> 
+    <div id="generalTermsOfWebsiteContentIdPc" style="display: none; visibility: hidden" title=""> 
+      <?php
+	  include ('../../noindex/pl/warunki-uzytkowania/gt.php');
+	  ?>
+    </div> 
+   
 </td>
 
 <td  class='pageFooter'  >
-	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLink' target="_blank">Polityka prywatności i Cookies</a>
+ <div id="rodoLinkIdPc" class='rodoLink'>Polityka prywatności i Cookies</div> 
+    <div id="privayPolicyContentIdPc" title="" style="display: none; visibility: hidden" > 
+      <?php
+	  include ('../../noindex/pl/polityka-prywatnosci/pp.php');
+	  ?>
+    </div> 
 </td>
 
 <td  class='pageFooter' >
@@ -264,3 +261,5 @@ Wszystkie usługi
 </tr>
 
 </table>
+<script type='text/javascript' src= "../../noindex/pl/it/scripts/rodoPC.js"> 
+</script> 

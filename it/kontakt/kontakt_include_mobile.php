@@ -1,5 +1,5 @@
 
-<center><h4 id='kontakt_2' >Kontakt</h4></center>
+
 
 
 <script type="text/javascript" src= "../../noindex/pl/it/scripts/contact.js">
@@ -260,7 +260,12 @@ $messageStart="Proszę o kontakt \n\n";
 			</td>
 			
 			<td  align='center'>  	
-	<a href="..\..\noindex\pl\klauzula-informacyjna\ic.php" class='rodoLinkMobile' target="_blank">Klauzula informacyjna</a>
+ <div id="informationClauseIdMob" class='rodoLinkMobile'>Klauzula informacyjna</div> 
+    <div id="informationClauseContentIdMob" title="" style="display: none; visibility: hidden" > 
+      <?php
+	  include ('..\..\noindex\pl\klauzula-informacyjna\ic.php');
+	  ?>
+    </div> 		
 	</td>
 	<td  align='center'>  		
 			<button type="submit" name="send">&nbsp&nbsp Wyślij &nbsp&nbsp</button>
