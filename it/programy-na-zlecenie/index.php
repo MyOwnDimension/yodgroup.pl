@@ -11,15 +11,15 @@ echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?doswiadczeni
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 
-} else if (isset($_GET["etapy"])) {
+}else if (isset($_GET["cele"])) {
 echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?etapy" >'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?cele" >'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 
-}else if (isset($_GET["przyklady"])) {
+} else if (isset($_GET["etapy"])) {
 echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?przyklady" >'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?etapy" >'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 

@@ -64,34 +64,34 @@ PL
 <td id='linkA4' class='mainNormal' >
 <a class='linkService'  href='?doswiadczenie'  title='Doświadczenie w automatyzacji procesów w firmie'>
 
-Doświadczenie w<br>automatyzacji
+Doświadczenie w<br>tworzeniu stron
 
 </a>
 
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='?zastosowanie'  title='Zastosowanie automatyzacji'>
+<a class='linkService'  href='?etapy'  title='Etapy automatyzacji procesów biznesowcyh'>
 
-Zastosowanie<br>automatyzacji
+Etapy tworzenia<br>stron WWW
 
 </a>
 
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='?cele'  title='Cele automatyzacji procesów'>
+<a class='linkService'  href='?przyklady'  title='Przykłady automatyzacji w biznesie'>
 
-Cele<br>automatyzacji
+Przykłady<br>stron WWW
 
 </a>
 
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='?etapy'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkService'  href='?kontakt'  title='Kontakt'>
 
-Etapy<br>automatyzacji
+Kontakt
 
 </a>
 </td>
@@ -101,18 +101,14 @@ Etapy<br>automatyzacji
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='?przyklady'  title='Przykłady automatyzacji w biznesie'>
-
-Przykłady <br>automatyzacji
-
-</a>
+<div class='linkUnknown' >
+.....................
+</div>
 </td>
 <td id='linkA9' class='mainNormal' >
-<a class='linkService'  href='?kontakt'  title='Kontakt'>
-
-Kontakt
-
-</a>
+<div class='linkUnknown' >
+.....................
+</div>
 </td>
 <td id='linkA10' class='mainNormal' >
 <div class='linkUnknown' >
@@ -156,24 +152,24 @@ Kontakt
 <tr  >
 
 <td  colspan='4' class='contentDynamic'>
-<div id='textMain' class='textService' style='display:block'>Automatyzacja procesów w firmie</div>
+<div id='textMain' class='textService' style='display:block'>Tworzenie stron WWW</div>
 <div id='textA0' class='textService' style='display:none'></div>
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
 <div id='textA2' class='textService' style='display:none'></div>
 <div id='textA3' class='textService' style='display:none'></div>
-<div id='textA4' class='textService' style='display:none'>Doświadczenie w automatyzacji</div>
-<div id='textA5' class='textService' style='display:none'>Zastosowanie automatyzacji w firmie</div>
-<div id='textA6' class='textService' style='display:none'>Cele automatyzacji</div>
-<div id='textA7' class='textService' style='display:none'>Etapy automatyzacji</div>
+<div id='textA4' class='textService' style='display:none'>Doświadczenie w tworzeniu stron WWW</div>
+<div id='textA5' class='textService' style='display:none'>Etapy tworzenia stron WWW</div>
+<div id='textA6' class='textService' style='display:none'>Przykłady stron WWW</div>
+<div id='textA7' class='textService' style='display:none'>Kontakt</div>
 
-<div id='textA8' class='textService' style='display:none'>Przykłady automatyzacji procesów w firmie</div>
-<div id='textA9' class='textService' style='display:none'>Kontakt</div>
-<div id='textA10' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA11' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA12' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA13' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA14' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
-<div id='textA15' class='textService' style='display:none'>Automatyzacja procesów w firmie</div>
+<div id='textA8' class='textService' style='display:none'>Tworzenie stron WWW</div>
+<div id='textA9' class='textService' style='display:none'>Tworzenie stron WWW</div>
+<div id='textA10' class='textService' style='display:none'>Tworzenie stron WWW</div>
+<div id='textA11' class='textService' style='display:none'>Tworzenie stron WWW</div>
+<div id='textA12' class='textService' style='display:none'>Tworzenie stron WWW</div>
+<div id='textA13' class='textService' style='display:none'>Tworzenie stron WWW</div>
+<div id='textA14' class='textService' style='display:none'>Tworzenie stron WWW</div>
+<div id='textA15' class='textService' style='display:none'>Tworzenie stron WWW</div>
 
 </td>
 
@@ -189,16 +185,20 @@ Kontakt
 <?php
 
 if (isset($_GET["doswiadczenie"])) {
+$doswiadczenie = stripslashes($_GET["doswiadczenie"]);
+
 include('doswiadczenie.php');
-}else if (isset($_GET["zastosowanie"])) {
-include('zastosowanie.php');
-}else if (isset($_GET["cele"])) {
-include('cele.php');
-}else if (isset($_GET["etapy"])) {
+} else if (isset($_GET["etapy"])) {
+$etapy = stripslashes($_GET["etapy"]);
+
 include('etapy.php');
 }else if (isset($_GET["przyklady"])) {
+$przyklady = stripslashes($_GET["przyklady"]);
+
 include('przyklady.php');
 }else if (isset($_GET["kontakt"])) {
+$kontakt = stripslashes($_GET["kontakt"]);
+
 include ('../kontakt/kontakt_include_pc.php');
 } else{
 	include('glowna.php');

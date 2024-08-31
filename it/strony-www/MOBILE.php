@@ -58,16 +58,16 @@ PL
 <td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='?doswiadczenie'  title='Doświadczenie w automatyzacji procesów w firmie'>
 
-Doświadczenie w<br>automatyzacji
+Doświadczenie w<br>tworzeniu stron
 
 </a>
 
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?zastosowanie'  title='Zastosowanie automatyzacji'>
+<a class='linkServiceMobile'  href='?etapy'  title='Zastosowanie automatyzacji'>
 
-Zastosowanie<br>automatyzacji
+Etapy tworzenia<br>stron WWW
 
 </a>
 
@@ -75,39 +75,35 @@ Zastosowanie<br>automatyzacji
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?cele'  title='Cele automatyzacji procesów'>
+<a class='linkServiceMobile'  href='?przyklady'  title='Cele automatyzacji procesów'>
 
-Cele<br>automatyzacji
+Przykłady<br>stron WWW
 
 </a>
 
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?etapy'  title='Etapy automatyzacji procesów biznesowcyh'>
-
-Etapy<br>automatyzacji
-
-</a>
-</td>
-
-</tr>
-
-<tr class='mainNormalMobile' >
-
-<td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?przyklady'  title='Przykłady automatyzacji w biznesie'>
-
-Przykłady <br>automatyzacji
-
-</a>
-</td>
-<td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='?kontakt'  title='Kontakt'>
+<a class='linkServiceMobile'  href='?kontakt'  title='Etapy automatyzacji procesów biznesowcyh'>
 
 Kontakt
 
 </a>
+</td>
+
+</tr>
+
+<tr class='mainNormalMobile' >
+
+<td class='mainNormalMobile'  >
+<div class='linkUnknownMobile' >
+.....................
+</div>
+</td>
+<td class='mainNormalMobile' >
+<div class='linkUnknownMobile' >
+.....................
+</div>
 </td>
 </tr>
 <tr class='mainNormalMobile' >
@@ -142,16 +138,16 @@ Kontakt
 <?php
 
 if (isset($_GET["doswiadczenie"])) {
+
 include('doswiadczenie.php');
-} else if (isset($_GET["zastosowanie"])) {
-include('zastosowanie.php');
-}else if (isset($_GET["cele"])) {
-include('cele.php');
-}else if (isset($_GET["etapy"])) {
+} else if (isset($_GET["etapy"])) {
+
 include('etapy.php');
 }else if (isset($_GET["przyklady"])) {
+
 include('przyklady.php');
 }else if (isset($_GET["kontakt"])) {
+
 include ('../kontakt/kontakt_include_mobile.php');
 } else{
 	include('glowna.php');

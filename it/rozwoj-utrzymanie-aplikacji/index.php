@@ -7,31 +7,19 @@
 
 if (isset($_GET["doswiadczenie"])) {
 echo '<TITLE>Doświadczeni w automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?doswiadczenie" >'."\r\n";
-echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
-echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
-
-} else if (isset($_GET["etapy"])) {
-echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?etapy" >'."\r\n";
-echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
-echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
-
-}else if (isset($_GET["przyklady"])) {
-echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?przyklady" >'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/rozwoj-utrzymanie-aplikacji/?doswiadczenie" >'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 
 }else if (isset($_GET["kontakt"])) {
 echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/?kontakt" >'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/rozwoj-utrzymanie-aplikacji/?kontakt" >'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 
 } else{
 echo '<TITLE>Automatyzacja procesów w firmie - Yod Group</TITLE>'."\r\n";
-echo '<link rel="canonical" href="http://yodgroup.pl/it/strony-www/" >'."\r\n";
+echo '<link rel="canonical" href="http://yodgroup.pl/it/rozwoj-utrzymanie-aplikacji/" >'."\r\n";
 echo '<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">'."\r\n";
 echo '<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">'."\r\n";
 

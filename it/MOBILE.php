@@ -128,9 +128,9 @@ Utrzymanie i rozwój<br> aplikacji
 <tr class='tr_rowMobile' >
 
 <td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./marketing-internetowy/'  title='Marketing internetowy'>
+<a class='linkServiceMobile' href='./aplikacja-program/'  title='Marketing internetowy'>
 
-Marketing internetowy
+Aplikacje do<br>pobrania
 
 </a>
 </td>

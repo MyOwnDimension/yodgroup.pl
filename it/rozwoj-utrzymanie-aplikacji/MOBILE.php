@@ -58,56 +58,48 @@ PL
 <td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='?doswiadczenie'  title='Doświadczenie w automatyzacji procesów w firmie'>
 
-Doświadczenie w<br>automatyzacji
+Doświadczenie
 
 </a>
 
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?zastosowanie'  title='Zastosowanie automatyzacji'>
-
-Zastosowanie<br>automatyzacji
-
-</a>
-
-</td>
-</tr>
-<tr class='mainNormalMobile' >
-<td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?cele'  title='Cele automatyzacji procesów'>
-
-Cele<br>automatyzacji
-
-</a>
-
-</td>
-
-<td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?etapy'  title='Etapy automatyzacji procesów biznesowcyh'>
-
-Etapy<br>automatyzacji
-
-</a>
-</td>
-
-</tr>
-
-<tr class='mainNormalMobile' >
-
-<td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='?przyklady'  title='Przykłady automatyzacji w biznesie'>
-
-Przykłady <br>automatyzacji
-
-</a>
-</td>
-<td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='?kontakt'  title='Kontakt'>
 
 Kontakt
 
 </a>
+
+</td>
+</tr>
+<tr class='mainNormalMobile' >
+<td class='mainNormalMobile'  >
+<div class='linkUnknownMobile' >
+.....................
+</div>
+
+</td>
+
+<td class='mainNormalMobile'  >
+<div class='linkUnknownMobile' >
+.....................
+</div>
+</td>
+
+</tr>
+
+<tr class='mainNormalMobile' >
+
+<td class='mainNormalMobile'  >
+<div class='linkUnknownMobile' >
+.....................
+</div>
+</td>
+<td class='mainNormalMobile' >
+<div class='linkUnknownMobile' >
+.....................
+</div>
 </td>
 </tr>
 <tr class='mainNormalMobile' >

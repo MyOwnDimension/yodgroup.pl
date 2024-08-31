@@ -150,9 +150,9 @@ Utrzymanie i rozwój<br> aplikacji
 </td>
 
 <td id='linkA14' class='mainNormal' >
-<a class='linkService'  href='./marketing-internetowy/'  title='Marketing internetowy'>
+<a class='linkService'  href='./aplikacja-program/'  title='Aplikacje ,programy do pobrania'>
 
-Marketing internetowy
+Aplikacje do<br>pobrania
 
 </a>
 </td>
