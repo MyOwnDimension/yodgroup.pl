@@ -62,20 +62,21 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w tworzeniu wtyczek, pluginów, rozszerzeń aplikacji'>
+<a class='linkService'  href='#co_to_1'  title='Czym są wtyczki, pluginy, rozszerzenia aplikacji'>
 
-Doświadczenie,<br>wtyczki (pluginy)
+Wtyczki, dodatki
 
 </a>
 
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='#wtyczki_1'  title='Czym są wtyczki, pluginy, rozszerzenia aplikacji'>
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w tworzeniu wtyczek, pluginów, rozszerzeń aplikacji'>
 
-Wtyczki, dodatki
+Doświadczenie,<br>wtyczki (pluginy)
 
 </a>
+
 </td>
 
 <td id='linkA6' class='mainNormal'  >
@@ -167,8 +168,9 @@ Kontakt
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
 <div id='textA2' class='textService' style='display:none'></div>
 <div id='textA3' class='textService' style='display:none'></div>
-<div id='textA4' class='textService' style='display:none'>Doświadczenie w tworzeniu wtyczek (pluginów), dodatków</div>
-<div id='textA5' class='textService' style='display:none'>Czym są wtyczki (pluginy), doadatki do programów</div>
+<div id='textA4' class='textService' style='display:none'>Czym są wtyczki (pluginy), doadatki do programów</div>
+<div id='textA5' class='textService' style='display:none'>Doświadczenie w tworzeniu wtyczek (pluginów), dodatków</div>
+
 <div id='textA6' class='textService' style='display:none'>Zastosowanie wtyczek (pluginów) , dodatków do programów</div>
 <div id='textA7' class='textService' style='display:none'>Cele wtyczek (pluginów), dodatków do programów</div>
 <div id='textA8' class='textService' style='display:none'>Etapy tworzenia wtyczek i dodatków</div>

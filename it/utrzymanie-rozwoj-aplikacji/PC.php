@@ -62,15 +62,25 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w utrzymaniu i rozwoju aplikacji'>
+<a class='linkService'  href='#co_to_1'  title='Czym jest utrzymanie aplikacji'>
 
-Doświadczenie w<br> utrzymaniu i rozwoju
+Czym jest<br>utrzymanie aplikacji
 
 </a>
 
 </td>
 
 <td id='linkA5' class='mainNormal'  >
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w utrzymaniu i rozwoju aplikacji'>
+
+Doświadczenie w<br> utrzymaniu i rozwoju
+
+</a>
+
+
+</td>
+
+<td id='linkA6' class='mainNormal'  >
 <a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie utrzymania i rozwoju aplikacji'>
 
 Zastosowanie<br>
@@ -79,20 +89,13 @@ Zastosowanie<br>
 
 </td>
 
-<td id='linkA6' class='mainNormal'  >
+<td id='linkA7' class='mainNormal'  >
 <a class='linkService'  href='#cele_1'  title='Cele utrzymania i rozwoju aplikacji'>
 
 Cele<br>
 </a>
 
-</td>
 
-<td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='#etapy_1'  title='Etapy utrzymania i rozwoju aplikacji'>
-
-Etapy<br>utrzymania i rozwoju
-
-</a>
 </td>
 
 </tr>
@@ -100,16 +103,19 @@ Etapy<br>utrzymania i rozwoju
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
+<a class='linkService'  href='#etapy_1'  title='Etapy utrzymania i rozwoju aplikacji'>
+
+Etapy<br>utrzymania i rozwoju
+
+</a>
+
+</td>
+<td id='linkA9' class='mainNormal' >
 <a class='linkService'  href='#kontakt_1'  title='Kontakt'>
 
 Kontakt
 
 </a>
-</td>
-<td id='linkA9' class='mainNormal' >
-<div class='linkUnknown' >
-.....................
-</div>
 </td>
 <td id='linkA10' class='mainNormal' >
 <div class='linkUnknown' >
@@ -158,13 +164,13 @@ Kontakt
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
 <div id='textA2' class='textService' style='display:none'></div>
 <div id='textA3' class='textService' style='display:none'></div>
-<div id='textA4' class='textService' style='display:none'>Doświadczenie w rozwoju i utrzymaniu aplikacji</div>
-<div id='textA5' class='textService' style='display:none'>Kontakt</div>
-<div id='textA6' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>
-<div id='textA7' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>
+<div id='textA4' class='textService' style='display:none'>Czy jest utrzymanie i rozwój aplikacji</div>
+<div id='textA5' class='textService' style='display:none'>Doświadczenie w rozwoju i utrzymaniu aplikacji</div>
+<div id='textA6' class='textService' style='display:none'>Zastosowanie</div>
+<div id='textA7' class='textService' style='display:none'>Cele utrzymania aplikacji</div>
+<div id='textA8' class='textService' style='display:none'>Etapy utrzymania aplikacji</div>
 
-<div id='textA8' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>
-<div id='textA9' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>
+<div id='textA9' class='textService' style='display:none'>Kontakt</div>
 <div id='textA10' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>
 <div id='textA11' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>
 <div id='textA12' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>

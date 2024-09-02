@@ -103,7 +103,7 @@ Programy<br>na zlecenie
 
 
 <div id='textA4' class='textService' style='display:none'>Automatyzacja procesów w firmie pozwala między innymi:<br> przyspieszyć proces,<br> zredukować koszty,<br> zmniejszyć możliwość błędu<br><br></div>
-<div id='textA5' class='textService' style='display:none'>Skuteczny e-maling:<br> <br><br></div>
+<div id='textA5' class='textService' style='display:none'>Skuteczny e-maling<br> <br><br></div>
 
 
 <div id='textA6' class='textService' style='display:none'>Usługi pozycjonowania WWW <br>Jesteśmy w tym najlepsi </div>

@@ -1,3 +1,9 @@
+<center><h3 id='co_to_2'>Czym jest automatyzacja</h3></center>
+Automatyzacja to proces mający na celu przenieść szereg działań wykonywanych przez pracownika, na narzędzie komputerowe działające automatycznie.<br>
+
+<br><br>
+
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <center><h3 id='doswiadczenie_2'>Doświadczenie w automatyzacji</h3></center>
 Wiele lat doświadczenia we współpracy z firmami sprzedażowymi z sektora największych marek luksusowych,<br>
 pozwoliło nam poznać:<br>

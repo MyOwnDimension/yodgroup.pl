@@ -56,14 +56,26 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
+<a class='linkServiceMobile'  href='#co_to_2'  title='Czym jest wirtualna rzeczywistość, VR'>
+
+Czym jest<br>wirtualna rzeczywistość
+
+</a>
+
+
+</td>
+
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w wirtualnej rzeczywistości, VR'>
 
 Doświadczenie w<br>VR
 
 </a>
 
-</td>
 
+</td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie wirtualnej rzeczywistości, VR'>
 
@@ -71,9 +83,9 @@ Zastosowanie<br>VR
 
 </a>
 
+
 </td>
-</tr>
-<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#cele_2'  title='Cele wirtualnej rzeczywistości, VR'>
 
@@ -83,38 +95,34 @@ Cele<br>VR
 
 </td>
 
+</tr>
+
+<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#etapy_2'  title='Etapy tworzenia wirtualnej rzeczywistości, VR'>
 
 Etapy tworzenia<br>VR
 
 </a>
+
 </td>
-
-</tr>
-
-<tr class='mainNormalMobile' >
-
-<td class='mainNormalMobile'  >
+<td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady tworzenia wirtualnej rzeczywistości, VR'>
 
 Przykłady<br>VR
 
 </a>
+
 </td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='#kontakt_2'  title='Kontakt'>
 
 Kontakt
 
 </a>
-</td>
-</tr>
-<tr class='mainNormalMobile' >
-<td class='mainNormalMobile' >
-<div class='linkUnknownMobile' >
-.....................
-</div>
 </td>
 
 <td class='mainNormalMobile' >

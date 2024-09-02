@@ -62,24 +62,35 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w tworzeniu programów na zlecenie'>
+<a class='linkService'  href='#co_to_1'  title='Czym sa programy na zlecenie'>
 
-Doświadczenie
+Czym są<br>programy na zlecenie
 
 </a>
 
 </td>
 
 <td id='linkA5' class='mainNormal'  >
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w tworzeniu programów na zlecenie'>
+
+Doświadczenie
+
+</a>
+
+
+</td>
+
+<td id='linkA6' class='mainNormal'  >
 <a class='linkService'  href='#cele_1'  title='Cele tworzenia programów na zlecenie'>
 
 Cel aplikacji<br>na zlecenie
 
 </a>
 
+
 </td>
 
-<td id='linkA6' class='mainNormal'  >
+<td id='linkA7' class='mainNormal'  >
 <a class='linkService'  href='#etapy_1'  title='Etapy tworzenia programów na zlecenie'>
 
 Etapy<br>tworzenia
@@ -88,22 +99,16 @@ Etapy<br>tworzenia
 
 </td>
 
-<td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='#kontakt_1'  title='Kontakt'>
-
-Kontakt
-
-</a>
-</td>
-
 </tr>
 
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<div class='linkUnknown' >
-.....................
-</div>
+<a class='linkService'  href='#kontakt_1'  title='Kontakt'>
+
+Kontakt
+
+</a>
 </td>
 <td id='linkA9' class='mainNormal' >
 <div class='linkUnknown' >
@@ -157,12 +162,12 @@ Kontakt
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
 <div id='textA2' class='textService' style='display:none'></div>
 <div id='textA3' class='textService' style='display:none'></div>
-<div id='textA4' class='textService' style='display:none'>Doświadczenie w tworzeniu aplikacji na zlecenie</div>
-<div id='textA5' class='textService' style='display:none'>Cele tworzenia aplikacji na zlecenie</div>
-<div id='textA6' class='textService' style='display:none'>Etapy tworzenia programu na zlecenie</div>
-<div id='textA7' class='textService' style='display:none'>Kontakt</div>
+<div id='textA4' class='textService' style='display:none'>Czym są programy na zlecenie</div>
+<div id='textA5' class='textService' style='display:none'>Doświadczenie w tworzeniu aplikacji na zlecenie</div>
+<div id='textA6' class='textService' style='display:none'>Cele tworzenia aplikacji na zlecenie</div>
+<div id='textA7' class='textService' style='display:none'>Etapy tworzenia programu na zlecenie</div>
+<div id='textA8' class='textService' style='display:none'>Kontakt</div>
 
-<div id='textA8' class='textService' style='display:none'>Tworzenie programów na zlecenie</div>
 <div id='textA9' class='textService' style='display:none'>Tworzenie programów na zlecenie</div>
 <div id='textA10' class='textService' style='display:none'>Tworzenie programów na zlecenie</div>
 <div id='textA11' class='textService' style='display:none'>Tworzenie programów na zlecenie</div>

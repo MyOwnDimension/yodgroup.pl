@@ -80,7 +80,7 @@ if (isset($_POST["reset"])) {
     $frommobile1 = "";
     $subject1 = "";
     $message1 = "";
-} elseif (isset($_POST["send"])) {
+} elseif (isset($_POST["sendMobile"])) {
     // echo '<h2>send</h2>';
 $messageStart="Proszę o kontakt \n\n";
 
@@ -290,7 +290,7 @@ $messageStart="Proszę o kontakt \n\n";
 			
 
 	<td  align='center'>  		
-			<button type="submit" name="send" style="font-family: 'Verdana'; font-size: 35px;" >&nbsp&nbsp Wyślij &nbsp&nbsp</button>
+			<button type="submit" name="sendMobile" style="font-family: 'Verdana'; font-size: 35px;" >&nbsp&nbsp Wyślij &nbsp&nbsp</button>
 			<br>
 			</td>
 			</tr>	

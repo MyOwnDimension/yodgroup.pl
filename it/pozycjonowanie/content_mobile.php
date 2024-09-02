@@ -1,3 +1,10 @@
+<center><h3 id='co_to_2'>Czym jest pozycjonowanie WWW</h3></center>
+Pozycjonowanie jest szeregiem procesów, mających na celu uzyskanie jak najwyższej pozycji Państwa strony w wynikach wyszukiwania w przeglądarce WWW, po konkrentych słowach kluczowych przez Państwa potencjalnych klientów.<br>
+<br><br>
+
+
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
+
 <center><h3 id='doswiadczenie_2'>Doświadczenie w pozycjonowaniu</h3></center>
 Doświadczenie w pozycjonowaniu stron WWW zdobyliśmy wśród wielu lat zgłębiania wiedzy na temat funkcjonowania wyszukiwarek internetowych oraz podczas pracy zawodowej w firmach w całym kraju.
 <br><br>

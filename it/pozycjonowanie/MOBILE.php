@@ -56,14 +56,25 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
+<a class='linkServiceMobile'  href='#co_to_2'  title='Czym jest pozycjonowanie'>
+
+Czym jest<br>pozycjonowanie
+
+</a>
+
+</td>
+
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w pozycjonownaiu'>
 
 Doświadczenie w<br>pozycjonownaiu
 
 </a>
 
-</td>
 
+</td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie pozycjonowania'>
 
@@ -71,9 +82,9 @@ Zastosowanie<br>pozycjonowania
 
 </a>
 
+
 </td>
-</tr>
-<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#cele_2'  title='Cele pozycjonowania'>
 
@@ -83,25 +94,29 @@ Cele<br>pozycjonowania
 
 </td>
 
+</tr>
+
+<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#etapy_2'  title='Etapy pozycjonowania'>
 
 Etapy<br>pozycjonowania
 
 </a>
+
 </td>
-
-</tr>
-
-<tr class='mainNormalMobile' >
-
-<td class='mainNormalMobile'  >
+<td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='#monitorowanie_2'  title='Monitorowanie efektów pozycjonowania'>
 
 Monitorowanie<br>pozycjonowania
 
 </a>
+
+
 </td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='#kontakt_2'  title='Kontakt'>
 
@@ -110,17 +125,9 @@ Kontakt
 </a>
 
 </td>
-</tr>
-<tr class='mainNormalMobile' >
-<td class='mainNormalMobile' >
-<div class='linkUnknown' >
-.....................
-</div>
-
-</td>
 
 <td class='mainNormalMobile' >
-<div class='linkUnknown' >
+<div class='linkUnknownMobile' >
 .....................
 </div>
 </td>

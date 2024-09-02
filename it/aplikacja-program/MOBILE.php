@@ -65,7 +65,7 @@ Aplikacje mobile<br>darmowe
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#mobilne_pay_2'  title='Aplikacje mobilne>
+<a class='linkServiceMobile'  href='#mobilne_pay_2'  title='Aplikacje mobilne'>
 
 Aplikacje mobile<br>płatne
 
@@ -103,7 +103,7 @@ Kontakt
 </a>
 </td>
 <td class='mainNormalMobile' >
-<div class='linkUnknown' >
+<div class='linkUnknownMobile' >
 .....................
 </div>
 
@@ -111,14 +111,14 @@ Kontakt
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile' >
-<div class='linkUnknown' >
+<div class='linkUnknownMobile' >
 .....................
 </div>
 
 </td>
 
 <td class='mainNormalMobile' >
-<div class='linkUnknown' >
+<div class='linkUnknownMobile' >
 .....................
 </div>
 </td>

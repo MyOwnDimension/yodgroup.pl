@@ -56,14 +56,25 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
+<a class='linkServiceMobile'  href='#co_to_2'  title='Co to automatyzacja procesów w firmie'>
+
+Czym jest<br>automatyzacja
+
+</a>
+
+</td>
+
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w automatyzacji procesów w firmie'>
 
 Doświadczenie w<br>automatyzacji
 
 </a>
 
-</td>
 
+</td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie automatyzacji'>
 
@@ -71,9 +82,9 @@ Zastosowanie<br>automatyzacji
 
 </a>
 
+
 </td>
-</tr>
-<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#cele_2'  title='Cele automatyzacji procesów'>
 
@@ -83,38 +94,34 @@ Cele<br>automatyzacji
 
 </td>
 
+</tr>
+
+<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#etapy_2'  title='Etapy automatyzacji procesów biznesowcyh'>
 
 Etapy<br>automatyzacji
 
 </a>
+
 </td>
-
-</tr>
-
-<tr class='mainNormalMobile' >
-
-<td class='mainNormalMobile'  >
+<td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady automatyzacji w biznesie'>
 
 Przykłady <br>automatyzacji
 
 </a>
+
 </td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='#kontakt_2'  title='Kontakt'>
 
 Kontakt
 
 </a>
-</td>
-</tr>
-<tr class='mainNormalMobile' >
-<td class='mainNormalMobile' >
-<div class='linkUnknownMobile' >
-.....................
-</div>
 </td>
 
 <td class='mainNormalMobile' >

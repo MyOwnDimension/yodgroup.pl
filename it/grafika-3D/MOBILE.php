@@ -56,14 +56,26 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
+<a class='linkServiceMobile'  href='#co_to_2'  title='Czym jest grafika 3D'>
+
+Czym jest<br>grafika 3D
+
+</a>
+
+
+</td>
+
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w grafice 3D'>
 
 Doświadczenie w<br>grafice 3D
 
 </a>
 
-</td>
 
+</td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie grafiki 3D'>
 
@@ -71,9 +83,9 @@ Zastosowanie<br>grafiki 3D
 
 </a>
 
+
 </td>
-</tr>
-<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#cele_2'  title='Cele grafiki 3D'>
 
@@ -83,38 +95,34 @@ Cele<br>grafiki 3D
 
 </td>
 
+</tr>
+
+<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#etapy_2'  title='Etapy tworzenia grafiki 3D'>
 
 Etapy tworzenia<br>grafiki 3D
 
 </a>
+
 </td>
-
-</tr>
-
-<tr class='mainNormalMobile' >
-
-<td class='mainNormalMobile'  >
+<td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady grafiki 3D'>
 
 Przykłady <br>grafiki 3D
 
 </a>
+
 </td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='#kontakt_2'  title='Kontakt'>
 
 Kontakt
 
 </a>
-</td>
-</tr>
-<tr class='mainNormalMobile' >
-<td class='mainNormalMobile' >
-<div class='linkUnknownMobile' >
-.....................
-</div>
 </td>
 
 <td class='mainNormalMobile' >

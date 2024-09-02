@@ -56,14 +56,26 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
+<a class='linkServiceMobile'  href='#co_to_2'  title='Czym są aplikacje 3D'>
+
+Czym są<br>aplikacje 3D
+
+</a>
+
+
+</td>
+
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczeni w tworzeniu aplikacji 3D'>
 
 Doświadczenie w<br>aplikacjach 3D
 
 </a>
 
-</td>
 
+</td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie aplikacji 3D'>
 
@@ -71,9 +83,9 @@ Zastosowanie<br>aplikacji 3D
 
 </a>
 
+
 </td>
-</tr>
-<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#cele_2'  title='Cele aplikacji 3D'>
 
@@ -83,38 +95,34 @@ Cele<br>aplikacji 3D
 
 </td>
 
-<td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy tworzenia aplikacji 3D>
-
-Etapy tworzenia<br>aplikacji 3D
-
-</a>
-</td>
-
 </tr>
 
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile'  >
+<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy tworzenia aplikacji 3D'>
+
+Etapy tworzenia<br>aplikacji 3D
+
+</a>
+
+</td>
+<td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady aplikacji 3D'>
 
 Przykłady <br>aplikacji 3D
 
 </a>
+
 </td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='#kontakt_2'  title='Kontakt'>
 
 Kontakt
 
 </a>
-</td>
-</tr>
-<tr class='mainNormalMobile' >
-<td class='mainNormalMobile' >
-<div class='linkUnknownMobile' >
-.....................
-</div>
 </td>
 
 <td class='mainNormalMobile' >

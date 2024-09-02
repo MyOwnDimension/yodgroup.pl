@@ -56,14 +56,26 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
+<a class='linkServiceMobile'  href='#co_to_2'  title='Czym jest optymalizacja stron - SEO'>
+
+Czym jest SEO<br> optymalizacja
+
+</a>
+
+
+</td>
+
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w optymalizacji stron - SEO'>
 
 Doświadczenie w<br>SEO
 
 </a>
 
-</td>
 
+</td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie optymalizacji stron - SEO'>
 
@@ -71,9 +83,9 @@ Zastosowanie<br>SEO
 
 </a>
 
+
 </td>
-</tr>
-<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#cele_2'  title='Cele optymalizacji stron - SEO'>
 
@@ -83,42 +95,37 @@ Cele<br>optymalizacji WWW
 
 </td>
 
+</tr>
+
+<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#etapy_2'  title='Etapy optymalizacji stron - SEO'>
 
 Etapy<br>optymalizacji WWW
 
 </a>
+
 </td>
-
-</tr>
-
-<tr class='mainNormalMobile' >
-
-<td class='mainNormalMobile'  >
+<td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='#kontakt_2'  title='Kontakt'>
 
 Kontakt
 
 </a>
-</td>
-<td class='mainNormalMobile' >
-<div class='linkUnknown' >
-.....................
-</div>
 
 </td>
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile' >
-<div class='linkUnknown' >
+<div class='linkUnknownMobile' >
 .....................
 </div>
 
 </td>
 
 <td class='mainNormalMobile' >
-<div class='linkUnknown' >
+<div class='linkUnknownMobile' >
 .....................
 </div>
 </td>

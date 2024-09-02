@@ -57,18 +57,19 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w tworzeniu wtyczek, pluginów, rozszerzeń aplikacji'>
+<a class='linkServiceMobile'  href='#co_to_2'  title='Czym są wtyczki, pluginy, rozszerzenia aplikacji'>
 
-Doświadczenie,<br>wtyczki (pluginy)
+Wtyczki, dodatki
 
 </a>
+
 
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#wtyczki_2'  title='Czym są wtyczki, pluginy, rozszerzenia aplikacji'>
+<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w tworzeniu wtyczek, pluginów, rozszerzeń aplikacji'>
 
-Wtyczki, dodatki
+Doświadczenie,<br>wtyczki (pluginy)
 
 </a>
 

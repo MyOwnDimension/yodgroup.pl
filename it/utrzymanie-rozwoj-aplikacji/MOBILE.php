@@ -56,14 +56,26 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
+<a class='linkServiceMobile'  href='#co_to_2'  title='Czym jest utrzymanie aplikacji'>
+
+Czym jest<br>utrzymanie aplikacji
+
+</a>
+
+
+</td>
+
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w utrzymaniu i rozwoju aplikacji'>
 
 Doświadczenie w<br>utrzymaniu i rozwoju
 
 </a>
 
-</td>
 
+</td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie utrzymania i rozwoju aplikacji'>
 
@@ -71,9 +83,9 @@ Zastosowanie<br>
 
 </a>
 
+
 </td>
-</tr>
-<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#cele_2'  title='Cele utrzymania i rozwoju aplikacji'>
 
@@ -83,42 +95,37 @@ Cele<br>
 
 </td>
 
+</tr>
+
+<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#etapy_2'  title='Etapy utrzymania i rozwoju aplikacji'>
 
 Etapy<br>utrzymania i rozwoju
 
 </a>
+
 </td>
-
-</tr>
-
-<tr class='mainNormalMobile' >
-
-<td class='mainNormalMobile'  >
+<td class='mainNormalMobile' >
 <a class='linkServiceMobile'  href='#kontakt_2'  title='Kontakt'>
 
 Kontakt
 
 </a>
-</td>
-<td class='mainNormalMobile' >
-<div class='linkUnknown' >
-.....................
-</div>
 
 </td>
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile' >
-<div class='linkUnknown' >
+<div class='linkUnknownMobile' >
 .....................
 </div>
 
 </td>
 
 <td class='mainNormalMobile' >
-<div class='linkUnknown' >
+<div class='linkUnknownMobile' >
 .....................
 </div>
 </td>

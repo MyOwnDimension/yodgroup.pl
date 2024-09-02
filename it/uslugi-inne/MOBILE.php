@@ -102,7 +102,7 @@ Kontakt
 </a>
 </td>
 <td class='mainNormalMobile' >
-<div class='linkUnknown' >
+<div class='linkUnknownMobile' >
 .....................
 </div>
 
@@ -110,14 +110,14 @@ Kontakt
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile' >
-<div class='linkUnknown' >
+<div class='linkUnknownMobile' >
 .....................
 </div>
 
 </td>
 
 <td class='mainNormalMobile' >
-<div class='linkUnknown' >
+<div class='linkUnknownMobile' >
 .....................
 </div>
 </td>

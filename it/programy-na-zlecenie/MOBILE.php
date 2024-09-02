@@ -56,14 +56,26 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
+<a class='linkServiceMobile'  href='#co_to_2'  title='Czym sa programy na zlecenie'>
+
+Czym są<br>programy na zlecenie
+
+</a>
+
+
+</td>
+
+<td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w tworzeniu programów na zlecenie'>
 
 Doświadczenie
 
 </a>
 
-</td>
 
+</td>
+</tr>
+<tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#cele_2'  title='Cele tworzenia programów na zlecenie'>
 
@@ -71,9 +83,9 @@ Cel aplikacji<br>na zlecenie
 
 </a>
 
+
 </td>
-</tr>
-<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#etapy_2'  title='Etapy tworzenia programów na zlecenie'>
 
@@ -83,22 +95,16 @@ Etapy<br>tworzenia
 
 </td>
 
+</tr>
+
+<tr class='mainNormalMobile' >
+
 <td class='mainNormalMobile'  >
 <a class='linkServiceMobile'  href='#kontakt_2'  title='Kontakt'>
 
 Kontakt
 
 </a>
-</td>
-
-</tr>
-
-<tr class='mainNormalMobile' >
-
-<td class='mainNormalMobile'  >
-<div class='linkUnknownMobile' >
-.....................
-</div>
 </td>
 <td class='mainNormalMobile' >
 <div class='linkUnknownMobile' >

@@ -154,23 +154,23 @@ Kontakt
 <tr  >
 
 <td  colspan='4' class='contentDynamic'>
-<div id='textMain' class='textService' style='display:block'>SEO - optymalizacja WWW</div>
+<div id='textMain' class='textService' style='display:block'>Usługi</div>
 <div id='textA0' class='textService' style='display:none'></div>
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
 <div id='textA2' class='textService' style='display:none'></div>
 <div id='textA3' class='textService' style='display:none'></div>
-<div id='textA4' class='textService' style='display:none'>Doświadczenie w SEO</div>
-<div id='textA5' class='textService' style='display:none'>Zastosowanie SEO</div>
-<div id='textA6' class='textService' style='display:none'>Cele optymalizacji WWW</div>
-<div id='textA7' class='textService' style='display:none'>Etapy optymalizacji WWW</div>
-<div id='textA8' class='textService' style='display:none'>Kontakt</div>
-<div id='textA9' class='textService' style='display:none'>SEO - optymalizacja WWW</div>
-<div id='textA10' class='textService' style='display:none'>SEO - optymalizacja WWW</div>
-<div id='textA11' class='textService' style='display:none'>SEO - optymalizacja WWW</div>
-<div id='textA12' class='textService' style='display:none'>SEO - optymalizacja WWW</div>
-<div id='textA13' class='textService' style='display:none'>SEO - optymalizacja WWW</div>
-<div id='textA14' class='textService' style='display:none'>SEO - optymalizacja WWW</div>
-<div id='textA15' class='textService' style='display:none'>SEO - optymalizacja WWW</div>
+<div id='textA4' class='textService' style='display:none'>Usługi</div>
+<div id='textA5' class='textService' style='display:none'>Usługi</div>
+<div id='textA6' class='textService' style='display:none'>Usługi</div>
+<div id='textA7' class='textService' style='display:none'>Usługi</div>
+<div id='textA8' class='textService' style='display:none'>Usługi</div>
+<div id='textA9' class='textService' style='display:none'>Usługi</div>
+<div id='textA10' class='textService' style='display:none'>Usługi</div>
+<div id='textA11' class='textService' style='display:none'>Usługi</div>
+<div id='textA12' class='textService' style='display:none'>Usługi</div>
+<div id='textA13' class='textService' style='display:none'>Usługi</div>
+<div id='textA14' class='textService' style='display:none'>Usługi</div>
+<div id='textA15' class='textService' style='display:none'>Usługi</div>
 </td>
 
 
