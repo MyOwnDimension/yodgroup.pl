@@ -56,7 +56,7 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w wirtualnej rzeczywistości, VR'>
 
 Doświadczenie w<br>VR
 
@@ -65,7 +65,7 @@ Doświadczenie w<br>VR
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie automatyzacji'>
+<a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie wirtualnej rzeczywistości, VR'>
 
 Zastosowanie<br>VR
 
@@ -75,7 +75,7 @@ Zastosowanie<br>VR
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#cele_2'  title='Cele automatyzacji procesów'>
+<a class='linkServiceMobile'  href='#cele_2'  title='Cele wirtualnej rzeczywistości, VR'>
 
 Cele<br>VR
 
@@ -84,9 +84,9 @@ Cele<br>VR
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy tworzenia wirtualnej rzeczywistości, VR'>
 
-Etapy<br>VR
+Etapy tworzenia<br>VR
 
 </a>
 </td>
@@ -96,9 +96,9 @@ Etapy<br>VR
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady tworzenia wirtualnej rzeczywistości, VR'>
 
-Przykłady <br>VR
+Przykłady<br>VR
 
 </a>
 </td>
@@ -158,6 +158,7 @@ Kontakt
 
 <td colspan='2'  class='mainSmallerMobile'>
 <a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a>
+<br><br><br><br>
 </td>
 
 
@@ -186,10 +187,12 @@ Wszystkie usługi
 <tr>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br><br><br><br><br>
 	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLinkMobile' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br><br><br><br><br>
 	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 

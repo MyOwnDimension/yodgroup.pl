@@ -62,36 +62,36 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#monitorowanie_pozycjonowania_1'  title='Doświadczenie w pozycjonownaiu, SEO'>
+<a class='linkService'  href='#service_A_1'  title='Usługi IT, inne'>
 
-Monitorowanie<br>pozycjonowania WWW
+Usługi IT<br> inne
 
 </a>
 
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='#monitorowanie_www_1'  title='Zastosowanie pozycjonowania, SEO'>
+<a class='linkService'  href='#service_B_1'  title='Usługi IT, inne'>
 
-Monitorownaie<br>stron WWW
+Usługi IT<br> inne
 
 </a>
 
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='#pc_free_1'  title='Cele pozycjonowania'>
+<a class='linkService'  href='#service_C_1'  title='Usługi IT, inne'>
 
-xyz
+Usługi IT<br> inne
 
 </a>
 
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='#pc_pay_1'  title='Etapy pozycjonowania WWW'>
+<a class='linkService'  href='#service_D_1'  title='Usługi IT, inne'>
 
-xyz
+Usługi IT<br> inne
 
 </a>
 </td>

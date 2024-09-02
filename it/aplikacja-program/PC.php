@@ -62,7 +62,7 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#mobilne_free_1'  title='Doświadczenie w pozycjonownaiu, SEO'>
+<a class='linkService'  href='#mobilne_free_1'  title='Aplikacje mobilne'>
 
 Aplikacje mobile<br>darmowe
 
@@ -71,7 +71,7 @@ Aplikacje mobile<br>darmowe
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='#mobilne_pay_1'  title='Zastosowanie pozycjonowania, SEO'>
+<a class='linkService'  href='#mobilne_pay_1'  title='Aplikacje mobilne'>
 
 Aplikacje mobile<br>płatne
 
@@ -80,7 +80,7 @@ Aplikacje mobile<br>płatne
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='#pc_free_1'  title='Cele pozycjonowania'>
+<a class='linkService'  href='#pc_free_1'  title='Aplikacje PC'>
 
 Aplikacje PC<br>darmowe
 
@@ -89,7 +89,7 @@ Aplikacje PC<br>darmowe
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='#pc_pay_1'  title='Etapy pozycjonowania WWW'>
+<a class='linkService'  href='#pc_pay_1'  title='Aplikacje PC'>
 
 Aplikacje PC<br>płatne
 

@@ -4,8 +4,8 @@
 
 <TITLE>Utrzymanie i rozwój aplikacji - Yod Group</TITLE>
 <link rel="canonical" href="http://yodgroup.pl/it/utrzymanie-rozwoj-aplikacji/" >
-<meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">
-<meta name="description" content="Oferujemy automatyzację procesów w firmie za pomocą wyspecjalizowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">
+<meta name="keywords" content="zarządzanie, utrzymanie, aplikacja, rozwój , sklep online, narzędzie, application maintenance">
+<meta name="description" content="Oferujemy usługi utrzymania i rozwóju aplikacji. My zajmiemy się zarządzaniem i rozwojem narzędzia wykorzystywanego przez Państwa do prowadzenia biznesu, np: sklep online, narzędzia desktopowe">
 
 
 <meta name='robots' content='index,follow' >
@@ -13,7 +13,7 @@
 <meta name='Language' content='PL'>
 <meta name='Author' content='Yod Group'>
 <meta name='Revisit-after' content='7 days'>
-<link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/process_automation.css'>
+<link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/services_it.css'>
 <link rel='shortcut icon' href='../../images/YodGroup.ico'>
 <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
@@ -21,28 +21,30 @@
   <script type='text/javascript' src= "../../noindex/pl/it/scripts/jquery-ui-1.12.1.js"> 
   </script> 
   
-  <script type='text/javascript' src= "../../noindex/pl/it/scripts/process_automation.js"> 
+  <script type='text/javascript' src= "../../noindex/pl/it/scripts/services_it.js"> 
   </script> 
 
 </HEAD>
 
 <BODY>
+
 	<noscript>
       <div style="border: 1px solid purple; padding: 10px; text-align: center;">
         <span style="color:red; font-family: 'Arial', 'Verdana'; ">Brak włączonej JavyScript w przeglądarce ! Strona może działać nieprawidłowo !</span>
       </div>
-<div id="PC" style="  display: block; visibility: visible">
-<!--<h1>PC</H1>-->
-<?php
-include ('PC.php');
-?>
-</div>
+<style  type="text/css">
+div.PC {
+	 display: block;
+	  visibility: visible;
+}
+</style>
 	</noscript>
 <br>
 
 
 
-<div id="PC" style="  display: none; visibility: hidden">
+
+<div class="PC" id="PC" >
 <!--<h1>PC</H1>-->
 <?php
 include ('PC.php');
@@ -51,7 +53,7 @@ include ('PC.php');
 
 
 
-<div id="MOBILE" style="display: none; visibility: hidden">
+<div class="MOBILE" id="MOBILE" >
 <!--<h1>MOBILE</H1>-->
 
 <?php
@@ -67,14 +69,11 @@ include ('MOBILE.php');
 
 
 <br><br>
-<script type='text/javascript' src='../../noindex/pl/it/scripts/mainPcMobile.js'>
 
+<script type='text/javascript' src='../../noindex/pl/it/scripts/mainPcMobile.js'>
 </script>
+
 </BODY>
 
 
 </HTML>
-
-
-	
-	

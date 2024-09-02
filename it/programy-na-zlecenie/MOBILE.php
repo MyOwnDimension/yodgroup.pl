@@ -56,7 +56,7 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w tworzeniu programów na zlecenie'>
 
 Doświadczenie
 
@@ -65,7 +65,7 @@ Doświadczenie
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#cele_2'  title='Cele automatyzacji procesów'>
+<a class='linkServiceMobile'  href='#cele_2'  title='Cele tworzenia programów na zlecenie'>
 
 Cel aplikacji<br>na zlecenie
 
@@ -75,7 +75,7 @@ Cel aplikacji<br>na zlecenie
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy tworzenia programów na zlecenie'>
 
 Etapy<br>tworzenia
 
@@ -154,6 +154,7 @@ Kontakt
 
 <td colspan='2'  class='mainSmallerMobile'>
 <a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a>
+<br><br><br><br>
 </td>
 
 
@@ -182,10 +183,12 @@ Wszystkie usługi
 <tr>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br><br><br><br><br>
 	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLinkMobile' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br><br><br><br><br>
 	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 

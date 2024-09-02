@@ -9,11 +9,11 @@
 
 			<form action="./?kontakt#kontakt_2" method="post"> 
 			<center>
-			<table class="emailInfo">
+			<table class="emailInfoMobile">
 			<tr>
-			<td colspan="3">
+			<td colspan="2">
 		
-<div class="textService1">
+<div class="textService1Mobile">
 Zachęcamy do kontaktu
 <br>
 </div>
@@ -21,7 +21,7 @@ Zachęcamy do kontaktu
 			</tr>
 			
 									<tr>
-			<td colspan="3">
+			<td colspan="2">
 <?php
 
 
@@ -31,7 +31,7 @@ Zachęcamy do kontaktu
 			</tr>
 			
 						<tr>
-			<td colspan="3">
+			<td colspan="2">
 			
 			<!--
 <div class="textService">
@@ -41,18 +41,18 @@ Dodatkowo przez aplikacje: Whatsup, Signal, Telegram <br> <br>
 			</td>
 			</tr>
 			<tr>
-			<td colspan="3">
+			<td colspan="2">
 			<?php
 
 //echo "<img src='email1.png' alt='Email kontaktowy' style='width:220px;height:30px;'>";
 
-echo "<img src='../kontakt/img_emailContact.php' alt='Email Kontaktowy Yod Group' style='width:200px;height:110px;'>";
+echo "<img src='../kontakt/img_emailContact_mobile.php' alt='Email Kontaktowy Yod Group' style='width:500px;height:275px;'>";
 ?>
 			</td>
 			</tr>
 			
 			<tr>
-			<td colspan="3">
+			<td colspan="2">
 			<?php
 
 header("Content-Type: text/html; charset=utf-8");
@@ -85,15 +85,15 @@ if (isset($_POST["reset"])) {
 $messageStart="Proszę o kontakt \n\n";
 
 
-	// echo '<text class="emailInfo">Proszę wypełnić przynajmniej treść wiadomości i email kontaktowy lub telefon kontaktowy.s</text><br><br>';
+	// echo '<text class="emailInfoMobile">Proszę wypełnić przynajmniej treść wiadomości i email kontaktowy lub telefon kontaktowy.s</text><br><br>';
 //
 
 	if (strlen($message1)<1) {
-  echo '<text class="emailInfo">Proszę wypełnić przynajmniej treść wiadomości i email kontaktowy lub numer telefonu kontaktowego</text><br><br>';
+  echo '<text class="emailInfoMobile">Proszę wypełnić przynajmniej treść wiadomości i email kontaktowy lub numer telefonu kontaktowego</text><br><br>';
 
 	
 } elseif (strlen($fromemail1)<1 && strlen($frommobile1)<1) {
-    echo '<text class="emailInfo">Proszę podać adres email lub numer telefonu kontaktowego.</text><br><br>';
+    echo '<text class="emailInfoMobile">Proszę podać adres email lub numer telefonu kontaktowego.</text><br><br>';
 } else {
     //$message2 = 'Wiadomość wysłana ze strony rozwojfirmy.com \n\n'.$message1.'\n\n';
 	
@@ -214,14 +214,14 @@ $messageStart="Proszę o kontakt \n\n";
 
 
     if (mail($toemail1,"=?utf-8?b?" .  base64_encode($subject1) .  "?=" , $messageReady, $headers)) {
-        echo "<text  class='emailInfo' >Wiadomość została wysłana.</text><br><br>";
+        echo "<text  class='emailInfoMobile' >Wiadomość została wysłana.</text><br><br>";
         $fname1 = "";
         $fromemail1 = "";
         $frommobile1 = "";
         $subject1 = "";
         $message1 = "";
     } else {
-       echo "<text  class='emailInfo' >Wiadomość NIE została wysłana.</text><br><br>";
+       echo "<text  class='emailInfoMobile' >Wiadomość NIE została wysłana.</text><br><br>";
     }
 }
 } ?>
@@ -231,39 +231,66 @@ $messageStart="Proszę o kontakt \n\n";
 			
 			<tr class="emailTable" >
 			<td align='center'>  
+			<br>
 			<label for="inputNameMobile">Imię:</label><br>  
-			<input type="text" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Arial'; font-size: 16px; text-align: justify; font-weight: normal;" id="inputNameMobile" size ='25' name="fname"  value='<?php echo $fname1; ?>' >
-			</td>
+		</td>
 			<td align='center'>  
-			<label for="inputEmailMobile">Email kontaktowy:</label><br>  
-			<input type="text" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Arial'; font-size: 16px; text-align: justify; font-weight: normal;" id="inputEmailMobile" size ='25' name="fromemail"  value='<?php echo $fromemail1; ?>' >
-			</td>
-			<td align='center'>   
-			<label for="inputMobileMobile">Telefon kontaktowy:</label><br>  
-			<input type="text" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Arial'; font-size: 16px; text-align: justify; font-weight: normal;"  id="inputMobileMobile" size ='25' name="frommobile"   value='<?php echo $frommobile1; ?>'>
+			<br>
+				<input type="text" style="background-color: none; line-height: 5px;	color: #000000; font-family: 'Verdana'; font-size: 35px; text-align: justify; font-weight: normal;" id="inputNameMobile" size ='20' name="fname"  value='<?php echo $fname1; ?>' >
 			</td>
 			</tr>
-			<tr ><td colspan='3' align='center'>  
-			<label for="inputSubjectMobile">Temat:</label><br> 
-			<input type="text" size="84" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Arial'; font-size: 16px; text-align: justify; font-weight: normal;" id="inputSubjectMobile" maxlength="80" name="subject"   value='<?php echo $subject1; ?>'> 
+			<tr>
+			<td align='center'>  
+			<br>
+			<label for="inputEmailMobile">Email:</label><br>  
+		</td>
+			<td align='center'>   
+			<br>
+				<input type="text" style="background-color: none; line-height: 10px;	color: #000000; font-family: 'Verdana'; font-size: 35px; text-align: justify; font-weight: normal;" id="inputEmailMobile" size ='20' name="fromemail"  value='<?php echo $fromemail1; ?>' >
+			</td>
+			</tr>
+			<tr>
+			<td align='center'>  
+			<br>
+			<label for="inputMobileMobile">Telefon:</label><br>  
+		</td>
+		<td align='center'>  
+		<br>
+			<input type="text" style="background-color: none; line-height: 10px;	color: #000000; font-family: 'Verdana'; font-size: 35px; text-align: justify; font-weight: normal;"  id="inputMobileMobile" size ='20' name="frommobile"   value='<?php echo $frommobile1; ?>'>
+			</td>
+			
+			
+			</tr>
+			<tr ><td align='center'>  
+			<br>
+			<label for="inputSubjectMobile">Temat:</label>
+			</td>
+				<td align='center'>  
+				<br>
+			<input type="text" size="20" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Verdana'; font-size: 35px; text-align: justify; font-weight: normal;" id="inputSubjectMobile" maxlength="20" name="subject"   value='<?php echo $subject1; ?>'> 
 		
 			</td>
 			</tr>
-			<tr style="height: 240px" ><td colspan='3' align='center'>
+			<tr  ><td colspan='2' align='center'>
+			<br>
 			<label for="inputMessageMobile">Wiadomość:</label><br> 
-			<textarea id="inputMessageMobile" style="resize:none; background-color: none; color: #000000; font-family: 'Arial'; font-size: 16px; text-align: justify; font-weight: normal;" name="message"  cols="84" rows="12" ><?php echo $message1; ?></textarea>
+			<textarea id="inputMessageMobile" style="resize:none; background-color: none; color: #000000; font-family: 'Verdana'; font-size: 35px; text-align: justify; font-weight: normal;" name="message"  cols="34" rows="12" ><?php echo $message1; ?></textarea>
 			</td>
 			</tr>	
-			<tr class="emailTable">
-			<td align='center'>    
-			<button type="reset" name='reset'                style="background-color: none; color: black" onclick="resetFunction();">&nbsp&nbsp Wyczyść &nbsp&nbsp</button>
-			</td>
-			
-			<td  align='center'>  	
+			<tr style='height:140px'>
+			<td colspan='2' align='center'>
+							
 	<a href="..\..\noindex\pl\klauzula-informacyjna\ic.php" class='rodoLinkMobile' target="_blank">Klauzula informacyjna</a>	
 	</td>
+	</tr>
+			<tr> 
+			<td align='center'>    
+			<button type="reset" name='reset'                style="font-family: 'Verdana'; font-size: 35px; background-color: none; color: black" onclick="resetFunction();">&nbsp&nbsp Wyczyść &nbsp&nbsp</button>
+			</td>
+			
+
 	<td  align='center'>  		
-			<button type="submit" name="send">&nbsp&nbsp Wyślij &nbsp&nbsp</button>
+			<button type="submit" name="send" style="font-family: 'Verdana'; font-size: 35px;" >&nbsp&nbsp Wyślij &nbsp&nbsp</button>
 			<br>
 			</td>
 			</tr>	
@@ -272,7 +299,7 @@ $messageStart="Proszę o kontakt \n\n";
 			
 			</table>
 			</center>
-			<br><br> 
+			
 			</form>
 		
 

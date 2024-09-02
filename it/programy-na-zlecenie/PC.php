@@ -62,7 +62,7 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w tworzeniu programów na zlecenie'>
 
 Doświadczenie
 
@@ -71,7 +71,7 @@ Doświadczenie
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='#cele_1'  title='Cele automatyzacji procesów'>
+<a class='linkService'  href='#cele_1'  title='Cele tworzenia programów na zlecenie'>
 
 Cel aplikacji<br>na zlecenie
 
@@ -80,7 +80,7 @@ Cel aplikacji<br>na zlecenie
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='#etapy_1'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkService'  href='#etapy_1'  title='Etapy tworzenia programów na zlecenie'>
 
 Etapy<br>tworzenia
 

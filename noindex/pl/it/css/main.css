@@ -652,7 +652,7 @@ div.textServiceMobile {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 30px;
+	font-size: 35px;
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;
@@ -663,7 +663,7 @@ a.linkServiceMobile:link {
 	font-family:'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 30px;
+	font-size: 35px;
 
 	 text-align:center;
 	text-decoration: none;
@@ -675,7 +675,7 @@ a.linkServiceMobile:visited {
 	font-family:'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 30px;
+	font-size: 35px;
 
 	 text-align:center;
 	text-decoration: none;
@@ -688,7 +688,7 @@ a.linkServiceMobile:active {
 	font-family:'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 30px;
+	font-size: 35px;
 	/*
 	//color: rgb(0,0,0);
 	 */
@@ -702,7 +702,7 @@ a.linkServiceMobile:hover {
 	font-family:'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 30px;
+	font-size: 35px;
 
 	 text-align:center;
 	text-decoration: none;
@@ -715,7 +715,7 @@ a.linkSmallerMobile:link {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 28px;
+	font-size: 35px;
 	/*	color: rgb(0,0,0);*/
 	text-align: center;
 	text-decoration: none;
@@ -727,7 +727,7 @@ a.linkSmallerMobile:visited {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 28px;
+	font-size: 35px;
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;
@@ -738,7 +738,7 @@ a.linkSmallerMobile:active {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 28px;
+	font-size: 35px;
 	/*	color: rgb(0,0,0);*/
 	text-align: center;
 	text-decoration: none;
@@ -750,7 +750,7 @@ a.linkSmallerMobile:hover {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 28px;
+	font-size: 35px;
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;
@@ -809,7 +809,7 @@ a.rodoLinkMobile:link {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 20px;
+	font-size: 25px;
 	/*	color: rgb(0,0,0);*/
 	text-align: center;
 	text-decoration: none;
@@ -822,7 +822,7 @@ a.rodoLinkMobile:visited {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 14px;
+	font-size: 25px;
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;
@@ -834,7 +834,7 @@ a.rodoLinkMobile:active {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 14px;
+	font-size: 25px;
 	/*	color: rgb(0,0,0);*/
 	text-align: center;
 	text-decoration: none;
@@ -847,7 +847,7 @@ a.rodoLinkMobile:hover {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 14px;
+	font-size: 25px;
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;

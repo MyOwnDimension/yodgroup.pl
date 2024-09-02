@@ -612,7 +612,7 @@ a.rodoLinkMobile:link {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 20px;
+	font-size: 25px;
 	/*	color: rgb(0,0,0);*/
 	text-align: center;
 	text-decoration: none;
@@ -625,7 +625,7 @@ a.rodoLinkMobile:visited {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 20px;
+	font-size: 25px;
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;
@@ -637,7 +637,7 @@ a.rodoLinkMobile:active {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 20px;
+	font-size: 25px;
 	/*	color: rgb(0,0,0);*/
 	text-align: center;
 	text-decoration: none;
@@ -650,7 +650,7 @@ a.rodoLinkMobile:hover {
 	font-family: 'Arial', 'Verdana';
 	font-style: normal;
 	font-variant: normal;
-	font-size: 20px;
+	font-size: 25px;
 	text-align: center;
 	text-decoration: none;
 	font-weight: normal;

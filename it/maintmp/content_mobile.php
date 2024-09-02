@@ -1,12 +1,12 @@
-<center><h4>O projekcie MOBILE</h4></center>
+<center><h3>O projekcie MOBILE</h3></center>
 
 Witam<br>
 
 <br><br>
-<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>
-<center><h4>Usługi IT MOBILE VIEW</h4></center>
+<center><h3>Usługi IT MOBILE VIEW</h3></center>
 Wpisz info<br>
 <br><br>
-<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>

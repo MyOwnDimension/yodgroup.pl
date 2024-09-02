@@ -46,7 +46,7 @@ Dodatkowo przez aplikacje: Whatsup, Signal, Telegram <br> <br>
 
 //echo "<img src='email1.png' alt='Email kontaktowy' style='width:220px;height:30px;'>";
 
-echo "<img src='../kontakt/img_emailContact.php' alt='Email Kontaktowy Yod Group' style='width:200px;height:110px;'>";
+echo "<img src='../kontakt/img_emailContact.php' alt='Email Kontaktowy Yod Group' style='width:400px;height:170px;'>";
 ?>
 			</td>
 			</tr>

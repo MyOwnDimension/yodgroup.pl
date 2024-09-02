@@ -3,20 +3,20 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <!DOCTYPE HTML>
 -->
-<HTML lang='pl'>
+<HTML lang='pl'> 
 
 <HEAD>
-
+<link rel="canonical" href="http://yodgroup.pl/" >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta name='robots' content='index,follow' >
-<meta name='keywords' content='automatyzacja, pozycjonowanie, pluginy'>
-<meta name='description' content='Usługi IT:automatyzacja, pozycjonowanie, pluginy'>
-<TITLE>Usługi IT:automatyzacja, pozycjonownaie, wtyczki, pluginy</TITLE>
+<meta name='keywords' content='automatyzacja procesów, pozycjonowanie www, wtyczki, SEO, VR, e-mailing, zlecenie, programowanie, wirtualna rzeczywistość'>
+<meta name='description' content='Oferujemy całą gamę usług IT: automatyzacja procesów, pozycjonowanie WWW, SEO optymalizację stron, wtyczki, pluginy, aplikacje 3d, wirtualną rzeczywistość VR, e-mailing, aplikacje na zlecenie'>
+<TITLE>Automatyzacje procesów, pozycjonowanie, SEO, wtyczki, plugin, aplikacja 3d, VR, wirtualna rzeczywistość, e-mailing, aplikacje na zlecenie</TITLE>
 <meta name='Author' content='Yod Group'>
 <meta name='Language' content='PL'>
 <meta name='Revisit-after' content='7 days'>
 <link rel='stylesheet' type='text/css' href='./noindex/pl/css/main.css'>
-<link rel='shortcut icon' href='./images/YodGroup.ico'>
+<link rel='shortcut icon' href='/images/YodGroup.ico'>
 <meta name="msvalidate.01" content="7B58CAFEBC4ECF096F4E8235AE70645E" >
 
   

@@ -56,18 +56,18 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='#monitorowanie_pozycjonowania_2'  title='Doświadczenie w pozycjonownaiu i SEO'>
+<a class='linkServiceMobile'  href='#service_A_2'  title='Usługi IT, inne'>
 
-Monitorowanie<br>pozycjonowania WWW
+Usługi IT<br> inne
 
 </a>
 
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#monitorowanie_www_2'  title='Zastosowanie pozycjonowania'>
+<a class='linkServiceMobile'  href='#service_B_2'  title='Usługi IT, inne'>
 
-Monitorownaie<br>stron WWW
+Usługi IT<br> inne
 
 </a>
 
@@ -75,18 +75,17 @@ Monitorownaie<br>stron WWW
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#pc_free_2'  title='Cele automatyzacji procesów'>
+<a class='linkServiceMobile'  href='#service_C_2'  title='Usługi IT, inne'>
 
-xyz
-
+Usługi IT<br> inne
 </a>
 
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#pc_pay_2'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkServiceMobile'  href='#service_D_2'  title='Usługi IT, inne'>
 
-xyz
+Usługi IT<br> inne
 
 </a>
 </td>
@@ -157,6 +156,7 @@ include('content_mobile.php');
 
 <td colspan='2'  class='mainSmallerMobile'>
 <a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a>
+<br><br><br><br>
 </td>
 
 
@@ -185,10 +185,12 @@ Wszystkie usługi
 <tr>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br><br><br><br><br>
 	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLinkMobile' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br><br><br><br><br>
 	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 

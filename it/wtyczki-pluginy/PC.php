@@ -62,7 +62,7 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w tworzeniu wtyczek, pluginów, rozszerzeń aplikacji'>
 
 Doświadczenie,<br>wtyczki (pluginy)
 
@@ -71,7 +71,7 @@ Doświadczenie,<br>wtyczki (pluginy)
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='#wtyczki_1'  title='Zastosowanie automatyzacji'>
+<a class='linkService'  href='#wtyczki_1'  title='Czym są wtyczki, pluginy, rozszerzenia aplikacji'>
 
 Wtyczki, dodatki
 
@@ -79,7 +79,7 @@ Wtyczki, dodatki
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie automatyzacji'>
+<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie wtyczek, pluginów, rozszerzeń aplikacji'>
 
 Zastosowanie<br>wtyczek
 
@@ -90,7 +90,7 @@ Zastosowanie<br>wtyczek
 
 <td id='linkA7' class='mainNormal'  >
 
-<a class='linkService'  href='#cele_1'  title='Cele automatyzacji procesów'>
+<a class='linkService'  href='#cele_1'  title='Cele wtyczek, pluginów, rozszerzeń aplikacji'>
 
 Cele<br>pluginów
 
@@ -103,7 +103,7 @@ Cele<br>pluginów
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='#etapy_1'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkService'  href='#etapy_1'  title='Etapy tworzenia wtyczek, pluginów, rozszerzeń aplikacji'>
 
 Etapy tworzenia<br>pluginów
 
@@ -111,7 +111,7 @@ Etapy tworzenia<br>pluginów
 
 </td>
 <td id='linkA9' class='mainNormal' >
-<a class='linkService'  href='#przyklady_1'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkService'  href='#przyklady_1'  title='Przykłady wtyczek, pluginów, rozszerzeń aplikacji'>
 
 Przykłady <br>wtyczek (pluginów)
 

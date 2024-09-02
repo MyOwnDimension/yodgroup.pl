@@ -45,7 +45,7 @@ Wszystkie usługi
 </td>
 
 <td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./e-mailing/'  title='E=mailing w biznesie'>
+<a class='linkServiceMobile'  href='./e-mailing/'  title='E-mailing w biznesie'>
 
 E-mailing
 
@@ -84,7 +84,7 @@ Programy<br>na zlecenie
 <td  class=mainMobile  >
 <a class='linkServiceMobile'  href='./wtyczki-pluginy/' title='Wtyczki, pluginy, rozszerzanie funkcji aplikacji' >
 
-Wtyczki (pluginy)<br>, &nbsp dodatki
+Wtyczki (pluginy)<br> &nbsp dodatki
 
 </a>
 </td>
@@ -128,14 +128,14 @@ Utrzymanie i rozwój<br> aplikacji
 <tr class='tr_rowMobile' >
 
 <td  class=mainMobile   >
-<a class='linkServiceMobile' href='./aplikacja-program/'  title='Marketing internetowy'>
+<a class='linkServiceMobile' href='./aplikacja-program/'  title='Aplikacje ,programy do pobrania'>
 
 Aplikacje do<br>pobrania
 
 </a>
 </td>
 <td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./uslugi-inne/'  title='Wyszukiwanie informacji w internecie'>
+<a class='linkServiceMobile'  href='./uslugi-inne/'  title='Inne usługi'>
 
 Inne usługi
 
@@ -149,10 +149,12 @@ Inne usługi
 <tr>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br>
 	<a href="..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLinkMobile' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br>
 	<a href="..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 

@@ -1,53 +1,46 @@
-<center><h4 id='doswiadczenie_2'>Doświadczenie w aplikacjach 3D</h4></center>
-Wiele lat doświadczenia we współpracy z firmami sprzedażowymi z sektora największych marek luksusowych,<br>
-pozwoliło nam poznać:<br>
-- szeroki zakres potrzeb automatyzacji procesów,<br>
-- metody jak osiągać cele stawiane przez klientów <br>
-oraz efektywnie wprowadzić klienta w realia pracy z automatyzacją.<br>
-
-
-
+<center><h3 id='doswiadczenie_2'>Doświadczenie w pozycjonowaniu</h3></center>
+Doświadczenie w pozycjonowaniu stron WWW zdobyliśmy wśród wielu lat zgłębiania wiedzy na temat funkcjonowania wyszukiwarek internetowych oraz podczas pracy zawodowej w firmach w całym kraju.
 <br><br>
-<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>
-<center><h4 id='zastosowanie_2'>Zastosowanie aplikacji 3D</h4></center>
-Automatyzacja procesów w biznesie znajduje zastosowanie wszędzie tam gdzie możemy wyodrębnić powtarzalne scenariusze wykonaywane przez pracownika.<br>
-Dzięki aplikacji stworzonej konkretnie pod występujący scenariusz, są Państwo miedzy innymi w stanie:<br>
-- zminimalizować ryzyko błędu człowieka, gdyż program zostanie przygotowany na reakcje w każdym scenariuszu otrzymanym od Państwa,<br>
-- przyspieszyć działanie,<br>
-- zredukować koszty, wykluczając pracownika z aktywności, które obsługuje automat (program),<br>
-- usprawnić pracę<br>
-<br><br>
-<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
-<br><br>
-<center><h4 id='cele_2'>Cele aplikacji 3D</h4></center>
-Celem automatyzacji procesów w firmie są między innymi:<br>
-- redukcja stałych kosztów związanych z zaangażowaniem pracownika w powtarzalne procesy, nie wymagające kreatywności.<br>
-- minimalizacja ryzyka błędu, bowiem automat zostanie przygotowany na scenariusze nam przekazane i nie zadziała czynnik: zdekoncentrowania, zmęczenia itp.,<br>
-- przyspieszenie pracy, gdyż automat nie zatrzymując się przechodzi z kroku do kroku w łańcuchu scenariusza, wykonując przy tym wszystkie operacje znacznie szybciej,<br>
+<center><h3 id='zastosowanie_2'>Zastosowanie pozycjonowania</h3></center>
+Pozycjonowanie znajduje zastosowanie w przypadku każdej strony internetowej,<br>
+której właściciel pragnie osiągnąć wysoką pozycję jego strony w wyniku wyszukiwania po konkretnych słowach kluczowych,<br>
+w między innymi takich wyszukiwarkach jak:<br>
+- Google<br>
+- Bing<br>
+- Yandex<br>
+- Yahoo<br>
 
 <br><br>
-<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
-<br><br><center><h4 id='etapy_2'>Etapy aplikacji 3D</h4></center>
-Do etapów automatyzacji między innymi należą:<br>
-- zebranie szczegółowego wywiadu na temat scenariuszy postępowań, które będą wchodzić z zakres automatyzacji,<br>
-- przygotowanie wersji beta automatu/automatów,<br>
-- zaakceptowanie automatu przez zleceniodawcę,<br>
-- przygotowanie automatu do pracy w środowisku zleceniodawcy,<br>
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>
-<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
+<center><h3 id='cele_2'>Cele pozycjonowania</h3></center>
+Zamieszczenie strony internetowej na serwerze oraz przypisanie jej domeny jest pierwszym z etapów zaistnienia biznesu w świecie online.<br>
+Na tym jednak nie powinno się kończyć, bowiem Państwa strona powinna być łatwa do znalezienia w wyszukiwarkach internetowych.<br>
+Każdy kto nie zna adresu Państwa strony, ma szanse odnaleźć ją w wyszukiwarce internetowej po wpisaniu kilku słów identyfikujących Państwa działalność.<br>
+Celem pozycjnowania Państwa strony internetowej, jest zdobycie jak najwyższej pozycji w wyniku wyszukiwania po słowach kluczowych wpisanych przez potencjalnego klietna.<br>
+
 <br><br>
-<br><br><center><h4 id='przyklady_2'>Przykłady aplikacji 3D</h4></center>
-Wśród przykładów automatyzacji można wymienić:<br>
-- wysyłanie mejli do klienta z przypomnieniem o płatności,<br>
-- tworzenie raportów w postaci różnego typu dokumentów na podstawie innych plików wejściowych,<br>
-- aktualizacja bazy danych na podstawie plików wejściowych,<br> 
-- sprawdzanie danych w bazie i reakcja na napotkane wartości danych,<br>
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
+<br><br><center><h3 id='etapy_2'>Etapy pozycjonowania</h3></center>
+Wśród etapów pozycjonowania wyróżnić należy:<br>
+- wywiad ze zleceniodawcą na temat oczekiwań stawianych od strony internetowej,<br>
+- wspólne ustalenie strategii pozycjonowania i ram czasowych,<br>
+- działania po naszej stronie zmierzające do uzyskania stawianych nam celów pozycjonowania,<br>
+- okres monitorownaia efektów pozycjonowania, zależny między innymi od czynników zewnętrznych,<br>
+- ewentualna reakcja na zmiany w wynikach wyszkukwiania na skutek zmian np. w obszarze konkurencji<br>
+
 <br><br>
-<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
+<br><br>
+<center><h3 id='monitorowanie_2'>Monitorowanie pozycjonowania</h3></center>
+Monitorowanie pozycjonowania strony WWW jak i efektów prac optymalizacji mają miejsce drogą mejlową, w postaci raportu przekazywanego w ustalonych przedziałach czasu.<br>
+<br><br>
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>
 
-<center><h4 id='kontakt_2'>Kontakt</h4></center>
+<center><h3 id='kontakt_2'>Kontakt</h3></center>
 
 <?php
 

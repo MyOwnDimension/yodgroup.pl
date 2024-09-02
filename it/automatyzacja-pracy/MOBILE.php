@@ -156,6 +156,7 @@ include('content_mobile.php');
 
 <td colspan='2'  class='mainSmallerMobile'>
 <a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a>
+<br><br><br><br>
 </td>
 
 
@@ -184,10 +185,12 @@ Wszystkie usługi
 <tr>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br><br><br><br><br>
 	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLinkMobile' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br><br><br><br><br>
 	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 

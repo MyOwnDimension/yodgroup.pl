@@ -61,7 +61,7 @@ Automatyzacja pracy
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='./e-mailing/'  title='E=mailing w biznesie'>
+<a class='linkService'  href='./e-mailing/'  title='E-mailing w biznesie'>
 
 E-mailing
 
@@ -160,7 +160,7 @@ Grafika 3D
 
 
 <td id='linkA12' class='mainNormal' >
-<a class='linkService'  href='./aplikacje-3D/'  title='Grafika 2D'>
+<a class='linkService'  href='./aplikacje-3D/'  title='Aplikacje 3D'>
 
 Aplikacje 3D
 
@@ -185,7 +185,7 @@ Aplikacje do<br>pobrania
 
 
 <td id='linkA15' class='mainNormal'  >
-<a class='linkService'  href='./uslugi-inne/'  title='Wyszukiwanie informacji w internecie'>
+<a class='linkService'  href='./uslugi-inne/'  title='Inne usługi'>
 
 Inne usługi
 </a>

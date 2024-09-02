@@ -62,7 +62,7 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w pozycjonownaiu, SEO'>
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w optymalizacji stron - SEO'>
 
 Doświadczenie w<br> SEO
 
@@ -71,7 +71,7 @@ Doświadczenie w<br> SEO
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie pozycjonowania, SEO'>
+<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie optymalizacji stron - SEO'>
 
 Zastosowanie<br> SEO
 
@@ -80,7 +80,7 @@ Zastosowanie<br> SEO
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='#cele_1'  title='Cele pozycjonowania'>
+<a class='linkService'  href='#cele_1'  title='Cele optymalizacji stron - SEO'>
 
 Cele<br>optymalizacji WWW
 
@@ -89,7 +89,7 @@ Cele<br>optymalizacji WWW
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='#etapy_1'  title='Etapy pozycjonowania WWW'>
+<a class='linkService'  href='#etapy_1'  title='Etapy optymalizacji stron - SEO'>
 
 Etapy<br>optymalizacji WWW
 

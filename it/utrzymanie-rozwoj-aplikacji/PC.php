@@ -62,7 +62,7 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w pozycjonownaiu, SEO'>
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w utrzymaniu i rozwoju aplikacji'>
 
 Doświadczenie w<br> utrzymaniu i rozwoju
 
@@ -71,7 +71,7 @@ Doświadczenie w<br> utrzymaniu i rozwoju
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie pozycjonowania, SEO'>
+<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie utrzymania i rozwoju aplikacji'>
 
 Zastosowanie<br>
 
@@ -80,7 +80,7 @@ Zastosowanie<br>
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='#cele_1'  title='Cele pozycjonowania'>
+<a class='linkService'  href='#cele_1'  title='Cele utrzymania i rozwoju aplikacji'>
 
 Cele<br>
 </a>
@@ -88,7 +88,7 @@ Cele<br>
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='#etapy_1'  title='Etapy pozycjonowania WWW'>
+<a class='linkService'  href='#etapy_1'  title='Etapy utrzymania i rozwoju aplikacji'>
 
 Etapy<br>utrzymania i rozwoju
 

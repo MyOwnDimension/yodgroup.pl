@@ -57,7 +57,7 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w tworzeniu wtyczek, pluginów, rozszerzeń aplikacji'>
 
 Doświadczenie,<br>wtyczki (pluginy)
 
@@ -66,7 +66,7 @@ Doświadczenie,<br>wtyczki (pluginy)
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#wtyczki_2'  title='Zastosowanie automatyzacji'>
+<a class='linkServiceMobile'  href='#wtyczki_2'  title='Czym są wtyczki, pluginy, rozszerzenia aplikacji'>
 
 Wtyczki, dodatki
 
@@ -76,7 +76,7 @@ Wtyczki, dodatki
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie automatyzacji'>
+<a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie wtyczek, pluginów, rozszerzeń aplikacji'>
 
 Zastosowanie<br>wtyczek
 
@@ -86,7 +86,7 @@ Zastosowanie<br>wtyczek
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#cele_2'  title='Cele automatyzacji procesów'>
+<a class='linkServiceMobile'  href='#cele_2'  title='Cele wtyczek, pluginów, rozszerzeń aplikacji'>
 
 Cele<br>pluginów
 
@@ -99,7 +99,7 @@ Cele<br>pluginów
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy tworzenia wtyczek, pluginów, rozszerzeń aplikacji'>
 
 Etapy tworzenia<br>pluginów
 
@@ -107,7 +107,7 @@ Etapy tworzenia<br>pluginów
 
 </td>
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady wtyczek, pluginów, rozszerzeń aplikacji'>
 
 Przykłady <br>wtyczek (pluginów)
 
@@ -163,6 +163,7 @@ include('content_mobile.php');
 
 <td colspan='2'  class='mainSmallerMobile'>
 <a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a>
+<br><br><br><br>
 </td>
 
 
@@ -191,10 +192,12 @@ Wszystkie usługi
 <tr>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br><br><br><br><br>
 	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLinkMobile' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br><br><br><br><br>
 	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 

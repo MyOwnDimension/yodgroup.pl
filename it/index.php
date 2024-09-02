@@ -7,13 +7,13 @@
 
 <HEAD>
 
-<TITLE>Automatyzacja procesów w firmie, pozycjonowanie WWW, rozszerzenia funkcji aplikacji, wtyczki, pluginy</TITLE>
+<TITLE>Automatyzacja procesów, pozycjonowanie WWW, SEO, wtyczki, pluginy, aplikacje 3d, VR, wirtualna rzeczywistość, e-mailing, aplikacje na zlecenie</TITLE>
 <link rel="canonical" href="http://yodgroup.pl/it/" >
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta name='Language' content='PL'>
-<meta name='keywords' content='automatyzacja procesów, pozycjonowanie www, wtyczki, pluginy'>
-<meta name='description' content='Wprowadzamy automatyzację procesów w firmie za pomocą dedykowanych aplikacji, wykonujemy pozycjonowanie www, tworzymy wtyczki (pluginy)'>
+<meta name='keywords' content='automatyzacja procesów, pozycjonowanie www, wtyczki, SEO, VR, e-mailing, zlecenie, programowanie, wirtualna rzeczywistość'>
+<meta name='description' content='Oferujemy całą gamę usług IT: automatyzacja procesów, pozycjonowanie WWW, SEO optymalizację stron, wtyczki, pluginy, aplikacje 3d, wirtualną rzeczywistość VR, e-mailing, aplikacje na zlecenie.'>
 <meta name='Author' content='Yod Group'>
 <meta name='Revisit-after' content='7 days'>
 <link rel='shortcut icon' href='../images/YodGroup.ico'>

@@ -62,7 +62,7 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w grafice 3D'>
 
 Doświadczenie w<br>grafice 3D
 
@@ -71,7 +71,7 @@ Doświadczenie w<br>grafice 3D
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie automatyzacji'>
+<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie grafiki 3D'>
 
 Zastosowanie<br>grafiki 3D
 
@@ -80,7 +80,7 @@ Zastosowanie<br>grafiki 3D
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='#cele_1'  title='Cele automatyzacji procesów'>
+<a class='linkService'  href='#cele_1'  title='Cele grafiki 3D'>
 
 Cele<br>grafiki 3D
 
@@ -89,7 +89,7 @@ Cele<br>grafiki 3D
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='#etapy_1'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkService'  href='#etapy_1'  title='Etapy tworzenia grafiki 3D'>
 
 Etapy tworzenia<br>grafiki 3D
 
@@ -101,7 +101,7 @@ Etapy tworzenia<br>grafiki 3D
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='#przyklady_1'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkService'  href='#przyklady_1'  title='Przykłady grafiki 3D'>
 
 Przykłady <br>grafiki 3D
 

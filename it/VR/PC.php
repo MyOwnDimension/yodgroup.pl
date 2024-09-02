@@ -62,36 +62,36 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w tworzeniu wirtualnej rzeczywistości, VR'>
 
-Doświadczenie w<br>VR
+Doświadczenie w<br>wirtualnej rzeczywistości
 
 </a>
 
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie automatyzacji'>
+<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie wirtualnej rzeczywistości, VR'>
 
-Zastosowanie<br>VR
+Zastosowanie<br>wirtualnej rzeczywistości
 
 </a>
 
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='#cele_1'  title='Cele automatyzacji procesów'>
+<a class='linkService'  href='#cele_1'  title='Cele wirtualnej rzeczywistości, VR'>
 
-Cele<br>VR
+Cele<br>wirtualnej rzeczywistości
 
 </a>
 
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='#etapy_1'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkService'  href='#etapy_1'  title='Etapy tworzenia wirtualnej rzeczywistości, VR'>
 
-Etapy<br>VR
+Etapy tworzenia<br>wirtualnej rzeczywistości
 
 </a>
 </td>
@@ -101,9 +101,9 @@ Etapy<br>VR
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='#przyklady_1'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkService'  href='#przyklady_1'  title='Przykłady wirtualnej rzeczywistości, VR'>
 
-Przykłady <br>VR
+Przykłady <br>wirtualnej rzeczywistości
 
 </a>
 </td>

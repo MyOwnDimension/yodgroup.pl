@@ -1,24 +1,31 @@
-<center><h4 id='monitorowanie_pozycjonowania_2'>Monitorownaie pozycjomowania</h4></center>
-Doświadczenie w pozycjonowaniu stron WWW zdobyliśmy wśród wielu lat zgłębiania wiedzy na temat funkcjonowania wyszukiwarek internetowych oraz podczas pracy zawodowej w firmach w całym kraju.
-<br><br>
-<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
-<br><br>
-<center><h4 id='monitorowanie_www_2'>monitorowanie www</h4></center>
-Pozycjonowanie znajduje zastosowanie w przypadku każdej strony internetowej,<br>
-której właściciel pragnie osiągnąć wysoką pozycję jego strony w wyniku wyszukiwania po konkretnych słowach kluczowych,<br>
-w między innymi takich wyszukiwarkach jak:<br>
-- Google<br>
-- Bing<br>
-- Yandex<br>
-- Yahoo<br>
+<center><h3 id='service_A_2'>Usługa 1</h3></center>
+W budowie<br>
 
 <br><br>
-<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
+<br><br>
+<center><h3 id='service_B_2'>Usługa 2</h3></center>
+W budowie<br>
+
+<br><br>
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
+<br><br>
+<center><h3 id='service_C_2'>Usługa 3</h3></center>
+W budowie<br>
+
+<br><br>
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
+<br><br>
+<center><h3 id='service_D_2'>Usługa 4</h3></center>
+W budowie<br>
+
+<br><br>
+<center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>
 
 
 
-<center><h4 id='kontakt_2'>Kontakt</h4></center>
+<center><h3 id='kontakt_2'>Kontakt</h3></center>
 
 <?php
 

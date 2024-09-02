@@ -56,7 +56,7 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w automatyzacji procesów w firmie'>
+<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w grafice 3D'>
 
 Doświadczenie w<br>grafice 3D
 
@@ -65,7 +65,7 @@ Doświadczenie w<br>grafice 3D
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie automatyzacji'>
+<a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie grafiki 3D'>
 
 Zastosowanie<br>grafiki 3D
 
@@ -75,7 +75,7 @@ Zastosowanie<br>grafiki 3D
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#cele_2'  title='Cele automatyzacji procesów'>
+<a class='linkServiceMobile'  href='#cele_2'  title='Cele grafiki 3D'>
 
 Cele<br>grafiki 3D
 
@@ -84,7 +84,7 @@ Cele<br>grafiki 3D
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy automatyzacji procesów biznesowcyh'>
+<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy tworzenia grafiki 3D'>
 
 Etapy tworzenia<br>grafiki 3D
 
@@ -96,7 +96,7 @@ Etapy tworzenia<br>grafiki 3D
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady automatyzacji w biznesie'>
+<a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady grafiki 3D'>
 
 Przykłady <br>grafiki 3D
 
@@ -156,6 +156,7 @@ include('content_mobile.php');
 
 <td colspan='2'  class='mainSmallerMobile'>
 <a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a>
+<br><br><br><br>
 </td>
 
 
@@ -167,10 +168,12 @@ include('content_mobile.php');
 <tr>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br><br><br><br><br>
 	<a href="..\..\noindex\pl\warunki-uzytkowania\gt.php" class='rodoLinkMobile' target="_blank">Ogólne warunki użytkowania strony</a>
 </td>
 
 <td  class='pageFooterMobile'  >
+<br><br><br><br><br><br><br><br>
 	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 

@@ -1,61 +1,48 @@
-<center><h4 id='doswiadczenie_1'>Doświadczenie w aplikacjach na zlecenie</h4></center>
-Wiele lat doświadczenia we współpracy z firmami sprzedażowymi z sektora największych marek luksusowych,<br>
-pozwoliło nam poznać:<br>
-- szeroki zakres potrzeb automatyzacji procesów,<br>
-- metody jak osiągać cele stawiane przez klientów <br>
-oraz efektywnie wprowadzić klienta w realia pracy z automatyzacją.<br>
-
-
-
+<center><h4 id='doswiadczenie_1'>Doświadczenie w tworzeniu rozszerzeń aplikacji</h4></center>
+W trakcie wielu lat pracy z różnymi narzędziami, mieliśmy wiele okoliczności do rozszerzenie funkcji owych progamów jeśli taką możliwosć przewidział twórca narzędzia.<br>
+Były to aplikacje napisane między innymi w języku Java, Python, C++<br>  
 <br><br>
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br>
-<center><h4 id='wtyczki_1'>O wtyczkach (pluginach), dodatkach</h4></center>
-Wiele lat doświadczenia we współpracy z firmami sprzedażowymi z sektora największych marek luksusowych,<br>
-pozwoliło nam poznać:<br>
-- szeroki zakres potrzeb automatyzacji procesów,<br>
-- metody jak osiągać cele stawiane przez klientów <br>
-oraz efektywnie wprowadzić klienta w realia pracy z automatyzacją.<br>
-
-
-
+<center><h4 id='wtyczki_1'>Wtyczki, pluginy</h4></center>
+Wtyczka, inaczej plugin z języka angielskiego, to komponent rozszerzający funkcje programu, w którym jest zastosowany.<br>
+Wtyczki tworzy się ściśle pod konkretną aplikację, która umożliwia rozszerzenie jej funkcjonalności o nowe akcje.<br>
 <br><br>
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br>
-<center><h4 id='zastosowanie_1'>Zastosowanie aplikacji na zlecenie</h4></center>
-Automatyzacja procesów w biznesie znajduje zastosowanie wszędzie tam gdzie możemy wyodrębnić powtarzalne scenariusze wykonaywane przez pracownika.<br>
-Dzięki aplikacji stworzonej konkretnie pod występujący scenariusz, są Państwo miedzy innymi w stanie:<br>
-- zminimalizować ryzyko błędu człowieka, gdyż program zostanie przygotowany na reakcje w każdym scenariuszu otrzymanym od Państwa,<br>
-- przyspieszyć działanie,<br>
-- zredukować koszty, wykluczając pracownika z aktywności, które obsługuje automat (program),<br>
-- usprawnić pracę<br>
+<center><h4 id='zastosowanie_1'>Zastosowanie rozrzerzania funkcji aplikacji</h4></center>
+Jeśli producent narzędzia przewidział możliwość rozszerzenia jego funkcjonalności to sygnałem na dowód tego jest możliwość zainstalowania: dodatku, wtyczki (pluginu).<br>
+Chetnie przyjrzymy się każdej aplikacji, która umożlwia rozszerzenie jej funnkcji i udzielimi wsparcia w zakresie potencjalnego jej rozwoju w celu osiągniecia Państwa celu.<br>
+Przykładami takich aplikacji są:
+- pakiet Microfost Office
+- przeglądarki internetowe, np Mozilla Firefox<br>
+<br><br>
+
+<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
+<br><br>
+<center><h4 id='cele_1'>Cele tworzenia rozszerzeń aplikacji, wtyczek</h4></center>
+W wyniku pracy z konkretnym narzędziem i specyficznych potrzeb wynikających z biznesu, często zachodzi potrzeba dodania nowej funkcjonalności do aplikacji.<br>
+W tym celu tworzy się wtyczki (pluginu), pod warunkiem, że narzędzie umożliwia taki rozwój aplikacji.
 <br><br>
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br>
-<center><h4 id='cele_1'>Cele aplikacji na zlecenie</h4></center>
-Celem automatyzacji procesów w firmie są między innymi:<br>
-- redukcja stałych kosztów związanych z zaangażowaniem pracownika w powtarzalne procesy, nie wymagające kreatywności.<br>
-- minimalizacja ryzyka błędu, bowiem automat zostanie przygotowany na scenariusze nam przekazane i nie zadziała czynnik: zdekoncentrowania, zmęczenia itp.,<br>
-- przyspieszenie pracy, gdyż automat nie zatrzymując się przechodzi z kroku do kroku w łańcuchu scenariusza, wykonując przy tym wszystkie operacje znacznie szybciej,<br>
+<center><h4 id='etapy_1'>Etapy tworzenia rozszerzeń aplikacji, wtyczek</h4></center>
+Wśród etpaów należy wymienić między innymi:<br>
+- wywiad ze zleceniodawcą mający na celu potwierdzenia możliwości stworzenia rozszerzenia (pluginu),<br>
+- wywiad ze zleceniodawcą mający na celu ustalenie zakresu nowych funkcji dla narzędzia,<br>
+- przygotowanie roszerzenia (wtyczki), testy wewnętrzne<br>
+- akceptacja i wdrożenie
+<br><br>
+
+<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
+<br><br>
+<center><h4 id='przyklady_1'>Przykłady rozszerzeń aplikacji, wtyczek</h4></center>
+Jest wiele przykładów rozszerzeń aplikacji, wśród nich możemy wymienić:<br>
+- dodatki dla znanych przeglądarek internetowych,<br>
+- wtyczki do frameworka WordPress,<br>
 
 <br><br>
-<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
-<br><br><center><h4 id='etapy_1'>Etapy aplikacji na zlecenie</h4></center>
-Do etapów automatyzacji między innymi należą:<br>
-- zebranie szczegółowego wywiadu na temat scenariuszy postępowań, które będą wchodzić z zakres automatyzacji,<br>
-- przygotowanie wersji beta automatu/automatów,<br>
-- zaakceptowanie automatu przez zleceniodawcę,<br>
-- przygotowanie automatu do pracy w środowisku zleceniodawcy,<br>
-<br><br>
-<center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
-<br><br>
-<br><br><center><h4 id='przyklady_1'>Przykłady aplikacji na zlecenie</h4></center>
-Wśród przykładów automatyzacji można wymienić:<br>
-- wysyłanie mejli do klienta z przypomnieniem o płatności,<br>
-- tworzenie raportów w postaci różnego typu dokumentów na podstawie innych plików wejściowych,<br>
-- aktualizacja bazy danych na podstawie plików wejściowych,<br> 
-- sprawdzanie danych w bazie i reakcja na napotkane wartości danych,<br>
-<br><br>
+
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br>
 

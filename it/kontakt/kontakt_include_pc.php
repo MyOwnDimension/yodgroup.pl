@@ -232,26 +232,26 @@ $messageStart="Proszę o kontakt \n\n";
 			<tr class="emailTable" >
 			<td align='center'>  
 			<label for="inputName">Imię:</label><br>  
-			<input type="text" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Arial'; font-size: 16px; text-align: justify; font-weight: normal;" id="inputName" size ='25' name="fname"  value='<?php echo $fname1; ?>' >
+			<input type="text" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Verdana'; font-size: 16px; text-align: justify; font-weight: normal;" id="inputName" size ='25' name="fname"  value='<?php echo $fname1; ?>' >
 			</td>
 			<td align='center'>  
 			<label for="inputEmail">Email kontaktowy:</label><br>  
-			<input type="text" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Arial'; font-size: 16px; text-align: justify; font-weight: normal;" id="inputEmail" size ='25' name="fromemail"  value='<?php echo $fromemail1; ?>' >
+			<input type="text" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Verdana'; font-size: 16px; text-align: justify; font-weight: normal;" id="inputEmail" size ='25' name="fromemail"  value='<?php echo $fromemail1; ?>' >
 			</td>
 			<td align='center'>   
 			<label for="inputMobile">Telefon kontaktowy:</label><br>  
-			<input type="text" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Arial'; font-size: 16px; text-align: justify; font-weight: normal;"  id="inputMobile" size ='25' name="frommobile"   value='<?php echo $frommobile1; ?>'>
+			<input type="text" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Verdana'; font-size: 16px; text-align: justify; font-weight: normal;"  id="inputMobile" size ='25' name="frommobile"   value='<?php echo $frommobile1; ?>'>
 			</td>
 			</tr>
 			<tr ><td colspan='3' align='center'>  
 			<label for="inputSubject">Temat:</label><br> 
-			<input type="text" size="84" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Arial'; font-size: 16px; text-align: justify; font-weight: normal;" id="inputSubject" maxlength="80" name="subject"   value='<?php echo $subject1; ?>'> 
+			<input type="text" size="84" style="background-color: none; line-height: 20px;	color: #000000; font-family: 'Verdana'; font-size: 16px; text-align: justify; font-weight: normal;" id="inputSubject" maxlength="80" name="subject"   value='<?php echo $subject1; ?>'> 
 		
 			</td>
 			</tr>
 			<tr style="height: 240px" ><td colspan='3' align='center'>
 			<label for="inputMessage">Wiadomość:</label><br> 
-			<textarea id="inputMessage" style="resize:none; background-color: none; color: #000000; font-family: 'Arial'; font-size: 16px; text-align: justify; font-weight: normal;" name="message"  cols="84" rows="12" ><?php echo $message1; ?></textarea>
+			<textarea id="inputMessage" style="resize:none; background-color: none; color: #000000; font-family: 'Verdana'; font-size: 16px; text-align: justify; font-weight: normal;" name="message"  cols="84" rows="12" ><?php echo $message1; ?></textarea>
 			</td>
 			</tr>	
 			<tr class="emailTable">
