@@ -202,13 +202,6 @@ Wszystkie usługi
 	<a href="..\..\noindex\pl\polityka-prywatnosci\pp.php" class='rodoLinkMobile' target="_blank">Polityka prywatności i Cookies</a>
 </td>
 
-<td  class='pageFooter' >
-
-</td>
-
-<td  class='pageFooter' >
-
-</td>
 
 </tr>
 

@@ -141,7 +141,7 @@ Wtyczki (pluginy), dodatki
 </tr>
 <tr class='mainNormal' >
 <td id='linkA10' class='mainNormal' >
-<a class='linkService'  href='./VR/'  title='Wirtualna rzeczywistość VR'>
+<a class='linkService'  href='./vr/'  title='Wirtualna rzeczywistość VR'>
 
 VR<br>wirtualna rzeczywistość
 

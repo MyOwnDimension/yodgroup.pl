@@ -23,6 +23,17 @@
   <script type='text/javascript' src= "../../noindex/pl/it/scripts/services_it.js"> 
   </script> 
   
+<style  type="text/css">
+
+@media (scripting: none) {
+
+div.PC {
+	 display: block;
+	  visibility: visible;
+}
+}
+</style>
+
 </HEAD>
 
 <BODY>
@@ -31,15 +42,9 @@
       <div style="border: 1px solid purple; padding: 10px; text-align: center;">
         <span style="color:red; font-family: 'Arial', 'Verdana'; ">Brak włączonej JavyScript w przeglądarce ! Strona może działać nieprawidłowo !</span>
       </div>
-<style  type="text/css">
-div.PC {
-	 display: block;
-	  visibility: visible;
-}
-</style>
+
 	</noscript>
 <br>
-
 
 
 

@@ -1,5 +1,8 @@
-  var w = window.innerWidth;
+  var w = $(window).width();
+  //  var w = window.outerWidth;
   document.documentElement.style.setProperty('--width0', `${w}px`);
+  
+//  document.write('MOBILE 1 widtha '+w);
   
   $(document).ready(function() {
     /*kolenosc ma znaczenie, ostatni w talbei musi byc pierwszym tutaj !!!!*/

@@ -180,7 +180,7 @@ Kontakt
 <div id='textA13' class='textService' style='display:none'>Pozycjonowanie stron WWW</div>
 <div id='textA14' class='textService' style='display:none'>Pozycjonowanie stron WWW</div>
 <div id='textA15' class='textService' style='display:none'>Pozycjonowanie stron WWW</div>
-<div id='textA15' class='textService' style='display:none'>Pozycjonowanie stron WWW</div>
+
 
 
 </td>

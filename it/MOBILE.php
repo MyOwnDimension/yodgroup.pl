@@ -94,7 +94,7 @@ Wtyczki (pluginy)<br> &nbsp dodatki
 <tr class='tr_rowMobile' >
 
 <td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./VR/'  title='Wirtualna rzeczywistość VR'>
+<a class='linkServiceMobile'  href='./vr/'  title='Wirtualna rzeczywistość VR'>
 
 VR<br>wirtualna rzeczywistość
 

@@ -545,20 +545,20 @@ div.contentMobile {
 	height: 50px;
 }
 
-.mainSmallerMobile {
+td.mainSmallerMobile {
 	text-align: center;
 	border-style: none;
 	border-color: #d0d0d0;
-
-	width: 300px;
+	border-style: none;
+	width: calc(var(--width0) / 2);
 	height: 30px;
 }
 
-.mainSmallMobile {
+td.mainSmallMobile {
 	text-align: center;
 	border-style: none;
 	border-color: #d0d0d0;
-
+	width: calc(var(--width0) / 2);
 	height: 40px;
 }
 
@@ -587,7 +587,7 @@ table.languageMobile {
 .mainSmallerLanguageMobile {
 	text-align: left;
 	border-style: none;
-	border-color: #d0d0d0;
+	border-color: #d0d0d0 
 
 	width: 120px;
 	height: 28x;
@@ -602,14 +602,14 @@ td.mainNormalMobile {
 	border-style: none;
 	border-color: #d0d0d0;
 
-	width: 300px;
+	width: calc(var(--width0) / 2);
 }
 td.pageFooterMobile {
    border-style: none;
    border-color: #d0d0d0;
    	 	text-align: center;
 	 height: 100px;
-	 width: 300px;
+	width: calc(var(--width0) / 2);
 }
 div.textMainMobile {
 	color: #000000;

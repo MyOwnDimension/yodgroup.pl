@@ -284,13 +284,16 @@ $messageStart="Proszę o kontakt \n\n";
 	</td>
 	</tr>
 			<tr> 
-			<td align='center'>    
-			<button type="reset" name='reset'                style="font-family: 'Verdana'; font-size: 35px; background-color: none; color: black" onclick="resetFunction();">&nbsp&nbsp Wyczyść &nbsp&nbsp</button>
+			<td >    
+
+			<button type="reset" name='reset'  style="font-family: 'Verdana'; font-size: 35px; background-color: none; color: black; margin-left: auto; margin-right: auto;  position: absolute;" onclick="resetFunction();">&nbsp&nbsp Wyczyść &nbsp&nbsp</button>
+			<br>
 			</td>
 			
 
-	<td  align='center'>  		
-			<button type="submit" name="sendMobile" style="font-family: 'Verdana'; font-size: 35px;" >&nbsp&nbsp Wyślij &nbsp&nbsp</button>
+			<td>  
+
+			<button type="submit" name="sendMobile" style="font-family: 'Verdana'; font-size: 35px; margin-left: auto; margin-right: auto;  position: absolute;" >&nbsp&nbsp Wyślij &nbsp&nbsp</button>
 			<br>
 			</td>
 			</tr>	

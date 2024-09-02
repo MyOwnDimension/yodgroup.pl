@@ -176,7 +176,7 @@ Kontakt
 
 <div id='textA9' class='textService' style='display:none'>Przykłady e-mailingu</div>
 <div id='textA10' class='textService' style='display:none'>Kontakt</div>
-<div id='textA11 class='textService' style='display:none'>Skuteczny e-mailing</div>
+<div id='textA11' class='textService' style='display:none'>Skuteczny e-mailing</div>
 <div id='textA12' class='textService' style='display:none'>Skuteczny e-mailing</div>
 <div id='textA13' class='textService' style='display:none'>Skuteczny e-mailing</div>
 <div id='textA14' class='textService' style='display:none'>Skuteczny e-mailing</div>
