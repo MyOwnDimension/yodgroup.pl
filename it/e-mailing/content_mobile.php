@@ -7,7 +7,7 @@
 <br><br>
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>
-<center><h3 id='monitorowanie_pozycjonowania_2'>Doświadczenie w automatyzacji</h3></center>
+<center><h3 id='monitorowanie_pozycjonowania_2'>Doświadczenie w E-mailingu</h3></center>
 
 
 
@@ -18,7 +18,7 @@
 <br><br>
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>
-<center><h3 id='monitorowanie_www_2'>Zastosowanie automatyzacji</h3></center>
+<center><h3 id='monitorowanie_www_2'>Zastosowanie E-mailingu</h3></center>
 
 
 
@@ -28,14 +28,14 @@
 <br><br>
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>
-<center><h3 id='cele_2'>Cele automatyzacji</h3></center>
+<center><h3 id='cele_2'>Cele E-mailingu</h3></center>
 
 
 
 
 <br><br>
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
-<br><br><center><h3 id='etapy_2'>Etapy automatyzacji</h3></center>
+<br><br><center><h3 id='etapy_2'>Etapy E-mailingu</h3></center>
 
 
 
@@ -45,7 +45,7 @@
 <br><br>
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>
-<br><br><center><h3 id='przyklady_2'>Przykłady automatyzacji</h3></center>
+<br><br><center><h3 id='przyklady_2'>Przykłady E-mailingu</h3></center>
 
 
 

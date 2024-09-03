@@ -120,7 +120,7 @@ Programy<br>na zlecenie
 
 <div id='textA12' class='textService' style='display:none'>Aplikacje 3D </div>
 
-<div id='textA13' class='textService' style='display:none'>Utrzymanie i rozwój aplikacji</div>
+<div id='textA13' class='textService' style='display:none'>Wsparcie i rozwój aplikacji</div>
 
 <div id='textA14' class='textService' style='display:none'>Aplikacje do pobrania</div>
 
@@ -168,9 +168,9 @@ Aplikacje 3D
 </td>
 
 <td id='linkA13' class='mainNormal'  >
-<a class='linkService'  href='./utrzymanie-rozwoj-aplikacji/'  title='Utrzymanie, rozwój aplikacji'>
+<a class='linkService'  href='./wsparcie-rozwoj-aplikacji/'  title='Wsparcie, rozwój aplikacji'>
 
-Utrzymanie i rozwój<br> aplikacji
+Wsparcie i rozwój<br> aplikacji
 
 </a>
 </td>

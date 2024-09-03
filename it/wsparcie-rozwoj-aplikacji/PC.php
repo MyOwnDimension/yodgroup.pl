@@ -62,18 +62,18 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#co_to_1'  title='Czym jest utrzymanie aplikacji'>
+<a class='linkService'  href='#co_to_1'  title='Czym jest wsparcie aplikacji'>
 
-Czym jest<br>utrzymanie aplikacji
+Czym jest<br>wsparcie aplikacji
 
 </a>
 
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w utrzymaniu i rozwoju aplikacji'>
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie we wsparciu i rozwoju aplikacji'>
 
-Doświadczenie w<br> utrzymaniu i rozwoju
+Doświadczenie we<br> wsparcie i rozwoju
 
 </a>
 
@@ -81,7 +81,7 @@ Doświadczenie w<br> utrzymaniu i rozwoju
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie utrzymania i rozwoju aplikacji'>
+<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie wsparcia i rozwoju aplikacji'>
 
 Zastosowanie<br>
 
@@ -90,7 +90,7 @@ Zastosowanie<br>
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='#cele_1'  title='Cele utrzymania i rozwoju aplikacji'>
+<a class='linkService'  href='#cele_1'  title='Cele wsparcia i rozwoju aplikacji'>
 
 Cele<br>
 </a>
@@ -103,9 +103,9 @@ Cele<br>
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='#etapy_1'  title='Etapy utrzymania i rozwoju aplikacji'>
+<a class='linkService'  href='#etapy_1'  title='Etapy wsparcia i rozwoju aplikacji'>
 
-Etapy<br>utrzymania i rozwoju
+Etapy<br>wsparcia i rozwoju
 
 </a>
 
@@ -159,7 +159,7 @@ Kontakt
 <tr  >
 
 <td  colspan='4' class='contentDynamic'>
-<div id='textMain' class='textService' style='display:block'>Rozwój i utrzymanie aplikacji</div>
+<div id='textMain' class='textService' style='display:block'>Utrzymanie i rozwój aplikacji</div>
 <div id='textA0' class='textService' style='display:none'></div>
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
 <div id='textA2' class='textService' style='display:none'></div>
@@ -171,12 +171,12 @@ Kontakt
 <div id='textA8' class='textService' style='display:none'>Etapy utrzymania aplikacji</div>
 
 <div id='textA9' class='textService' style='display:none'>Kontakt</div>
-<div id='textA10' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>
-<div id='textA11' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>
-<div id='textA12' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>
-<div id='textA13' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>
-<div id='textA14' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>
-<div id='textA15' class='textService' style='display:none'>Rozwój i utrzymanie aplikacji</div>
+<div id='textA10' class='textService' style='display:none'>Utrzymanie i rozwój aplikacji</div>
+<div id='textA11' class='textService' style='display:none'>Utrzymanie i rozwój aplikacji</div>
+<div id='textA12' class='textService' style='display:none'>Utrzymanie i rozwój aplikacji</div>
+<div id='textA13' class='textService' style='display:none'>Utrzymanie i rozwój aplikacji</div>
+<div id='textA14' class='textService' style='display:none'>Utrzymanie i rozwój aplikacji</div>
+<div id='textA15' class='textService' style='display:none'>Utrzymanie i rozwój aplikacji</div>
 
 </td>
 

@@ -117,9 +117,9 @@ Aplikacje 3D
 </a>
 </td>
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./utrzymanie-rozwoj-aplikacji/'  title='Utrzymanie, rozwój aplikacji'>
+<a class='linkServiceMobile'  href='./wsparcie-rozwoj-aplikacji/'  title='Wsparcie, rozwój aplikacji'>
 
-Utrzymanie i rozwój<br> aplikacji
+Wsparcie i rozwój<br> aplikacji
 
 </a>
 </td>

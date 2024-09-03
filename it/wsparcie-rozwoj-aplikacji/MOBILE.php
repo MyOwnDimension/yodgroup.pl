@@ -56,9 +56,9 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='#co_to_2'  title='Czym jest utrzymanie aplikacji'>
+<a class='linkServiceMobile'  href='#co_to_2'  title='Czym jest wsparcie aplikacji'>
 
-Czym jest<br>utrzymanie aplikacji
+Czym jest<br>wsparcie aplikacji
 
 </a>
 
@@ -66,9 +66,9 @@ Czym jest<br>utrzymanie aplikacji
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w utrzymaniu i rozwoju aplikacji'>
+<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie we wsparciu i rozwoju aplikacji'>
 
-Doświadczenie w<br>utrzymaniu i rozwoju
+Doświadczenie we<br>wsparciu i rozwoju
 
 </a>
 
@@ -77,7 +77,7 @@ Doświadczenie w<br>utrzymaniu i rozwoju
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie utrzymania i rozwoju aplikacji'>
+<a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie wsparcia i rozwoju aplikacji'>
 
 Zastosowanie<br>
 
@@ -87,7 +87,7 @@ Zastosowanie<br>
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#cele_2'  title='Cele utrzymania i rozwoju aplikacji'>
+<a class='linkServiceMobile'  href='#cele_2'  title='Cele wsparcia i rozwoju aplikacji'>
 
 Cele<br>
 
@@ -100,9 +100,9 @@ Cele<br>
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy utrzymania i rozwoju aplikacji'>
+<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy wsparcia i rozwoju aplikacji'>
 
-Etapy<br>utrzymania i rozwoju
+Etapy<br>wsparcia i rozwoju
 
 </a>
 
