@@ -10,7 +10,7 @@ Proces wysyłanie emaili odbywa sie automatycznie.<br>
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>
 <center><h3 id='monitorowanie_pozycjonowania_2'>Doświadczenie w E-mailingu</h3></center>
-Lata wspierania rozwijających się biznesów sprawiły, że mieliśmy wiele okazji do poznania oczekiwań klientów i wyzwań jakie stawia przed nami ta forma komunikacji z potencjalnym klientem, jakim jest e-mailing.<br>
+Lata wspierania rozwijających się biznesów sprawiły, że miałem wiele okazji do poznania oczekiwań klientów i wyzwań jakie stawia przed nami ta forma komunikacji z potencjalnym klientem, jakim jest e-mailing.<br>
 
 
 

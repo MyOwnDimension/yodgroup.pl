@@ -7,7 +7,7 @@
 
 <HEAD>
 
-<TITLE>Automatyzacja procesów, pozycjonowanie WWW, SEO, wtyczki, pluginy, aplikacje 3d, VR, wirtualna rzeczywistość, e-mailing, aplikacje na zlecenie</TITLE>
+<TITLE>Usługi IT: automatyzacja procesów, pozycjonowanie WWW, SEO, wtyczki, pluginy, aplikacje 3d, VR, wirtualna rzeczywistość, e-mailing, aplikacje na zlecenie</TITLE>
 <link rel="canonical" href="https://yodgroup.pl/it/" >
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>

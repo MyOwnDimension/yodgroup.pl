@@ -5,7 +5,7 @@ Automatyzacja to proces mający na celu przenieść szereg działań wykonywanyc
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <center><h3 id='doswiadczenie_2'>Doświadczenie w automatyzacji</h3></center>
 Wiele lat doświadczenia we współpracy z firmami sprzedażowymi z sektora największych marek luksusowych,<br>
-pozwoliło nam poznać:<br>
+pozwoliło nmi poznać:<br>
 - szeroki zakres potrzeb automatyzacji procesów,<br>
 - metody jak osiągać cele stawiane przez klientów, <br>
 oraz efektywnie wprowadzić klienta w realia pracy z automatyzacją,<br>
@@ -16,7 +16,7 @@ oraz efektywnie wprowadzić klienta w realia pracy z automatyzacją,<br>
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>
 <center><h3 id='zastosowanie_2'>Zastosowanie automatyzacji</h3></center>
-Automatyzacja procesów w biznesie, znajduje zastosowanie wszędzie tam gdzie możemy wyodrębnić powtarzalne scenariusze wykonaywane przez pracownika.<br>
+Automatyzacja procesów w biznesie, znajduje zastosowanie wszędzie tam gdzie można wyodrębnić powtarzalne scenariusze wykonywane przez pracownika.<br>
 Dzięki aplikacji stworzonej konkretnie pod występujący scenariusz, są Państwo między innymi w stanie:<br>
 - zminimalizować ryzyko błędu człowieka, gdyż program zostanie przygotowany na reakcje w każdym scenariuszu otrzymanym od Państwa,<br>
 - przyspieszyć działanie,<br>
@@ -28,7 +28,7 @@ Dzięki aplikacji stworzonej konkretnie pod występujący scenariusz, są Państ
 <center><h3 id='cele_2'>Cele automatyzacji</h3></center>
 Celem automatyzacji procesów w firmie są między innymi:<br>
 - redukcja stałych kosztów związanych z zaangażowaniem pracownika w powtarzalne procesy, niewymagające kreatywności.<br>
-- minimalizacja ryzyka błędu, bowiem automat zostanie przygotowany na scenariusze nam przekazane i nie zadziała czynnik: zdekoncentrowania, zmęczenia itp.,<br>
+- minimalizacja ryzyka błędu, bowiem automat zostanie przygotowany na scenariusze mi przekazane i nie zadziała czynnik: zdekoncentrowania, zmęczenia itp.,<br>
 - przyspieszenie pracy, gdyż automat nie zatrzymując się przechodzi z kroku do kroku w łańcuchu scenariusza, wykonując przy tym wszystkie operacje znacznie szybciej,<br>
 
 <br><br>

@@ -7,7 +7,7 @@ Wtyczki tworzy się ściśle pod właściwą aplikację, która umożliwia rozsz
 <br><br>
 
 <center><h4 id='doswiadczenie_1'>Doświadczenie w tworzeniu rozszerzeń aplikacji</h4></center>
-W trakcie wielu lat pracy z różnymi narzędziami, mieliśmy wiele okoliczności do rozszerzenie funkcji owych progamów, jeśli taką możliwosć przewidział twórca narzędzia.<br>
+W trakcie wielu lat pracy z różnymi narzędziami, miałem wiele okoliczności do rozszerzenie funkcji owych progamów, jeśli taką możliwosć przewidział twórca narzędzia.<br>
 Były to aplikacje napisane między innymi w językach: C++, Java,<br>  
 
 <br><br>
@@ -16,7 +16,7 @@ Były to aplikacje napisane między innymi w językach: C++, Java,<br>
 
 <center><h4 id='zastosowanie_1'>Zastosowanie rozrzerzania funkcji aplikacji</h4></center>
 Jeśli producent narzędzia przewidział możliwość rozszerzenia funkcjonalności programu to sygnałem na dowód tego jest możliwość zainstalowania: dodatku, wtyczki (pluginu).<br>
-Chetnie przyjrzymy się każdej aplikacji, która umożlwia rozszerzenie jej funkcji i udzielimi wsparcia w zakresie potencjalnego jej rozwoju w celu osiągniecia Państwa celu.<br>
+Chetnie przyjrzę się każdej aplikacji, i sprawdzę czy umożlwia rozszerzenie jej funkcji i udzielimi wsparcia w zakresie potencjalnego jej rozwoju w celu osiągniecia Państwa celu.<br>
 Przykładami takich aplikacji są, między innymi:<br>
 - pakiet Microsoft Office,<br>
 - przeglądarki internetowe, np Mozilla Firefox,<br>

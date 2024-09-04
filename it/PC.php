@@ -102,32 +102,75 @@ Programy<br>na zlecenie
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług<br></div>
 
 
-<div id='textA4' class='textService' style='display:none'>Automatyzacja procesów w firmie pozwala między innymi:<br> przyspieszyć proces,<br> zredukować koszty,<br> zmniejszyć możliwość błędu<br><br></div>
-<div id='textA5' class='textService' style='display:none'>Skuteczny e-maling<br> <br><br></div>
+<div id='textA4' class='textService' style='display:none'>Automatyzacja procesów w firmie za pomoca narzędzi komputerowych, pozwala między innymi:<br>
+- przyspieszyć proces,<br>
+- zredukować koszty,<br>
+- zminimalizować ryzyko błędu,<br>
+
+</div>
+
+<div id='textA5' class='textService' style='display:none'>Skuteczny e-maling.<br>
+Automatyczne, masowe wysyłanie wiadomości elektronicznej do wcześniej zdefiniowanej grupy odbiorców.<br>
+Narzędzie w trakcie rozwoju. Chętnie poznam Państwa oczekwiania aby usprawnić aplikację.<br>
+</div>
 
 
-<div id='textA6' class='textService' style='display:none'>Usługi pozycjonowania WWW <br>Jesteśmy w tym najlepsi </div>
+<div id='textA6' class='textService' style='display:none'>Usługi pozycjonowania WWW.<br>
+Państwa strona ma szansę pojawić się jako pierwsza w wynikach wyszukiwania w Google, Bing, itp.<br>
+Zwiększy to ilość odwiedzin a tym samym zainteresowanie Państwa usługami i produktami.<br>
+Najlepsze efekty zauważalne są wraz z usługą SEO.<br>
+</div>
 
-<div id='textA7' class='textService' style='display:none'>Usługi optymalizacji stron WWW - SEO <br>Jesteśmy w tym najlepsi </div>
+<div id='textA7' class='textService' style='display:none'>Usługi optymalizacji stron WWW - SEO. <br>
+Przygotuję kod Państwa strony WWW w sposób, który ułatwi wyszukanie jej w Google, Bing, itp.<br>
+Zwiększy to ilość odwiedzin a tym samym zainteresowanie Państwa usługami i produktami.<br>
+Najlepsze efekty zauważalne są wraz z usługą pozycjonowania.<br>
+</div>
 
-<div id='textA8' class='textService' style='display:none'>Tworzymy programy na zlecenie:<br> - mobilne<br>- PC </div>
+<div id='textA8' class='textService' style='display:none'>Wykonuję programy na zlecenie:<br>
+- mobilne<br>
+- PC <br>
+</div>
 
-<div id='textA9' class='textService' style='display:none'>Tworzymy skrypty, rozszerzenia do aplikacji i frameworków: <br>- do Państwa narzędzi, jeśli na to pozwalają<br>- do przeglądarek internetowych<br>- wtyczki wordpress<br> </div>
+<div id='textA9' class='textService' style='display:none'>Tworzę dodatki, skrypty, rozszerzenia do aplikacji i frameworków: <br>
+- do Państwa narzędzi, jeśli na to pozwalają,<br>
+- framework WordPress,<br>
+</div>
 
-<div id='textA10' class='textService' style='display:none'>Wirtualna rzeczywistość </div>
+<div id='textA10' class='textService' style='display:none'>Wirtualna rzeczywistość VR.<br>
+Chętnie poszerzę moje doświadczenie w VR, o kontakt z Państwem w temacie wykonania aplikacji współpracującej z Państwa narzędziem do wirtualnej rzeczywistości.<br>
+</div>
 
-<div id='textA11' class='textService' style='display:none'>Grafika 3D </div>
+<div id='textA11' class='textService' style='display:none'>Grafika 3D.<br>
+Modeluję, teksturuję, oświetlam, obiekty 3d i całe sceny 3d.<br>
+Grafika 3d z wymaganym poziomem szczegółowości i fotorealizmem.
+</div>
 
-<div id='textA12' class='textService' style='display:none'>Aplikacje 3D </div>
+<div id='textA12' class='textService' style='display:none'>Aplikacje 3D:<br>
+- wirtualne, interaktywne spacery,<br>
+- interaktywne prezentacje obiektów,<br>
+ </div>
 
-<div id='textA13' class='textService' style='display:none'>Wsparcie i rozwój aplikacji</div>
+<div id='textA13' class='textService' style='display:none'>Wsparcie i rozwój aplikacji.<br>
+Wspieram nieprzerwane i efektywne funkcjonowanie aplikacji.
+</div>
 
 <div id='textA14' class='textService' style='display:none'>Aplikacje do pobrania</div>
 
-<div id='textA15' class='textService' style='display:none'>Pozsotałe usługi<br> Zparaszamy</div>
+<div id='textA15' class='textService' style='display:none'>Pozostałe usługi<br> Zapraszam</div>
 
 
-<div id='textMain' class='textMain' style='display:block'>Projekt Yod Group<br><br>Jesteśmy pasjonatami rozwiązań cyfrowych<br>Automatyzujemy procesy w firmie<br>Pozycjononujemy strony WWW + SEO<br>Tworzymy rozszerzenia do programów<br><br>Zapraszamy do zapoznania się z aktualną ofertą<br></div>
+<div id='textMain' class='textMain' style='display:block'>
+Projekt: YOD Group<br><br>
+Z wykształcenia jestem grafikiem 3D i programistą.<br>
+I od początku edukacji nieprzerwanym pasjonatą rozwiązań cyfrowych.<br>
+Przez lata związany ze światem IT w jednej z największych korporacji.<br>
+Aktualnie wykonuję usługi na podstawie:<br>
+- umowy zlecenia,<br>
+- umowy o dzieło,<br>
+- działalności nierejestrowanej,<br><br>
+Zapraszam do zapoznania się z aktualną ofertą.<br>
+</div>
 	
 </td>
 

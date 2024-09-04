@@ -5,7 +5,7 @@ Pozycjonowanie WWW jest szeregiem procesów, mających na celu uzyskanie jak naj
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 
 <center><h3 id='doswiadczenie_2'>Doświadczenie w pozycjonowaniu</h3></center>
-Doświadczenie w pozycjonowaniu stron WWW zdobyliśmy wśród wielu lat zgłębiania wiedzy na temat funkcjonowania wyszukiwarek internetowych oraz podczas pracy zawodowej w firmach w całym kraju.<br>
+Doświadczenie w pozycjonowaniu stron WWW zdobyłem w trakcie wielu lat zgłębiania wiedzy na temat funkcjonowania wyszukiwarek internetowych oraz podczas pracy zawodowej w firmach w całym kraju.<br>
 
 <br><br>
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
@@ -34,7 +34,7 @@ Celem pozycjnowania Państwa strony internetowej, jest zdobycie jak najwyższej 
 Wśród etapów pozycjonowania stron WWW wyróżnić należy:<br>
 - wywiad ze zleceniodawcą na temat oczekiwań stawianych od strony internetowej,<br>
 - wspólne ustalenie strategii pozycjonowania i ram czasowych,<br>
-- działania po naszej stronie zmierzające do uzyskania stawianych nam celów pozycjonowania,<br>
+- działania po mojej stronie zmierzające do uzyskania stawianych nam celów pozycjonowania,<br>
 - okres monitorownaia efektów pozycjonowania, zależny między innymi od czynników zewnętrznych,<br>
 - ewentualna reakcja na zmiany w wynikach wyszkukwiania na skutek zmian np. w obszarze konkurencji,<br>
 

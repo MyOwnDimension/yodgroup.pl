@@ -9,8 +9,8 @@ Wiąże się on z rozwiązywaniem zgłaszanych usterek, problemów, naprawianiem
 <br><br>
 
 <center><h3 id='doswiadczenie_2'>Doświadczenie we wsparciu i rozwoju aplikacji</h3></center>
-Doświadczenie zdobyliśmy podczas wielu lat pracy:<br>
-- z narzędziami stosowanymi w firmach, które nam zaufały,<br>
+Doświadczenie zdobyłem podczas wielu lat pracy:<br>
+- z narzędziami stosowanymi w firmach, które mi zaufały,<br>
 - dla właścicieli największych zagranicznych marek,<br>
 
 

@@ -7,13 +7,13 @@ Grafika 3d jest trójwymiarową reprezentacją obiektów zwizualizowanych w cyfr
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br>
 <center><h4 id='doswiadczenie_1'>Doświadczenie w grafice 3D</h4></center>
-Doświadczenie zdobyliśmy korzystając z programów: 3D Studio Max i Blender 3D.<br>
-Wykonaliśmy wizualizacje:<br>
+Doświadczenie zdobyłem korzystając z programów: 3D Studio Max i Blender 3D.<br>
+Doświadczenie w wizualizacji:<br>
 - aranżacji wnętrz,<br>
 - powierzchni magazynowych,<br>
 - obiektów deweloperkich,<br>
 - obiektów sakralnych,<br>
-- produktów z ofert naszych klientów,<br>
+- produktów z ofert klientów,<br>
 
 
 

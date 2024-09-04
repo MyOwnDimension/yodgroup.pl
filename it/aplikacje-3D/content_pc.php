@@ -9,7 +9,7 @@ Aplikacje 3D najczęściej wykorzystują rendering w czasie rzeczywistym, symulu
 <br><br>
 
 <center><h4 id='doswiadczenie_1'>Doświadczenie w aplikacjach 3D</h4></center>
-Doświadczenie w tworzeniu aplikacji 3D zdobyliśmy urzywając języków C# i C++ w narzędziach Unity 3D i Quest 3D (Act-3D B.V.).<br>
+Doświadczenie w tworzeniu aplikacji 3D zdobyłem używając języków C# i C++ w narzędziach Unity3D i Quest3D (Act-3D B.V.).<br>
 
 
 

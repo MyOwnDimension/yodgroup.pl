@@ -9,7 +9,7 @@ Jak najwyższe wypozycjonowanie strony WWW oznacza pojawienie się jej jak najwy
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 
 <center><h4 id='doswiadczenie_1'>Doświadczenie w SEO</h4></center>
-Lata praktyki tworzenia stron w kodzie oraz doświadczeń z różnymi metodami optymalizacji pozwala nam sprostać każdemu wyzwaniu optymalizacji strony i osiągać najwyższe pozycje w wyszukiwarkach internetowych.<br>
+Lata praktyki tworzenia stron w kodzie oraz doświadczeń z różnymi metodami optymalizacji pozwala mi sprostać każdemu wyzwaniu optymalizacji strony i osiągać najwyższe pozycje w wyszukiwarkach internetowych.<br>
 
 
 
@@ -18,7 +18,7 @@ Lata praktyki tworzenia stron w kodzie oraz doświadczeń z różnymi metodami o
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br>
 <center><h4 id='zastosowanie_1'>Zastosowanie SEO</h4></center>
-Optymalizacja stron WWW pod kątem wyszukiwarek znajduje zastosowanie w przypadku każdej strony internetowej dla której możemy zaingerować w kod strony: pośrednio, poprzez możliwości frameworka lub bezpośrednio zmieniając kod w plikach stron WWW.<br>
+Optymalizacja stron WWW pod kątem wyszukiwarek znajduje zastosowanie w przypadku każdej strony internetowej dla której mogę ingerować w kod strony: pośrednio, poprzez możliwości frameworka lub bezpośrednio zmieniając kod w plikach stron WWW.<br>
 
 
 
@@ -40,7 +40,7 @@ Przekłada się to na większe prawdopodobieństo zainteresowania Państwa produ
 Wśród etapów SEO należy wymienić:<br>
 - analiza strony,<br>
 - zdefiniowanie celu do osiągniecia w wyszukiwarkach,<br>
-- zdefiniowanie słów kluczowych, fraz, pod które zoptymalizujemy stronę WWW,<br>
+- zdefiniowanie słów kluczowych, fraz, pod które zoptymalizuję stronę WWW,<br>
 - właściwy proces optymalizacji strony w środowisku nieprodukcyjnym,<br>
 - akceptacja zmian,<br>
 - wdrożenie zmian w środowisku produkcyjnym,<br>
