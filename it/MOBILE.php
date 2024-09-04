@@ -16,7 +16,9 @@ Wszystkie usługi
 <?php
  //echo 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
  ?>
-
+ <div class='linkUnknownMobile'>
+Strona w rozwoju
+</div>
 </td>
 </tr>
 

@@ -174,7 +174,7 @@ Aktualnie wykonuję usługi na podstawie:<br>
 - umowy o dzieło,<br>
 - działalności nierejestrowanej,<br>
 Zapraszam do zapoznania się z aktualną ofertą.<br>
-Strona w trakcie rozwoju.<br>
+Strona w rozwoju.<br>
 </div>
 	
 </td>
