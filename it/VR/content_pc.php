@@ -6,7 +6,7 @@ Wirtualna rzeczywistość - virtual reality - to cyfrowa reprezentacja świata r
 
 <center><h4 id='doswiadczenie_1'>Doświadczenie w VR</h4></center>
 Nasze doświadczenie zaczeliśmy budować na wrodzonej ciekawości wobec nowoczesnych rozwiązań i chęci pomocy w tworzeniu nowy wirtualnych światów.<br>
-Chętnie poszerzymy nasze doświadczenie o kontakt z Państwem w temacie wykonania aplikacji współpracującej z Państwa narzędziem do wirtualnej rzeczywistości, VR.
+Chętnie poszerzymy nasze doświadczenie o kontakt z Państwem w temacie wykonania aplikacji współpracującej z Państwa narzędziem do wirtualnej rzeczywistości, VR.<br>
 
 
 

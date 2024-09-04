@@ -1,5 +1,4 @@
-<center><h4 id='co_to_1'>Czym jest optymalizacja SEO</h4></center>
-
+<center><h4 id='co_to_1'>Czym jest optymalizacja WWW, SEO</h4></center>
 SEO - Search Engine Optimization - czyli optymalizacja stron WWW pod kątem wyszukiwarek internetowych, to proces w trakcie którego dokonuje się ingerencji w kod strony aby wywołać efekt jak najwyższego wypozycjonowania strony po słowach kluczowych wpisanych w wyszukiwarkę.<br>
 Ingerencja w kod strony może byc bezpośrednia, co ma miejsce w przypadku stron stworzonych bez użycia frameworków, lub pośrednia w przypadku frameworków jak WrodPress itp.<br>
 Jak najwyższe wypozycjonowanie strony WWW oznacza pojawienie się jej jak najwyżej w wynikach wyszukiwania w Google, Bing itp, podjętych przez użytkowników internetu.<br>
@@ -10,7 +9,7 @@ Jak najwyższe wypozycjonowanie strony WWW oznacza pojawienie się jej jak najwy
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 
 <center><h4 id='doswiadczenie_1'>Doświadczenie w SEO</h4></center>
-Lata praktyki tworzenia stron w kodzie oraz doświadczeń z różnymi metodami optymalizacji pozwala nam sprostać każdemu wyzwaniu optymalizacji strony i osiągać najwyższe pozycje w wyszukiwarkach internetowych.
+Lata praktyki tworzenia stron w kodzie oraz doświadczeń z różnymi metodami optymalizacji pozwala nam sprostać każdemu wyzwaniu optymalizacji strony i osiągać najwyższe pozycje w wyszukiwarkach internetowych.<br>
 
 
 

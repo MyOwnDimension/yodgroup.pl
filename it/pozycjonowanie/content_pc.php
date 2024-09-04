@@ -5,7 +5,8 @@ Pozycjonowanie jest szeregiem procesów, mających na celu uzyskanie jak najwyż
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 
 <center><h4 id='doswiadczenie_1'>Doświadczenie w pozycjonowaniu</h4></center>
-Doświadczenie w pozycjonowaniu stron WWW zdobyliśmy wśród wielu lat zgłębiania wiedzy na temat funkcjonowania wyszukiwarek internetowych oraz podczas pracy zawodowej w firmach w całym kraju.
+Doświadczenie w pozycjonowaniu stron WWW zdobyliśmy wśród wielu lat zgłębiania wiedzy na temat funkcjonowania wyszukiwarek internetowych oraz podczas pracy zawodowej w firmach w całym kraju.<br>
+
 <br><br>
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br>
@@ -42,6 +43,7 @@ Wśród etapów pozycjonowania wyróżnić należy:<br>
 <br><br>
 <center><h4 id='monitorowanie_1'>Monitorowanie pozycjonowania</h4></center>
 Monitorowanie pozycjonowania strony WWW jak i efektów prac optymalizacji mają miejsce drogą mejlową, w postaci raportu przekazywanego w ustalonych przedziałach czasu.<br>
+
 <br><br>
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br>

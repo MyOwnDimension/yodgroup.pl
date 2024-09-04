@@ -3,11 +3,8 @@ Program stworzony na Państwa zlecenie to narzędzie komputerowe (PC-desktop, mo
 
 
 
-
 <br><br>
-
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
-
 <center><h4 id='doswiadczenie_1'>Doświadczenie w aplikacjach na zlecenie</h4></center>
 Od lat tworzymy narzędzia mobilne i desktop (dla PC) mające na celu usprawnienie codziennych aktywności w biznesie i w życiu codziennym.
 
@@ -20,7 +17,7 @@ Od lat tworzymy narzędzia mobilne i desktop (dla PC) mające na celu usprawnien
 <br><br>
 <center><h4 id='zastosowanie_1'>Zastosowanie aplikacji na zlecenie</h4></center>
 Tworzenie aplikacji na zlecenie stosuje się w przypadku specyficznych potrzeb klienta, które nie mogą być zaspokojone typowymi programami dostępnymi na rynku.<br>
-W tym przypadku stworzymy dla Państwa program, który będzie odpowiedzią na Państwa potrzeby.
+W tym przypadku stworzymy dla Państwa program, który będzie odpowiedzią na Państwa potrzeby.<br>
 
 
 
@@ -30,7 +27,7 @@ W tym przypadku stworzymy dla Państwa program, który będzie odpowiedzią na P
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br>
 <center><h4 id='cele_1'>Cele aplikacji na zlecenie</h4></center>
-Celem takich programów na zlecenie jest sprostanie Państwa oczekiwaniom, które żywicie wobec aplikacji mogącej pomóc w realizacji Państwa celów nie tylko biznesowych.
+Celem takich programów na zlecenie jest sprostanie Państwa oczekiwaniom, które żywicie wobec aplikacji mogącej pomóc w realizacji Państwa celów nie tylko biznesowych.<br>
 
 
 

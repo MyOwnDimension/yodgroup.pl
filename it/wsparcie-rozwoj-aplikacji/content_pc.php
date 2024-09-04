@@ -33,7 +33,7 @@ Wsparcie aplikacji znajduje zastosowanie w przypadku:<br>
 <br><br>
 <center><h4 id='cele_1'>Cele wsparcia i rozwoju aplikacji</h4></center>
 Celem wsparcia jest dostarczenie usługi: obsługi klienta i aplikacji, o jak najwyższej jakości.<br>
-Zapewnienie nieprzerwanego i efektywnego działania aplikacji oraz komunikacji z klientem.
+Zapewnienie nieprzerwanego i efektywnego działania aplikacji oraz komunikacji z klientem.<br>
 
 
 
