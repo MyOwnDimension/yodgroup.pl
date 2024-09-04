@@ -31,6 +31,20 @@ AddHandler application/x-httpd-php7 php
 #Wersja PHP zmieniona: 2021-07-18 09:19:51
 #AddHandler application/x-httpd-php5 php 
 
+#Forcing HTTPS on All Traffic
 RewriteEngine On 
-RewriteCond %{HTTPS} on 
-RewriteRule ^(.*)$ http://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# if a directory or a file exists, use it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# otherwise forward it to index.php
+RewriteRule ^ https://%{HTTP_HOST}%
+
+#Forcing HTTPS on a Specific Domain
+#RewriteEngine On 
+#RewriteCond %{HTTP_HOST} ^yourdomain1.com [NC] 
+#RewriteCond %{HTTPS} off 
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
