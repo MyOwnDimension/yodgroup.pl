@@ -17,7 +17,7 @@ Lata praktyki tworzenia stron w kodzie oraz doświadczeń z różnymi metodami o
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br>
 <center><h3 id='zastosowanie_2'>Zastosowanie SEO</h3></center>
-Optymalizacja stron pod kątem wyszukiwarek znajduje zastosowanie w przypadku każdej strony internetowej dla której możemy zaingerować w kod strony: pośrednio, poprzez możliwości frameworka lub bezpośrednio zmieniając kod w plikach stron WWW.<br>
+Optymalizacja stron WWW pod kątem wyszukiwarek znajduje zastosowanie w przypadku każdej strony internetowej dla której możemy zaingerować w kod strony: pośrednio, poprzez możliwości frameworka lub bezpośrednio zmieniając kod w plikach stron WWW.<br>
 
 
 

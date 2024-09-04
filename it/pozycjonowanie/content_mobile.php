@@ -1,5 +1,5 @@
 <center><h3 id='co_to_2'>Czym jest pozycjonowanie WWW</h3></center>
-Pozycjonowanie jest szeregiem procesów, mających na celu uzyskanie jak najwyższej pozycji Państwa strony w wynikach wyszukiwania w przeglądarce WWW, jako efekt wyszukiwania słów kluczowych.<br>
+Pozycjonowanie WWW jest szeregiem procesów, mających na celu uzyskanie jak najwyższej pozycji Państwa strony w wynikach wyszukiwania w przeglądarce WWW, jako efekt wyszukiwania słów kluczowych.<br>
 <br><br>
 
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
@@ -31,7 +31,7 @@ Celem pozycjnowania Państwa strony internetowej, jest zdobycie jak najwyższej 
 <br><br>
 <center><a  href='#top' class='linkToTopMobile' >Wróć na górę strony</a></center>
 <br><br><center><h3 id='etapy_2'>Etapy pozycjonowania</h3></center>
-Wśród etapów pozycjonowania wyróżnić należy:<br>
+Wśród etapów pozycjonowania stron WWW wyróżnić należy:<br>
 - wywiad ze zleceniodawcą na temat oczekiwań stawianych od strony internetowej,<br>
 - wspólne ustalenie strategii pozycjonowania i ram czasowych,<br>
 - działania po naszej stronie zmierzające do uzyskania stawianych nam celów pozycjonowania,<br>
