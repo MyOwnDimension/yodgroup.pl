@@ -6,7 +6,7 @@
 <HTML lang='pl'> 
 
 <HEAD>
-<link rel="canonical" href="https://yodgroup.pl/" >
+<link rel="canonical" href="http://yodgroup.pl/" >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta name='robots' content='index,follow' >
 <meta name='keywords' content='automatyzacja procesów, pozycjonowanie www, wtyczki, SEO, VR, e-mailing, zlecenie, programowanie, wirtualna rzeczywistość'>
@@ -22,7 +22,7 @@
   
 
   
-<script type='text/javascript' src= "https://yodgroup.pl/noindex/pl/scripts/main.js" >
+<script type='text/javascript' src= "./noindex/pl/scripts/main.js" >
 
 </script>
 
@@ -161,7 +161,7 @@ include ('MOBILE.php');
 
 
 
-<script type='text/javascript' src='https://yodgroup.pl/noindex/pl/it/scripts/mainPcMobile.js'>
+<script type='text/javascript' src='./noindex/pl/it/scripts/mainPcMobile.js'>
 
 
 </script>
