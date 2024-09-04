@@ -39,11 +39,11 @@ Celem takich programów na zlecenie jest sprostanie Państwa oczekiwaniom, któr
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br><center><h4 id='etapy_1'>Etapy aplikacji na zlecenie</h4></center>
 Do etapów tworzenia programu na zlecenie, należą:<br>
-- szczegółowy wywiad ze zeceniodawcą, aby poznać potrzeby i oczekiwania.<br>
-- przygotowanie planu aplikacji<br>
-- rozwój aplikacji i dzielenie sie z Klientem efektami postępów na każdym etapie rozwoju narzędzia, akceptacja etapów<br>
-- testy aplikacji<br>
-- wdrożenie aplikacji w środowisku Klienta<br>
+- szczegółowy wywiad ze zeceniodawcą, aby poznać potrzeby i oczekiwania,<br>
+- przygotowanie planu aplikacji,<br>
+- rozwój aplikacji i dzielenie się z Klientem efektami postępów na każdym etapie rozwoju narzędzia, akceptacja etapów,<br>
+- testy aplikacji,<br>
+- wdrożenie aplikacji w środowisku Klienta,<br>
 
 
 
@@ -51,9 +51,9 @@ Do etapów tworzenia programu na zlecenie, należą:<br>
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br>
 <br><br><center><h4 id='przyklady_1'>Przykłady aplikacji na zlecenie</h4></center>
-1. Aplikacja wyszukująca konkretne informacje w internecie i informująca o rezultatach, np. drogą email lub mobilnie.<br>
-2. Program do wykonywania kopii zapasowych dokumentów i plików<br>
-3. Narzędzie do wysyłania wiadomości SMS (online)<br>
+1. Aplikacja wyszukująca specyficzne informacje w internecie i informująca o rezultatach, np. drogą email lub mobilnie,<br>
+2. Program do wykonywania kopii zapasowych dokumentów i plików,<br>
+3. Narzędzie do wysyłania wiadomości SMS (online),<br>
 
 
 
