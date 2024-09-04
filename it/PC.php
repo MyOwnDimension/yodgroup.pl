@@ -155,9 +155,12 @@ Grafika 3d z wymaganym poziomem szczegółowości i fotorealizmem.
 Wspieram nieprzerwane i efektywne funkcjonowanie aplikacji.
 </div>
 
-<div id='textA14' class='textService' style='display:none'>Aplikacje do pobrania</div>
+<div id='textA14' class='textService' style='display:none'>Aplikacje do pobrania.<br>
+STRONA W BUDOWIE.<br>
+</div>
 
-<div id='textA15' class='textService' style='display:none'>Pozostałe usługi<br> Zapraszam</div>
+<div id='textA15' class='textService' style='display:none'>Pozostałe usługi<br>
+STRONA W BUDOWIE.<br></div>
 
 
 <div id='textMain' class='textMain' style='display:block'>
