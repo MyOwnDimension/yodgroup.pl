@@ -5,7 +5,7 @@
 <TITLE>SEO - optymalizacja stron WWW - Yod Group</TITLE>
 <link rel="canonical" href="http://yodgroup.pl/it/seo-optymalizacja/" >
 <meta name="keywords" content="automatyzacja procesów, redukcja kosztów, automat, praca, program, aplikacja">
-<meta name="description" content="Wykonujemy optymalizację stron WWW pod kątem wyszukiwarek. Zwiększamy widoczność strony w internacie, co wzmacnia reklamę strony.">
+<meta name="description" content="Wykonujemy optymalizację stron WWW pod kątem wyszukiwarek - SEO. Zwiększamy pozycjonowanie, widoczność strony w internacie, co wzmacnia reklamę strony.">
 
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>

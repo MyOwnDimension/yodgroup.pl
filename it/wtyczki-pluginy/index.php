@@ -5,7 +5,7 @@
 <TITLE>Wtyczki (pluginy), dodatki do programów - Yod Group</TITLE>
 <link rel="canonical" href="http://yodgroup.pl/it/wtyczki-pluginy/" >
 <meta name="keywords" content="wtyczki, plugin, dodatki, rozszerzenia, nowa funkcja, program, aplikacja, narzędzie">
-<meta name="description" content="Oferujemy wykonanie wtyczek, rozszerzeń do istniejących aplikacji. Dzięki czemu Państwa progam zyska nowe możliwości.">
+<meta name="description" content="Oferujemy wykonanie wtyczek (dodatków, pluginów), rozszerzeń do istniejących aplikacji. Dzięki czemu Państwa program zyska nowe możliwości.">
 
 
 <meta name='robots' content='index,follow' >

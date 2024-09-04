@@ -2,10 +2,10 @@
 <HTML lang='pl'>
 <HEAD>
 
-<TITLE>Utrzymanie i rozwój aplikacji - Yod Group</TITLE>
-<link rel="canonical" href="http://yodgroup.pl/it/utrzymanie-rozwoj-aplikacji/" >
-<meta name="keywords" content="zarządzanie, utrzymanie, aplikacja, rozwój , sklep online, narzędzie, application maintenance">
-<meta name="description" content="Oferujemy usługi utrzymania i rozwóju aplikacji. My zajmiemy się zarządzaniem i rozwojem narzędzia wykorzystywanego przez Państwa do prowadzenia biznesu, np: sklep online, narzędzia desktopowe">
+<TITLE>Wsparcie i rozwój aplikacji - Yod Group</TITLE>
+<link rel="canonical" href="http://yodgroup.pl/it/wsparcie-rozwoj-aplikacji/" >
+<meta name="keywords" content="zarządzanie, wsparcie, aplikacja, rozwój , sklep online, narzędzie, application maintenance">
+<meta name="description" content="Oferujemy usługi wsparcia i rozwóju aplikacji. My zajmiemy się zarządzaniem i rozwojem narzędzia wykorzystywanego przez Państwa do prowadzenia biznesu, np: sklep online, narzędzia desktopowe.">
 
 
 <meta name='robots' content='index,follow' >

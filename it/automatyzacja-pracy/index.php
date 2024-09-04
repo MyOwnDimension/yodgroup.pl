@@ -5,7 +5,7 @@
 <TITLE>Automatyzacja procesów - Yod Group</TITLE>
 <link rel="canonical" href="http://yodgroup.pl/it/automatyzacja-pracy/" >
 <meta name="keywords" content="automatyzacja procesów, redukcja kosztów, proces, automat, biznes, firma, praca, program, narzędzia">
-<meta name="description" content="Oferujemy automatyzację procesów za pomocą wyspecjalizowanych, dedykowanych aplikacji, co wpływa na redukcję kosztów i usprawnienie pracy">
+<meta name="description" content="Oferujemy automatyzację pracy (procesów) za pomocą wyspecjalizowanych, dedykowanych aplikacji. Automatyzacja wpływa na redukcję kosztów i usprawnienie pracy">
 
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>

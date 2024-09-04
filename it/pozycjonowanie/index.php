@@ -5,7 +5,7 @@
 <TITLE>Pozycjonowanie stron WWW - Yod Group</TITLE>
 <link rel="canonical" href="http://yodgroup.pl/it/pozycjonowanie/" >
 <meta name="keywords" content="pozycjonowanie, WWW, reklama, online, ranking, wyszukiwarka">
-<meta name="description" content="Oferujemy pozycjonowanie stron WWW. Najlepsza reklama online. Zwiększamy widoczność, dostępność stron w internecie.">
+<meta name="description" content="Oferujemy pozycjonowanie stron WWW. Najlepsza reklama online. Państwa strona ma szansę wyświetlić się jako pierwsza w wynikach wyszukiwania.">
 
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
