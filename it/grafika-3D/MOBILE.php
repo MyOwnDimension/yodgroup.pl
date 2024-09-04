@@ -171,7 +171,21 @@ include('content_mobile.php');
 
 </tr>
 
+<tr  >
 
+<td  class='mainSmallMobile'>
+<a href='../' class='linkSmallerMobile'>
+
+Wszystkie usługi
+
+	</a>
+</td>
+
+
+<td class='mainSmallMobile' >
+
+</td>
+</tr>
 
 <tr>
 
