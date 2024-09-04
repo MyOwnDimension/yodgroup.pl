@@ -5,7 +5,7 @@
 <TITLE>Programy na zlecenie - Yod Group</TITLE>
 <link rel="canonical" href="https://yodgroup.pl/it/programy-na-zlecenie/" >
 <meta name="keywords" content="zlecenie, programowanie, programista, aplikacja, program, narzędzie, kod aplikacji">
-<meta name="description" content="Wykonujmey programy na zlecenie: PC i mobilne.">
+<meta name="description" content="Wykonuję programy na zlecenie: PC i mobilne.">
 
 
 <meta name='robots' content='index,follow' >

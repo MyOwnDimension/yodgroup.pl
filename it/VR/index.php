@@ -5,14 +5,13 @@
 <TITLE>Wirtualna rzeczywistość, VR, CAVE, Jaskinia 3D - Yod Group</TITLE>
 <link rel="canonical" href="https://yodgroup.pl/it/vr/" >
 <meta name="keywords" content="wirtualna, rzeczywistość, 3d, vr, cave, jaskinia 3d">
-<meta name="description" content="Oferujemy wykonanie aplikacji współpracujących z urządzeniami wirtualnej rzeczywistości VR oraz automatyczne środowisko wirtualnej jaskini (CAVE) - jaskinia 3d.">
+<meta name="description" content="Oferuję wykonanie aplikacji współpracujących z urządzeniami wirtualnej rzeczywistości VR oraz automatyczne środowisko wirtualnej jaskini (CAVE) - jaskinia 3d.">
 
 
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta name='Language' content='PL'>
 <meta name='keywords' content='e-mailing, mail, wysyłanie'>
-<meta name='description' content='Oferujemy skuteczny emailing dedykowany stronom WordPress w postaci pluginu oraz za pomocą narzędzia zewnętrznego.'>
 <meta name='Author' content='Yod Group'>
 <meta name='Revisit-after' content='7 days'>
 <link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/services_it.css'>

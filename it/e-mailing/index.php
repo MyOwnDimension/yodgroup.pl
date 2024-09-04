@@ -5,14 +5,12 @@
 <TITLE>E-mailing - Yod Group</TITLE>
 <link rel="canonical" href="https://yodgroup.pl/it/e-mailing/" >
 <meta name="keywords" content="email, e-mailing, automatyzacja, poczta, wysyłanie">
-<meta name="description" content="Oferujemy narzędzia do przeprowadzenia e-mailingu lub zlecenie tej czynności naszemu zespołowi.">
-
+<meta name="description" content="Oferuję narzędzia umożliwiające Państwu przeprowadzenia e-mailingu lub zlecenie wykonania tej czynności.">
 
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta name='Language' content='PL'>
 <meta name='keywords' content='e-mailing, mail, wysyłanie'>
-<meta name='description' content='Oferujemy skuteczny emailing dedykowany stronom WordPress w postaci pluginu oraz za pomocą narzędzia zewnętrznego.'>
 <meta name='Author' content='Yod Group'>
 <meta name='Revisit-after' content='7 days'>
 <link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/services_it.css'>

@@ -5,7 +5,7 @@
 <TITLE>Aplikacje do pobrania - Yod Group</TITLE>
 <link rel="canonical" href="https://yodgroup.pl/it/aplikacja-program/" >
 <meta name="keywords" content="aplikacja, pobranie, darmowa, płatna, program, download">
-<meta name="description" content="Oferujemy gotowe aplikacje do pobrania, ułatwiające prowadzenie biznesu.">
+<meta name="description" content="Oferuję gotowe aplikacje do pobrania, ułatwiające prowadzenie biznesu.">
 
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>

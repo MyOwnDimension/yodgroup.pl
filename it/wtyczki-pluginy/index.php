@@ -5,14 +5,12 @@
 <TITLE>Wtyczki (pluginy), dodatki do programów - Yod Group</TITLE>
 <link rel="canonical" href="https://yodgroup.pl/it/wtyczki-pluginy/" >
 <meta name="keywords" content="wtyczki, plugin, dodatki, rozszerzenia, nowa funkcja, program, aplikacja, narzędzie">
-<meta name="description" content="Oferujemy wykonanie wtyczek (dodatków, pluginów), rozszerzeń do istniejących aplikacji. Dzięki czemu Państwa program zyska nowe możliwości.">
-
+<meta name="description" content="Oferuję wykonanie wtyczek (dodatków, pluginów), rozszerzeń do istniejących aplikacji. Dzięki czemu Państwa program zyska nowe możliwości.">
 
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta name='Language' content='PL'>
 <meta name='keywords' content='e-mailing, mail, wysyłanie'>
-<meta name='description' content='Oferujemy skuteczny emailing dedykowany stronom WordPress w postaci pluginu oraz za pomocą narzędzia zewnętrznego.'>
 <meta name='Author' content='Yod Group'>
 <meta name='Revisit-after' content='7 days'>
 <link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/services_it.css'>

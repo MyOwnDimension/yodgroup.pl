@@ -5,7 +5,7 @@
 <TITLE>Wsparcie i rozwój aplikacji - Yod Group</TITLE>
 <link rel="canonical" href="https://yodgroup.pl/it/wsparcie-rozwoj-aplikacji/" >
 <meta name="keywords" content="zarządzanie, wsparcie, aplikacja, rozwój , sklep online, narzędzie, application maintenance">
-<meta name="description" content="Oferujemy usługi wsparcia i rozwóju aplikacji. My zajmiemy się zarządzaniem i rozwojem narzędzia wykorzystywanego przez Państwa do prowadzenia biznesu, np: sklep online, narzędzia desktopowe.">
+<meta name="description" content="Oferuję usługi wsparcia i rozwóju aplikacji. Zajmę się zarządzaniem i rozwojem narzędzia wykorzystywanego przez Państwa do prowadzenia biznesu, np: sklep online, narzędzia desktopowe.">
 
 
 <meta name='robots' content='index,follow' >

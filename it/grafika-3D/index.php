@@ -5,7 +5,7 @@
 <TITLE>Grafika 3D - Yod Group</TITLE>
 <link rel="canonical" href="https://yodgroup.pl/it/grafika-3D/" >
 <meta name="keywords" content="grafika, 3D, model, wirtualny, produkt, scena, 3d studio max, 3d blender">
-<meta name="description" content="Grafika 3d. Wykonujemy modelowanie 3D z wysoką szczegółowością i fotorealizmem: całych wirtualnych scen jak i produktów z Państwa oferty.">
+<meta name="description" content="Grafika 3d. Wykonuję modelowanie 3D z wysoką szczegółowością i fotorealizmem: całych wirtualnych scen jak i produktów z Państwa oferty.">
 
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>

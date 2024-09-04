@@ -5,7 +5,7 @@
 <TITLE>Usługi Inne - Yod Group</TITLE>
 <link rel="canonical" href="https://yodgroup.pl/it/uslugi-inne/" >
 <meta name="keywords" content="usługi, it, firma, biznes">
-<meta name="description" content="Oferujemy usługi dzięki którym będą Państwo łatwiej mogli osiągać biznesowe cele.">
+<meta name="description" content="Oferujeę usługi dzięki którym będą Państwo łatwiej mogli osiągać biznesowe cele.">
 
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>

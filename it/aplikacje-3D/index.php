@@ -5,7 +5,7 @@
 <TITLE>Aplikacje 3D - Yod Group</TITLE>
 <link rel="canonical" href="https://yodgroup.pl/it/aplikacje-3D/" >
 <meta name="keywords" content="3D, aplikacja, program, fotorealizm, wirtualny, real time, czas rzeczywisty">
-<meta name="description" content="Oferujmy usługi tworzenia aplikacji 3D z precyzją wykonania wirtualnej sceny i wysokim fotorealizmem, sprzyjające zanurzeniu się w wirtualny świat aplikacji.">
+<meta name="description" content="Oferuję usługi tworzenia aplikacji 3D z precyzją wykonania wirtualnej sceny i wysokim fotorealizmem, sprzyjające zanurzeniu się w wirtualny świat aplikacji.">
 
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>

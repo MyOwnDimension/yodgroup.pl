@@ -13,7 +13,7 @@
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta name='Language' content='PL'>
 <meta name='keywords' content='automatyzacja procesów, pozycjonowanie www, wtyczki, SEO, VR, e-mailing, zlecenie, programowanie, wirtualna rzeczywistość'>
-<meta name='description' content='Oferujemy całą gamę usług IT: automatyzacja procesów, pozycjonowanie WWW, SEO optymalizację stron, wtyczki, pluginy, aplikacje 3d, wirtualną rzeczywistość VR, e-mailing, aplikacje na zlecenie.'>
+<meta name='description' content='Oferuję całą gamę usług IT: automatyzacja procesów, pozycjonowanie WWW, SEO optymalizację stron, wtyczki, pluginy, aplikacje 3d, wirtualną rzeczywistość VR, e-mailing, aplikacje na zlecenie.'>
 <meta name='Author' content='Yod Group'>
 <meta name='Revisit-after' content='7 days'>
 <link rel='shortcut icon' href='../images/YodGroup.ico'>
