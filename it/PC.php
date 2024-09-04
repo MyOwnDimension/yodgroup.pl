@@ -128,8 +128,8 @@ Najlepsze efekty zauważalne są wraz z usługą pozycjonowania.<br>
 </div>
 
 <div id='textA8' class='textService' style='display:none'>Wykonuję programy na zlecenie:<br>
-- mobilne<br>
-- PC <br>
+- PC,<br>
+- Android,<br>
 </div>
 
 <div id='textA9' class='textService' style='display:none'>Tworzę dodatki, skrypty, rozszerzenia do aplikacji i frameworków: <br>

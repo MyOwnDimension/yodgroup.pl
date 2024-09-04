@@ -10,13 +10,13 @@ header('Content-Type: image/png');
 
 /* black for the text */
 
-   $black = imagecolorallocate($im, 55, 55, 55);
+   $black = imagecolorallocate($im, 0, 50, 192);
 
 $text = 'Usługi     IT';
  $text = wordwrap($text, 7, "\n",true); 
  
 /* put the text on the image */
-  imagettftext($im, 500, 00, 300, 1000, $black, "./noindex/fonts/arialbd.ttf", $text);
+  imagettftext($im, 300, 0, 700, 1000, $black, "./noindex/fonts/arialbd.ttf", $text);
 
   imagepng($im);
 

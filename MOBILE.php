@@ -1,7 +1,10 @@
 <div class='itMobile'>
 
-<a class='linkService'  href='./it/' title='automatyzacja procesów, pozycjonowanie WWW, SEO optymalizacja, wtyczki, pluginy, aplikacje 3d, wirtualną rzeczywistość VR, grafika 3d, e-mailing, aplikacje na zlecenie.'>
+
+<a class='linkService'  href='./it/' title='Automatyzacja procesów, pozycjonowanie WWW, SEO optymalizacja, wtyczki, pluginy, aplikacje 3d, wirtualną rzeczywistość VR, grafika 3d, e-mailing, aplikacje na zlecenie.'>
+
 <img src='./img_uslugi_it_mobile.php' alt='automatyzacja procesów, pozycjonowanie WWW, SEO optymalizacja, wtyczki, pluginy, aplikacje 3d, wirtualną rzeczywistość VR, grafika 3d, e-mailing, aplikacje na zlecenie.' style='width:250px;height:250px;'>
+
 </a>
 
 </div>
