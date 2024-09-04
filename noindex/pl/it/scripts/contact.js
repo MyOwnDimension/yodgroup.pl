@@ -142,5 +142,19 @@ inputMessage.innerHTML = '';
 			inputEmail.setAttribute('value', '');	
 			inputMobile.setAttribute('value', '');		
 			inputSubject.setAttribute('value', '');		
+			
+			
+						let inputNameMobile = document.getElementById("inputNameMobile");   
+			let inputEmailMobile = document.getElementById("inputEmailMobile");	  
+			let inputMobileMobile = document.getElementById("inputMobileMobile");		
+			let inputSubjectMobile = document.getElementById("inputSubjectMobile");	
+var inputMessageMobile = document.getElementById('inputMessageMobile');
+inputMessageMobile.innerHTML = '';
+
+		
+			inputNameMobile.setAttribute('value', '');	
+			inputEmailMobile.setAttribute('value', '');	
+			inputMobileMobile.setAttribute('value', '');		
+			inputSubjectMobile.setAttribute('value', '');		
 
 			};

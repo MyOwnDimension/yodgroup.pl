@@ -152,7 +152,7 @@ Grafika 3d z wymaganym poziomem szczegółowości i fotorealizmem.
  </div>
 
 <div id='textA13' class='textService' style='display:none'>Wsparcie i rozwój aplikacji.<br>
-Wspieram nieprzerwane i efektywne funkcjonowanie aplikacji.
+Wspieram w celu nieprzerwanego i efektywnego funkcjonowanie aplikacji.
 </div>
 
 <div id='textA14' class='textService' style='display:none'>Aplikacje do pobrania.<br>
@@ -166,13 +166,15 @@ STRONA W BUDOWIE.<br></div>
 <div id='textMain' class='textMain' style='display:block'>
 Projekt: YOD Group<br><br>
 Z wykształcenia jestem grafikiem 3D i programistą.<br>
-I od początku edukacji nieprzerwanym pasjonatą rozwiązań cyfrowych.<br>
+I od początku edukacji nieprzerwanym pasjonatą:<br>
+rozwiązań cyfrowych, aktywności ruchowej i samorozwoju.<br>
 Przez lata związany ze światem IT w jednej z największych korporacji.<br>
 Aktualnie wykonuję usługi na podstawie:<br>
 - umowy zlecenia,<br>
 - umowy o dzieło,<br>
-- działalności nierejestrowanej,<br><br>
+- działalności nierejestrowanej,<br>
 Zapraszam do zapoznania się z aktualną ofertą.<br>
+Strona w trakcie rozwoju.<br>
 </div>
 	
 </td>
