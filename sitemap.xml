@@ -1,37 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>http://yodgroup.pl/</loc>
-  <lastmod>2024-08-21T13:55:55+00:00</lastmod>
-  <priority>1.00</priority>
+	<loc>http://yodgroup.pl/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>http://yodgroup.pl/it/</loc>
-  <lastmod>2024-08-21T13:55:55+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>http://yodgroup.pl/it/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>http://yodgroup.pl/it/automatyzacja-procesow-w-firmie/</loc>
-  <lastmod>2024-08-21T13:55:55+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>http://yodgroup.pl/it/automatyzacja-pracy/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://yodgroup.pl/it/pozycjonowanie-stron-www/</loc>
-  <lastmod>2024-08-21T13:55:55+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>http://yodgroup.pl/it/e-mailing/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://yodgroup.pl/it/rozszerzanie-funkcjonalnosci-programow/</loc>
-  <lastmod>2024-08-21T13:55:55+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>http://yodgroup.pl/it/pozycjonowanie/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
-
-
+<url>
+	<loc>http://yodgroup.pl/it/seo-optymalizacja/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://yodgroup.pl/it/programy-na-zlecenie/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://yodgroup.pl/it/wtyczki-pluginy/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://yodgroup.pl/it/vr/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://yodgroup.pl/it/grafika-3D/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://yodgroup.pl/it/aplikacje-3D/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://yodgroup.pl/it/wsparcie-rozwoj-aplikacji/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://yodgroup.pl/it/aplikacja-program/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://yodgroup.pl/it/uslugi-inne/</loc>
+	<lastmod>2024-09-04T13:29:39+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
 </urlset>

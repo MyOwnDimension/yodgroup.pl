@@ -40,7 +40,7 @@ Zapewnienie nieprzerwanego i efektywnego działania aplikacji oraz komunikacji z
 <br><br>
 <center><a  href='#top' class='linkToTop' >Wróć na górę strony</a></center>
 <br><br><center><h4 id='etapy_1'>Etapy wsparcia i rozwoju aplikacji</h4></center>
-- postawienie środowiska testowego czyli niższego niż produkcyjne<br>
+- postawienie środowiska testowego czyli niższego niż produkcyjne,<br>
 - rozpoznanie rodzaju napotkanego błędu, problemu,<br>
 - replikacja (powtórzenie) błędu na środowisku testowym,<br>
 - naprawa błędu na środowisku testowym,<br>
