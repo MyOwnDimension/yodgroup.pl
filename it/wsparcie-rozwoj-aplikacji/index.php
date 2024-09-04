@@ -3,7 +3,7 @@
 <HEAD>
 
 <TITLE>Wsparcie i rozwój aplikacji - Yod Group</TITLE>
-<link rel="canonical" href="http://yodgroup.pl/it/wsparcie-rozwoj-aplikacji/" >
+<link rel="canonical" href="https://yodgroup.pl/it/wsparcie-rozwoj-aplikacji/" >
 <meta name="keywords" content="zarządzanie, wsparcie, aplikacja, rozwój , sklep online, narzędzie, application maintenance">
 <meta name="description" content="Oferujemy usługi wsparcia i rozwóju aplikacji. My zajmiemy się zarządzaniem i rozwojem narzędzia wykorzystywanego przez Państwa do prowadzenia biznesu, np: sklep online, narzędzia desktopowe.">
 
@@ -15,7 +15,7 @@
 <meta name='Revisit-after' content='7 days'>
 <link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/services_it.css'>
 <link rel='shortcut icon' href='../../images/YodGroup.ico'>
-<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
   <link rel="stylesheet" href= "../../noindex/pl/it/css/jquery-ui-1.12.1.css"> 
   <script type='text/javascript' src= "../../noindex/pl/it/scripts/jquery-ui-1.12.1.js"> 

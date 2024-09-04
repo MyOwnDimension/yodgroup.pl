@@ -3,7 +3,7 @@
 <HEAD>
 
 <TITLE>Aplikacje 3D - Yod Group</TITLE>
-<link rel="canonical" href="http://yodgroup.pl/it/aplikacje-3D/" >
+<link rel="canonical" href="https://yodgroup.pl/it/aplikacje-3D/" >
 <meta name="keywords" content="3D, aplikacja, program, fotorealizm, wirtualny, real time, czas rzeczywisty">
 <meta name="description" content="Oferujmy usługi tworzenia aplikacji 3D z precyzją wykonania wirtualnej sceny i wysokim fotorealizmem, sprzyjające zanurzeniu się w wirtualny świat aplikacji.">
 
@@ -14,7 +14,7 @@
 <meta name='Revisit-after' content='7 days'>
 <link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/services_it.css'>
 <link rel='shortcut icon' href='../../images/YodGroup.ico'>
-<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
   <link rel="stylesheet" href= "../../noindex/pl/it/css/jquery-ui-1.12.1.css"> 
   <script type='text/javascript' src= "../../noindex/pl/it/scripts/jquery-ui-1.12.1.js"> 

@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /scripts/
 Disallow: /noindex/
 
-sitemap: http://yodgroup.pl/sitemap.xml
+sitemap: https://yodgroup.pl/sitemap.xml

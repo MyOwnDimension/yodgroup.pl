@@ -3,7 +3,7 @@
 <HEAD>
 
 <TITLE>Automatyzacja procesów - Yod Group</TITLE>
-<link rel="canonical" href="http://yodgroup.pl/it/automatyzacja-pracy/" >
+<link rel="canonical" href="https://yodgroup.pl/it/automatyzacja-pracy/" >
 <meta name="keywords" content="automatyzacja procesów, redukcja kosztów, proces, automat, biznes, firma, praca, program, narzędzia">
 <meta name="description" content="Oferujemy automatyzację pracy (procesów) za pomocą wyspecjalizowanych, dedykowanych aplikacji. Automatyzacja wpływa na redukcję kosztów i usprawnienie pracy">
 
@@ -14,7 +14,7 @@
 <meta name='Revisit-after' content='7 days'>
 <link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/services_it.css'>
 <link rel='shortcut icon' href='../../images/YodGroup.ico'>
-<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
   <link rel="stylesheet" href= "../../noindex/pl/it/css/jquery-ui-1.12.1.css"> 
   <script type='text/javascript' src= "../../noindex/pl/it/scripts/jquery-ui-1.12.1.js"> 

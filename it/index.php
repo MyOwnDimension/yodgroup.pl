@@ -8,7 +8,7 @@
 <HEAD>
 
 <TITLE>Automatyzacja procesów, pozycjonowanie WWW, SEO, wtyczki, pluginy, aplikacje 3d, VR, wirtualna rzeczywistość, e-mailing, aplikacje na zlecenie</TITLE>
-<link rel="canonical" href="http://yodgroup.pl/it/" >
+<link rel="canonical" href="https://yodgroup.pl/it/" >
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta name='Language' content='PL'>
@@ -23,7 +23,7 @@
 <!--<link rel='shortcut icon' href='images/test.ico'>-->
 
 <!--<script type='text/javascript' language='JavaScript' src='javascripts/main.js'></script>-->
-<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
   <link rel="stylesheet" href= "../noindex/pl/it/css/jquery-ui-1.12.1.css">
   <script type='text/javascript' src= "../noindex/pl/it/scripts/jquery-ui-1.12.1.js">

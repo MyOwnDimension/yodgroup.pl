@@ -3,7 +3,7 @@
 <HEAD>
 
 <TITLE>Pozycjonowanie stron WWW - Yod Group</TITLE>
-<link rel="canonical" href="http://yodgroup.pl/it/pozycjonowanie/" >
+<link rel="canonical" href="https://yodgroup.pl/it/pozycjonowanie/" >
 <meta name="keywords" content="pozycjonowanie, WWW, reklama, online, ranking, wyszukiwarka">
 <meta name="description" content="Oferujemy pozycjonowanie stron WWW. Najlepsza reklama online. Państwa strona ma szansę wyświetlić się jako pierwsza w wynikach wyszukiwania.">
 
@@ -14,7 +14,7 @@
 <meta name='Revisit-after' content='7 days'>
 <link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/services_it.css'>
 <link rel='shortcut icon' href='../../images/YodGroup.ico'>
-<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
   <link rel="stylesheet" href= "../../noindex/pl/it/css/jquery-ui-1.12.1.css"> 
   <script type='text/javascript' src= "../../noindex/pl/it/scripts/jquery-ui-1.12.1.js"> 

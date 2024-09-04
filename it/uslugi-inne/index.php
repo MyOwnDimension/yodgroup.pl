@@ -3,7 +3,7 @@
 <HEAD>
 
 <TITLE>Usługi Inne - Yod Group</TITLE>
-<link rel="canonical" href="http://yodgroup.pl/it/uslugi-inne/" >
+<link rel="canonical" href="https://yodgroup.pl/it/uslugi-inne/" >
 <meta name="keywords" content="usługi, it, firma, biznes">
 <meta name="description" content="Oferujemy usługi dzięki którym będą Państwo łatwiej mogli osiągać biznesowe cele.">
 
@@ -14,7 +14,7 @@
 <meta name='Revisit-after' content='7 days'>
 <link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/services_it.css'>
 <link rel='shortcut icon' href='../../images/YodGroup.ico'>
-<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
   <link rel="stylesheet" href= "../../noindex/pl/it/css/jquery-ui-1.12.1.css"> 
   <script type='text/javascript' src= "../../noindex/pl/it/scripts/jquery-ui-1.12.1.js"> 

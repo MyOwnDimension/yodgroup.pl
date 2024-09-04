@@ -3,7 +3,7 @@
 <HEAD>
 
 <TITLE>E-mailing - Yod Group</TITLE>
-<link rel="canonical" href="http://yodgroup.pl/it/e-mailing/" >
+<link rel="canonical" href="https://yodgroup.pl/it/e-mailing/" >
 <meta name="keywords" content="email, e-mailing, automatyzacja, poczta, wysyłanie">
 <meta name="description" content="Oferujemy narzędzia do przeprowadzenia e-mailingu lub zlecenie tej czynności naszemu zespołowi.">
 
@@ -17,7 +17,7 @@
 <meta name='Revisit-after' content='7 days'>
 <link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/services_it.css'>
 <link rel='shortcut icon' href='../../images/YodGroup.ico'>
-<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
   <link rel="stylesheet" href= "../../noindex/pl/it/css/jquery-ui-1.12.1.css"> 
   <script type='text/javascript' src= "../../noindex/pl/it/scripts/jquery-ui-1.12.1.js"> 
