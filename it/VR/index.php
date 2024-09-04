@@ -3,9 +3,9 @@
 <HEAD>
 
 <TITLE>Wirtualna rzeczywistość, VR, CAVE, Jaskinia 3D - Yod Group</TITLE>
-<link rel="canonical" href="http://yodgroup.pl/it/VR/" >
+<link rel="canonical" href="http://yodgroup.pl/it/vr/" >
 <meta name="keywords" content="wirtualna, rzeczywistość, 3d, vr, cave, jaskinia 3d">
-<meta name="description" content="Oferujemy wykonanie aplikacji współpracujących z urządzeniami VR oraz automatyczne środowisko wirtualne (CAVE) - jaskinia 3d.">
+<meta name="description" content="Oferujemy wykonanie aplikacji współpracujących z urządzeniami wirtualnej rzeczywistości VR oraz automatyczne środowisko wirtualnej jaskini (CAVE) - jaskinia 3d.">
 
 
 <meta name='robots' content='index,follow' >
