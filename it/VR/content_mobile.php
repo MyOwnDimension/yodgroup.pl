@@ -1,5 +1,5 @@
-<center><h3 id='co_to_2'>Czym jest VR</h3></center>
-<center><h4 id='co_to_1'>Czym jest wirtualna rzeczywistość</h4></center>
+
+<center><h3 id='co_to_2'>Czym jest wirtualna rzeczywistość</h3></center>
 Wirtualna rzeczywistość - virtual reality - to cyfrowa reprezentacja świata realnego lub fikcyjnego, za pomocą obiektów 3D renderowanych w czasie rzeczywistym lub za pomocą obrazów uzyskanych z innych źródeł niż modelowanie trójwymiarowe, w której symuluje się warunki panujące w odzwierciedlanym środowisku: kolizja, interakcja z obiektami, dźwięk towrzyszący interakcji, itp.<br>
 
 
@@ -21,11 +21,10 @@ Chętnie poszerzę moje doświadczenie o kontakt z Państwem w temacie wykonania
 <center><h3 id='zastosowanie_2'>Zastosowanie VR</h3></center>
 Wirtualna rzeczywistość znajduje zastosowanie wszędzie tam, gdzie jej użytkownik ma korzyści wynikające z zanurzenia się zmysłami w wirtualną rzeczywistość i doświadczenia wrażeń z niej płynących, w warunkach symulowancyh.<br>
 Znajduje zastosowanie w:<br>
-- prezentacji produktów 3d,<br>
-- prezentacji i eksploracji scen 3d,<br>
-- terapii lęku, depresji, stresu pourazowego (PTSD),<br>
-
-
+- prezentacji produktów 3d: elektronika, produkty wielkogabarytowe,<br>
+- prezentacji i eksploracji scen 3d: spacer 3d po inwestycji mieszkaniowej, wielkopowierzchniowej<br>
+- edukacji: nauczanie po przez wirtualne doświadczenia,<br>
+- terapii: lęku, depresji, stresu pourazowego (PTSD),<br>
 
 
 <br><br>

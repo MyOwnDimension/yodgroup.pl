@@ -2,7 +2,7 @@
 
 
 
-<script type="text/javascript" src= "../../noindex/pl/it/scripts/contact.js">
+<script type="text/javascript" src= "../../scripts/it/scripts/contact-20240916.js">
 
 			</script>
 
@@ -14,7 +14,7 @@
 			<td colspan="3">
 		
 <div class="textService1">
-Zachęcamy do kontaktu
+Zachęcam do kontaktu
 <br>
 </div>
 </td>
@@ -72,6 +72,7 @@ $toemail1 = "biuro.it@yodgroup.pl";
 //  ."Content-Transfer-Encoding: 8bit \r\n"
 // ."Content-Type: text/html; charset=utf-8 \r\n";
 
+    echo '<p class="emailInfo">Formularz jeszcze nieaktywny. Proszę użyć adresu email.</p><br><br>';
 
 
 if (isset($_POST["reset"])) {
@@ -264,7 +265,7 @@ $messageStart="Proszę o kontakt \n\n";
 	
 	</td>
 	<td  align='center'>  		
-			<button type="submit" name="send">&nbsp&nbsp Wyślij &nbsp&nbsp</button>
+			<button type="submit" name="send1">&nbsp&nbsp Wyślij &nbsp&nbsp</button>
 			<br>
 			</td>
 			</tr>	
@@ -276,6 +277,7 @@ $messageStart="Proszę o kontakt \n\n";
 			</center>
 			<br><br> 
 			</form>
+			
 
 		
 

@@ -4,30 +4,32 @@
 <tr  class='mainSmaller'>
 
 <td class='mainSmaller' >
-
-<a class='linkSmaller' id='linkA1' href='../'>
-Wszystkie usługi
-</a>
-
+<?php
+include ('../noindex/pl/menuPC-mainIT.php');
+?>
 </td>
 <td colspan='2' >
+<a class='linkSmaller' id='linkA2' href='../o_mnie/'>
+O mnie
+</a>
+<!--
 <table id='table' class=language>
 
 <tr>
 
 <td class='mainSmallerLanguage' >
-<!--
+
 <a class='linkSmallerLanguage' href='../'>
 PL
 </a>
--->
+
 </td>
 <td  class='mainSmallerLanguage'>
-<!--
+
 <a class='linkSmallerLanguage' href='../'>
 PL
 </a>
--->
+
 </td>
 <td class='mainSmallerLanguage' >
 
@@ -39,6 +41,7 @@ PL
 </tr>
 
 </table>
+-->
 </td>
 
 <td  >
@@ -52,7 +55,7 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='./automatyzacja-pracy/'  title='Automatyzacja procesów w biznesie'>
+<a class='linkService'  href='./automatyzacja_pracy/'  title='Automatyzacja procesów w biznesie'>
 
 Automatyzacja pracy
 
@@ -61,7 +64,7 @@ Automatyzacja pracy
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='./e-mailing/'  title='E-mailing w biznesie'>
+<a class='linkService'  href='./e_mailing/'  title='E-mailing w biznesie'>
 
 E-mailing
 
@@ -70,19 +73,18 @@ E-mailing
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='./pozycjonowanie/'  title='Pozycjonowanie stron WWW'>
+<a class='linkService'  href='./pozycjonowanie_seo/'  title='Pozycjonowanie stron WWW, optymalizacja SEO'>
 
-Pozycjonowanie WWW
+Pozycjonowanie WWW<br>+ SEO
 
 </a>
 
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='./seo-optymalizacja/'  title='SEO - optymalizacja WWW'>
+<a class='linkService'  href='./wtyczki_pluginy/'  title='Rozszerzanie funkcji programów: wtyczki, pluginy'>
 
-SEO<br>optymalizacja
-
+Wtyczki (pluginy), dodatki
 </a>
 </td>
 
@@ -91,7 +93,7 @@ SEO<br>optymalizacja
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='./programy-na-zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
+<a class='linkService'  href='./programy_na_zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
 
 Programy<br>na zlecenie
 
@@ -100,6 +102,21 @@ Programy<br>na zlecenie
 <td colspan='2' rowspan='2'  class=main>
 
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług<br></div>
+
+
+<div id='textA2' class='textService' style='display:none'>
+Projekt: YOD Group<br><br>
+Z wykształcenia jestem grafikiem 3D i programistą.<br>
+I od początku edukacji nieprzerwanym pasjonatą:<br>
+rozwiązań cyfrowych, aktywności ruchowej i samorozwoju.<br>
+Przez lata związany ze światem IT w jednej z największych korporacji.<br>
+Aktualnie wykonuję usługi na podstawie:<br>
+- umowy zlecenia,<br>
+- umowy o dzieło,<br>
+<br>
+Zapraszam do zapoznania się z aktualną ofertą.<br>
+Strona w rozwoju.<br>
+</div>
 
 
 <div id='textA4' class='textService' style='display:none'>Automatyzacja procesów w firmie za pomoca narzędzi komputerowych, pozwala między innymi:<br>
@@ -115,16 +132,16 @@ Narzędzie w trakcie rozwoju. Chętnie poznam Państwa oczekwiania aby usprawni�
 </div>
 
 
-<div id='textA6' class='textService' style='display:none'>Usługi pozycjonowania WWW.<br>
+<div id='textA6' class='textService' style='display:none'>Usługi pozycjonowania WWW i optymalizacji SEO<br>
 Państwa strona ma szansę pojawić się jako pierwsza w wynikach wyszukiwania w Google, Bing, itp.<br>
 Zwiększy to ilość odwiedzin a tym samym zainteresowanie Państwa usługami i produktami.<br>
-Najlepsze efekty zauważalne są wraz z usługą SEO.<br>
+Przygotuję kod Państwa strony WWW w sposób, który ułatwi wyszukanie jej w Google, Bing, itp.<br>
+
 </div>
 
-<div id='textA7' class='textService' style='display:none'>Usługi optymalizacji stron WWW - SEO. <br>
-Przygotuję kod Państwa strony WWW w sposób, który ułatwi wyszukanie jej w Google, Bing, itp.<br>
-Zwiększy to ilość odwiedzin a tym samym zainteresowanie Państwa usługami i produktami.<br>
-Najlepsze efekty zauważalne są wraz z usługą pozycjonowania.<br>
+<div id='textA7' class='textService' style='display:none'>Tworzę dodatki, skrypty, rozszerzenia do aplikacji i frameworków: <br>
+- do Państwa narzędzi, jeśli na to pozwalają,<br>
+- framework WordPress,<br>
 </div>
 
 <div id='textA8' class='textService' style='display:none'>Wykonuję programy na zlecenie:<br>
@@ -132,19 +149,21 @@ Najlepsze efekty zauważalne są wraz z usługą pozycjonowania.<br>
 - Android,<br>
 </div>
 
-<div id='textA9' class='textService' style='display:none'>Tworzę dodatki, skrypty, rozszerzenia do aplikacji i frameworków: <br>
-- do Państwa narzędzi, jeśli na to pozwalają,<br>
-- framework WordPress,<br>
+
+<div id='textA9' class='textService' style='display:none'>Grafika 3D.<br>
+Modeluję, teksturuję, oświetlam, obiekty 3d i całe sceny 3d.<br>
+Grafika 3d z wymaganym poziomem szczegółowości i fotorealizmem.
 </div>
 
 <div id='textA10' class='textService' style='display:none'>Wirtualna rzeczywistość VR.<br>
 Chętnie poszerzę moje doświadczenie w VR, o kontakt z Państwem w temacie wykonania aplikacji współpracującej z Państwa narzędziem do wirtualnej rzeczywistości.<br>
 </div>
 
-<div id='textA11' class='textService' style='display:none'>Grafika 3D.<br>
-Modeluję, teksturuję, oświetlam, obiekty 3d i całe sceny 3d.<br>
-Grafika 3d z wymaganym poziomem szczegółowości i fotorealizmem.
+
+<div id='textA11' class='textService' style='display:none'>Cave 3D - jaskinia 3D<br>
+Dysponuję projektem Jaskini 3D (CAVE), automatyczne wirtualne środowisko jaskiniowe,<br>
 </div>
+
 
 <div id='textA12' class='textService' style='display:none'>Aplikacje 3D:<br>
 - wirtualne, interaktywne spacery,<br>
@@ -172,7 +191,7 @@ Przez lata związany ze światem IT w jednej z największych korporacji.<br>
 Aktualnie wykonuję usługi na podstawie:<br>
 - umowy zlecenia,<br>
 - umowy o dzieło,<br>
-- działalności nierejestrowanej,<br>
+<br>
 Zapraszam do zapoznania się z aktualną ofertą.<br>
 Strona w rozwoju.<br>
 </div>
@@ -180,9 +199,10 @@ Strona w rozwoju.<br>
 </td>
 
 <td id='linkA9' class='mainNormal' >
-<a class='linkService'  href='./wtyczki-pluginy/'  title='Rozszerzanie funkcji programów: wtyczki, pluginy'>
+<a class='linkService'  href='./grafika_3D/'  title='Grafika 3D'>
 
-Wtyczki (pluginy), dodatki
+Grafika 3D
+
 </a>
 </td>
 
@@ -197,9 +217,9 @@ VR<br>wirtualna rzeczywistość
 </td>
 
 <td id='linkA11' class='mainNormal' >
-<a class='linkService'  href='./grafika-3D/'  title='Grafika 3D'>
+<a class='linkService'  href='./cave_jaskinia_3D/'  title='Cave 3D, Jaskinia'>
 
-Grafika 3D
+CAVE 3D<br>Jaskinia
 
 </a>
 </td>
@@ -208,7 +228,7 @@ Grafika 3D
 
 
 <td id='linkA12' class='mainNormal' >
-<a class='linkService'  href='./aplikacje-3D/'  title='Aplikacje 3D'>
+<a class='linkService'  href='./aplikacje_3D/'  title='Aplikacje 3D'>
 
 Aplikacje 3D
 
@@ -216,14 +236,14 @@ Aplikacje 3D
 </td>
 
 <td id='linkA13' class='mainNormal'  >
-<a class='linkService'  href='./wsparcie-rozwoj-aplikacji/'  title='Wsparcie, rozwój aplikacji'>
+<a class='linkService'  href='./wsparcie_rozwoj_aplikacji/'  title='Wsparcie, rozwój aplikacji'>
 
 Wsparcie i rozwój<br> aplikacji
 
 </a>
 </td>
 <td id='linkA14' class='mainNormal' >
-<a class='linkService'  href='./aplikacja-program/'  title='Aplikacje ,programy do pobrania'>
+<a class='linkService'  href='./pobierz_program/'  title='Aplikacje ,programy do pobrania'>
 
 Aplikacje do<br>pobrania
 
@@ -233,7 +253,7 @@ Aplikacje do<br>pobrania
 
 
 <td id='linkA15' class='mainNormal'  >
-<a class='linkService'  href='./uslugi-inne/'  title='Inne usługi'>
+<a class='linkService'  href='./uslugi_inne/'  title='Inne usługi'>
 
 Inne usługi
 </a>

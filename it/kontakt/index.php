@@ -12,14 +12,14 @@
 <meta name='Author' content='Rozwój Firmy'>
 <meta name='Language' content='PL'>
 <meta name='Revisit-after' content='7 days'>
-<link rel='stylesheet' type='text/css' href='../../../noindex/pl/it/css/contact.css'>
+<link rel='stylesheet' type='text/css' href='../../../css/it/css/contact.css'>
 <!--<link rel='shortcut icon' href='images/test.ico'>-->
 <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
-  <link rel="stylesheet" href= "../../../noindex/pl/it/css/jquery-ui-1.12.1.css"> 
-  <script type='text/javascript' src= "../../../noindex/pl/it/css/scripts/jquery-ui-1.12.1.js"> 
+  <link rel="stylesheet" href= "../../../css/it/css/jquery-ui-1.12.1.css"> 
+  <script type='text/javascript' src= "../../../css/it/css/scripts/jquery-ui-1.12.1.js"> 
   </script> 
-      <script type='text/javascript' src='../../../noindex/pl/it/css/contact.js'>
+      <script type='text/javascript' src='../../../css/it/css/contact.js'>
 
 </script>
 

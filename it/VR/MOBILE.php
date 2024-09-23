@@ -3,28 +3,43 @@
 <tr  class='mainSmallerMobile'>
 
 <td class='mainSmallerMobile' >
-<a class='linkSmallerMobile' href='../'>
-Wszystkie usługi
+<!--	<noscript>-->
+
+<?php
+include ('../../noindex/pl/menuMOBILE-IT.php');
+?>
+
+<!--
+	</noscript>
+	
+<div class='back'>
+<a class='linkSmallerMobile' href='javascript:history.back()'>
+Powrót
 </a>
+</div>
+-->
 </td>
-<td  >
+<td class='mainSmallerMobile' >
+<a class='linkSmallerMobile'  href='../../o_mnie/'>
+O mnie
+</a>
+<!--
 <table class=languageMobile>
 
 <tr>
 
 <td class='mainSmallerLanguageMobile' >
-<!--
+
 <a class='linkSmallerLanguage' href='../'>
 PL
 </a>
--->
 </td>
 <td  class='mainSmallerLanguageMobile'>
-<!--
+
 <a class='linkSmallerLanguage' href='../'>
 PL
 </a>
--->
+
 </td>
 <td class='mainSmallerLanguageMobile' >
 
@@ -36,6 +51,7 @@ PL
 </tr>
 
 </table>
+-->
 </td>
 
 

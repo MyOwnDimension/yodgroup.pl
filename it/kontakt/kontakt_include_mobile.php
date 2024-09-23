@@ -2,7 +2,7 @@
 
 
 
-<script type="text/javascript" src= "../../noindex/pl/it/scripts/contact.js">
+<script type="text/javascript" src= "../../scripts/it/scripts/contact-20240916.js">
 
 			</script>
 
@@ -14,7 +14,7 @@
 			<td colspan="2">
 		
 <div class="textService1Mobile">
-Zachęcamy do kontaktu
+Zachęcam do kontaktu
 <br>
 </div>
 </td>
@@ -72,7 +72,7 @@ $toemail1 = "biuro.it@yodgroup.pl";
 //  ."Content-Transfer-Encoding: 8bit \r\n"
 // ."Content-Type: text/html; charset=utf-8 \r\n";
 
-
+    echo '<p class="emailInfoMobile">Formularz jeszcze nieaktywny. Proszę użyć adresu email.</p><br><br>';
 
 if (isset($_POST["reset"])) {
     $fname1 = "";
@@ -293,7 +293,7 @@ $messageStart="Proszę o kontakt \n\n";
 
 			<td>  
 
-			<button type="submit" name="sendMobile" style="font-family: 'Verdana'; font-size: 35px; margin-left: auto; margin-right: auto;  position: absolute;" >&nbsp&nbsp Wyślij &nbsp&nbsp</button>
+			<button type="submit" name="sendMobile1" style="font-family: 'Verdana'; font-size: 35px; margin-left: auto; margin-right: auto;  position: absolute;" >&nbsp&nbsp Wyślij &nbsp&nbsp</button>
 			<br>
 			</td>
 			</tr>	

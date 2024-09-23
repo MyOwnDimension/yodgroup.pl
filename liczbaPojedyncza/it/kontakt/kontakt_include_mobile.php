@@ -2,7 +2,7 @@
 
 
 
-<script type="text/javascript" src= "../../noindex/pl/it/scripts/contact.js">
+<script type="text/javascript" src= "../../scripts/it/scripts/contact.js">
 
 			</script>
 

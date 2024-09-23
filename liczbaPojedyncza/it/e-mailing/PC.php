@@ -62,18 +62,18 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='#co_to_1'  title='Czym jest e-mailing'>
+<a class='linkService'  href='#co_to_1'  title='Czym jest e_mailing'>
 
-Czym jest<br>e-mailing
+Czym jest<br>e_mailing
 
 </a>
 
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w e-mailingu'>
+<a class='linkService'  href='#doswiadczenie_1'  title='Doświadczenie w e_mailingu'>
 
-Doświadczenie w<br>e-mailing
+Doświadczenie w<br>e_mailing
 
 </a>
 
@@ -81,9 +81,9 @@ Doświadczenie w<br>e-mailing
 </td>
 
 <td id='linkA6' class='mainNormal'  >
-<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie e-mailingu'>
+<a class='linkService'  href='#zastosowanie_1'  title='Zastosowanie e_mailingu'>
 
-Zastosowanie<br>e-mailingu
+Zastosowanie<br>e_mailingu
 
 </a>
 
@@ -91,9 +91,9 @@ Zastosowanie<br>e-mailingu
 </td>
 
 <td id='linkA7' class='mainNormal'  >
-<a class='linkService'  href='#cele_1'  title='Cele e-mailingu'>
+<a class='linkService'  href='#cele_1'  title='Cele e_mailingu'>
 
-Cele<br>e-mailingu
+Cele<br>e_mailingu
 
 </a>
 
@@ -104,17 +104,17 @@ Cele<br>e-mailingu
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='#etapy_1'  title='Etapy e-mailingu'>
+<a class='linkService'  href='#etapy_1'  title='Etapy e_mailingu'>
 
-Etapy<br>e-mailingu
+Etapy<br>e_mailingu
 
 </a>
 
 </td>
 <td id='linkA9' class='mainNormal' >
-<a class='linkService'  href='#przyklady_1'  title='Przykłady e-mailingu'>
+<a class='linkService'  href='#przyklady_1'  title='Przykłady e_mailingu'>
 
-Przykłady <br>e-mailingu
+Przykłady <br>e_mailingu
 
 </a>
 
@@ -163,24 +163,24 @@ Kontakt
 <tr  >
 
 <td  colspan='4' class='contentDynamic'>
-<div id='textMain' class='textService' style='display:none'>Skuteczny e-mailing</div>
+<div id='textMain' class='textService' style='display:none'>Skuteczny e_mailing</div>
 <div id='textA0' class='textService' style='display:none'></div>
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
 <div id='textA2' class='textService' style='display:none'></div>
 <div id='textA3' class='textService' style='display:none'></div>
-<div id='textA4' class='textService' style='display:none'>Czym jest e-mailing</div>
-<div id='textA5' class='textService' style='display:none'>Doświadczenie w e-mailingi</div>
-<div id='textA6' class='textService' style='display:none'>Zastosowanie e-mailingu</div>
-<div id='textA7' class='textService' style='display:none'>Cele e-mailingu</div>
-<div id='textA8' class='textService' style='display:none'>Etapy e-mailingu</div>
+<div id='textA4' class='textService' style='display:none'>Czym jest e_mailing</div>
+<div id='textA5' class='textService' style='display:none'>Doświadczenie w e_mailingi</div>
+<div id='textA6' class='textService' style='display:none'>Zastosowanie e_mailingu</div>
+<div id='textA7' class='textService' style='display:none'>Cele e_mailingu</div>
+<div id='textA8' class='textService' style='display:none'>Etapy e_mailingu</div>
 
-<div id='textA9' class='textService' style='display:none'>Przykłady e-mailingu</div>
+<div id='textA9' class='textService' style='display:none'>Przykłady e_mailingu</div>
 <div id='textA10' class='textService' style='display:none'>Kontakt</div>
-<div id='textA11' class='textService' style='display:none'>Skuteczny e-mailing</div>
-<div id='textA12' class='textService' style='display:none'>Skuteczny e-mailing</div>
-<div id='textA13' class='textService' style='display:none'>Skuteczny e-mailing</div>
-<div id='textA14' class='textService' style='display:none'>Skuteczny e-mailing</div>
-<div id='textA15' class='textService' style='display:none'>Skuteczny e-mailing</div>
+<div id='textA11' class='textService' style='display:none'>Skuteczny e_mailing</div>
+<div id='textA12' class='textService' style='display:none'>Skuteczny e_mailing</div>
+<div id='textA13' class='textService' style='display:none'>Skuteczny e_mailing</div>
+<div id='textA14' class='textService' style='display:none'>Skuteczny e_mailing</div>
+<div id='textA15' class='textService' style='display:none'>Skuteczny e_mailing</div>
 
 </td>
 

@@ -3,7 +3,7 @@
 <HEAD>
 
 <TITLE>Wtyczki (pluginy), dodatki do programów - Yod Group</TITLE>
-<link rel="canonical" href="https://yodgroup.pl/it/wtyczki-pluginy/" >
+<link rel="canonical" href="https://yodgroup.pl/it/wtyczki_pluginy/" >
 <meta name="keywords" content="wtyczki, plugin, dodatki, rozszerzenia, nowa funkcja, program, aplikacja, narzędzie">
 <meta name="description" content="Oferujemy wykonanie wtyczek (dodatków, pluginów), rozszerzeń do istniejących aplikacji. Dzięki czemu Państwa program zyska nowe możliwości.">
 
@@ -11,19 +11,19 @@
 <meta name='robots' content='index,follow' >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta name='Language' content='PL'>
-<meta name='keywords' content='e-mailing, mail, wysyłanie'>
+<meta name='keywords' content='e_mailing, mail, wysyłanie'>
 <meta name='description' content='Oferujemy skuteczny emailing dedykowany stronom WordPress w postaci pluginu oraz za pomocą narzędzia zewnętrznego.'>
 <meta name='Author' content='Yod Group'>
 <meta name='Revisit-after' content='7 days'>
-<link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/services_it.css'>
+<link rel='stylesheet' type='text/css' href='../../css/it/css/services_it-20240916.css'>
 <link rel='shortcut icon' href='../../images/YodGroup.ico'>
 <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
-  <link rel="stylesheet" href= "../../noindex/pl/it/css/jquery-ui-1.12.1.css"> 
-  <script type='text/javascript' src= "../../noindex/pl/it/scripts/jquery-ui-1.12.1.js"> 
+  <link rel="stylesheet" href= "../../css/it/css/jquery-ui-1.12.1.css"> 
+  <script type='text/javascript' src= "../../scripts/it/scripts/jquery-ui-1.12.1.js"> 
   </script> 
   
-  <script type='text/javascript' src= "../../noindex/pl/it/scripts/services_it.js"> 
+  <script type='text/javascript' src= "../../scripts/it/scripts/services_it-20240916.js"> 
   </script> 
   
 <style  type="text/css">
@@ -77,7 +77,7 @@ include ('MOBILE.php');
 
 <br><br>
 
-<script type='text/javascript' src='../../noindex/pl/it/scripts/mainPcMobile.js'>
+<script type='text/javascript' src='../../scripts/it/scripts/mainPcMobile-20240916.js'>
 </script>
 
 </BODY>

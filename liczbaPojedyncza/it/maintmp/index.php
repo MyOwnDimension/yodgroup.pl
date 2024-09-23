@@ -19,10 +19,10 @@
 <link rel='shortcut icon' href='../images/YodGroup.ico'>
 
 
-<link rel='stylesheet' type='text/css' href='../noindex/pl/it/css/main.css'>
+<link rel='stylesheet' type='text/css' href='../noindex/pl/it/css/main-20240916.css'>
 <!--<link rel='shortcut icon' href='images/test.ico'>-->
 
-<!--<script type='text/javascript' language='JavaScript' src='javascripts/main.js'></script>-->
+<!--<script type='text/javascript' language='JavaScript' src='javascripts/main-20240916.js'></script>-->
 <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
   <link rel="stylesheet" href= "../noindex/pl/it/css/jquery-ui-1.12.1.css">
@@ -31,7 +31,7 @@
 
 
 
-<script type='text/javascript' src='../noindex/pl/it/scripts/main.js'>
+<script type='text/javascript' src='../noindex/pl/it/scripts/main-20240916.js'>
 
 </script>
 
@@ -67,7 +67,7 @@ include ('MOBILE.php');
 </div>
 
 <br><br>
-<script type='text/javascript' src='../noindex/pl/it/scripts/mainPcMobile.js'>
+<script type='text/javascript' src='../scripts/it/scripts/mainPcMobile-20240916.js'>
 
 
 </script>

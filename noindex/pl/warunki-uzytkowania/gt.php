@@ -12,11 +12,15 @@
 
 <TITLE>OGÓLNE WARUNKI UŻYTKOWANIA STRONY INTERNETOWEJ</TITLE>
 
-<link rel='stylesheet' type='text/css' href='../css/rodo.css'>
+<link rel='stylesheet' type='text/css' href='../../../css/rodo-20240916.css'>
 <link rel='shortcut icon' href='../../../images/YodGroup.ico'>
-<script type='text/javascript' src= "../scripts/rodo.js" >
-</script>
 
+
+<style type='text/css' >
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+</style>
+
+</head>
 <body class=main>
 
 <center>OGÓLNE WARUNKI UŻYTKOWANIA STRONY INTERNETOWEJ</center><br>

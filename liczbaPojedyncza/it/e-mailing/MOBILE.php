@@ -57,18 +57,18 @@ PL
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='#co_to_2'  title='Czym jest e-mailing'>
+<a class='linkServiceMobile'  href='#co_to_2'  title='Czym jest e_mailing'>
 
-Czym jest<br>e-mailing
+Czym jest<br>e_mailing
 
 </a>
 
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w e-mailingu'>
+<a class='linkServiceMobile'  href='#doswiadczenie_2'  title='Doświadczenie w e_mailingu'>
 
-Doświadczenie w<br>e-mailingu
+Doświadczenie w<br>e_mailingu
 
 </a>
 
@@ -77,9 +77,9 @@ Doświadczenie w<br>e-mailingu
 </tr>
 <tr class='mainNormalMobile' >
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie e-mailingu'>
+<a class='linkServiceMobile'  href='#zastosowanie_2'  title='Zastosowanie e_mailingu'>
 
-Zastosowanie<br>e-mailingu
+Zastosowanie<br>e_mailingu
 
 </a>
 
@@ -87,9 +87,9 @@ Zastosowanie<br>e-mailingu
 </td>
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#cele_2'  title='Cele e-mailingu'>
+<a class='linkServiceMobile'  href='#cele_2'  title='Cele e_mailingu'>
 
-Cele<br>e-mailingu
+Cele<br>e_mailingu
 
 </a>
 
@@ -100,17 +100,17 @@ Cele<br>e-mailingu
 <tr class='mainNormalMobile' >
 
 <td class='mainNormalMobile'  >
-<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy e-mailingu'>
+<a class='linkServiceMobile'  href='#etapy_2'  title='Etapy e_mailingu'>
 
-Etapy<br>e-mailingu
+Etapy<br>e_mailingu
 
 </a>
 
 </td>
 <td class='mainNormalMobile' >
-<a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady e-mailingu'>
+<a class='linkServiceMobile'  href='#przyklady_2'  title='Przykłady e_mailingu'>
 
-Przykłady <br>e-mailingu
+Przykłady <br>e_mailingu
 
 </a>
 

@@ -52,7 +52,7 @@ PL
 <tr class='mainNormal' >
 
 <td id='linkA4' class='mainNormal' >
-<a class='linkService'  href='./automatyzacja-pracy/'  title='Automatyzacja procesów w biznesie'>
+<a class='linkService'  href='./automatyzacja_pracy/'  title='Automatyzacja procesów w biznesie'>
 
 Automatyzacja pracy
 
@@ -61,9 +61,9 @@ Automatyzacja pracy
 </td>
 
 <td id='linkA5' class='mainNormal'  >
-<a class='linkService'  href='./e-mailing/'  title='E-mailing w biznesie'>
+<a class='linkService'  href='./e_mailing/'  title='e_mailing w biznesie'>
 
-E-mailing
+e_mailing
 
 </a>
 
@@ -91,7 +91,7 @@ SEO<br>optymalizacja
 <tr class='mainNormal' >
 
 <td id='linkA8' class='mainNormal'  >
-<a class='linkService'  href='./programy-na-zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
+<a class='linkService'  href='./programy_na_zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
 
 Programy<br>na zlecenie
 
@@ -132,7 +132,7 @@ Programy<br>na zlecenie
 </td>
 
 <td id='linkA9' class='mainNormal' >
-<a class='linkService'  href='./wtyczki-pluginy/'  title='Rozszerzanie funkcji programów: wtyczki, pluginy'>
+<a class='linkService'  href='./wtyczki_pluginy/'  title='Rozszerzanie funkcji programów: wtyczki, pluginy'>
 
 Wtyczki (pluginy), dodatki
 </a>
@@ -149,7 +149,7 @@ VR<br>wirtualna rzeczywistość
 </td>
 
 <td id='linkA11' class='mainNormal' >
-<a class='linkService'  href='./grafika-3D/'  title='Grafika 3D'>
+<a class='linkService'  href='./grafika_3D/'  title='Grafika 3D'>
 
 Grafika 3D
 
@@ -160,7 +160,7 @@ Grafika 3D
 
 
 <td id='linkA12' class='mainNormal' >
-<a class='linkService'  href='./aplikacje-3D/'  title='Aplikacje 3D'>
+<a class='linkService'  href='./aplikacje_3D/'  title='Aplikacje 3D'>
 
 Aplikacje 3D
 
@@ -168,14 +168,14 @@ Aplikacje 3D
 </td>
 
 <td id='linkA13' class='mainNormal'  >
-<a class='linkService'  href='./wsparcie-rozwoj-aplikacji/'  title='Wsparcie, rozwój aplikacji'>
+<a class='linkService'  href='./wsparcie_rozwoj_aplikacji/'  title='Wsparcie, rozwój aplikacji'>
 
 Wsparcie i rozwój<br> aplikacji
 
 </a>
 </td>
 <td id='linkA14' class='mainNormal' >
-<a class='linkService'  href='./aplikacja-program/'  title='Aplikacje ,programy do pobrania'>
+<a class='linkService'  href='./pobierz_program/'  title='Aplikacje ,programy do pobrania'>
 
 Aplikacje do<br>pobrania
 
@@ -185,7 +185,7 @@ Aplikacje do<br>pobrania
 
 
 <td id='linkA15' class='mainNormal'  >
-<a class='linkService'  href='./uslugi-inne/'  title='Inne usługi'>
+<a class='linkService'  href='./uslugi_inne/'  title='Inne usługi'>
 
 Inne usługi
 </a>

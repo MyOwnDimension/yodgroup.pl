@@ -9,20 +9,22 @@
 <link rel="canonical" href="https://yodgroup.pl/" >
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta name='robots' content='index,follow' >
-<meta name='keywords' content='yod group, usługi IT, automatyzacja procesów, pozycjonowanie www, wtyczki, SEO, VR, e-mailing, zlecenie, programowanie, wirtualna rzeczywistość'>
-<meta name='description' content='Oferuję całą gamę usług IT: automatyzacja procesów, pozycjonowanie WWW, SEO optymalizację stron, wtyczki, pluginy, aplikacje 3d, wirtualną rzeczywistość VR, e-mailing, aplikacje na zlecenie'>
-<TITLE>YOD Group: Usługi IT - Automatyzacje procesów, pozycjonowanie, SEO, wtyczki, plugin, aplikacja 3d, VR, wirtualna rzeczywistość, e-mailing, aplikacje na zlecenie</TITLE>
+<meta name='keywords' content='yod group, usługi IT, automatyzacja procesów, pozycjonowanie www, wtyczki, SEO, VR, e_mailing, zlecenie, programowanie, wirtualna rzeczywistość'>
+<meta name='description' content='Oferuję całą gamę usług IT: automatyzacja procesów, pozycjonowanie WWW, SEO optymalizację stron, wtyczki, pluginy, aplikacje 3d, wirtualną rzeczywistość VR, e_mailing, aplikacje na zlecenie'>
+<TITLE>YOD Group: Usługi IT - Automatyzacje procesów, pozycjonowanie, SEO, wtyczki, plugin, aplikacja 3d, VR, wirtualna rzeczywistość, e_mailing, aplikacje na zlecenie</TITLE>
 <meta name='Author' content='Yod Group'>
 <meta name='Language' content='PL'>
 <meta name='Revisit-after' content='7 days'>
-<link rel='stylesheet' type='text/css' href='./noindex/pl/css/main.css'>
+<link rel='stylesheet' type='text/css' href='./css/main-20240916.css'>
 <link rel='shortcut icon' href='/images/YodGroup.ico'>
 <meta name="msvalidate.01" content="7B58CAFEBC4ECF096F4E8235AE70645E" >
 
-  
+<style type='text/css' >
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+</style>
 
   
-<script type='text/javascript' src= "./noindex/pl/scripts/main.js" >
+<script type='text/javascript' src= "./scripts/main-20240916.js" >
 
 </script>
 
@@ -161,7 +163,7 @@ include ('MOBILE.php');
 
 
 
-<script type='text/javascript' src='./noindex/pl/it/scripts/mainPcMobile.js'>
+<script type='text/javascript' src='./scripts/it/scripts/mainPcMobile-20240916.js'>
 
 
 </script>

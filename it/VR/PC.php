@@ -4,28 +4,34 @@
 <tr  class='mainSmaller'>
 
 <td class='mainSmaller' >
-<a class='linkSmaller' id='linkA1' href='../'>
-Wszystkie usługi
-</a>
+
+<?php
+include ('../../noindex/pl/menuPC-IT.php');
+?>
+
 </td>
 <td colspan='2' >
-<table class=language>
+<a class='linkSmaller' id='linkA2' href='../../o_mnie/'>
+O mnie
+</a>
+<!--
+<table id='table' class=language>
 
 <tr>
 
 <td class='mainSmallerLanguage' >
-<!--
+
 <a class='linkSmallerLanguage' href='../'>
 PL
 </a>
--->
+
 </td>
 <td  class='mainSmallerLanguage'>
-<!--
+
 <a class='linkSmallerLanguage' href='../'>
 PL
 </a>
--->
+
 </td>
 <td class='mainSmallerLanguage' >
 
@@ -37,6 +43,7 @@ PL
 </tr>
 
 </table>
+-->
 </td>
 
 <td  >
@@ -49,12 +56,12 @@ PL
 
 <tr  >
 
-<td id='linkA2' class='mainSmall' colspan='2'   >
+<td  class='mainSmall' colspan='2'   >
 
 </td>
 
 
-<td id='linkA3' class='mainSmall' colspan='2'  >
+<td  class='mainSmall' colspan='2'  >
 
 </td>
 </tr>
@@ -166,7 +173,7 @@ Kontakt
 <div id='textMain' class='textService' style='display:block'>Wirtualna rzeczywistość, VR</div>
 <div id='textA0' class='textService' style='display:none'></div>
 <div id='textA1' class='textService' style='display:none'>Powróć do wyboru wszystkich usług IT</div>
-<div id='textA2' class='textService' style='display:none'></div>
+<div id='textA2' class='textService' style='display:none'>O mnie</div>
 <div id='textA3' class='textService' style='display:none'></div>
 <div id='textA4' class='textService' style='display:none'>Czym jest wirtualna rzeczywistość</div>
 <div id='textA5' class='textService' style='display:none'>Doświadczenie w VR</div>

@@ -3,7 +3,7 @@
 <HEAD>
 
 <TITLE>Programy na zlecenie - Yod Group</TITLE>
-<link rel="canonical" href="https://yodgroup.pl/it/programy-na-zlecenie/" >
+<link rel="canonical" href="https://yodgroup.pl/it/programy_na_zlecenie/" >
 <meta name="keywords" content="zlecenie, programowanie, programista, aplikacja, program, narzędzie, kod aplikacji">
 <meta name="description" content="Wykonujmey programy na zlecenie: PC i mobilne.">
 
@@ -13,15 +13,15 @@
 <meta name='Language' content='PL'>
 <meta name='Author' content='Yod Group'>
 <meta name='Revisit-after' content='7 days'>
-<link rel='stylesheet' type='text/css' href='../../noindex/pl/it/css/services_it.css'>
+<link rel='stylesheet' type='text/css' href='../../css/it/css/services_it-20240916.css'>
 <link rel='shortcut icon' href='../../images/YodGroup.ico'>
 <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.js' ></script>
 
-  <link rel="stylesheet" href= "../../noindex/pl/it/css/jquery-ui-1.12.1.css"> 
-  <script type='text/javascript' src= "../../noindex/pl/it/scripts/jquery-ui-1.12.1.js"> 
+  <link rel="stylesheet" href= "../../css/it/css/jquery-ui-1.12.1.css"> 
+  <script type='text/javascript' src= "../../scripts/it/scripts/jquery-ui-1.12.1.js"> 
   </script> 
   
-  <script type='text/javascript' src= "../../noindex/pl/it/scripts/services_it.js"> 
+  <script type='text/javascript' src= "../../scripts/it/scripts/services_it-20240916.js"> 
   </script> 
   
 <style  type="text/css">
@@ -76,7 +76,7 @@ include ('MOBILE.php');
 
 <br><br>
 
-<script type='text/javascript' src='../../noindex/pl/it/scripts/mainPcMobile.js'>
+<script type='text/javascript' src='../../scripts/it/scripts/mainPcMobile-20240916.js'>
 </script>
 
 </BODY>

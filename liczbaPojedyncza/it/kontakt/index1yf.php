@@ -496,7 +496,7 @@ Automatyzacja<br>procesów w firmie
 
 <td id='linkA5' class="main" width=300 >
 <a class="linkService"  href="../skuteczny-emailing/" >
-Skuteczny e-mailing
+Skuteczny e_mailing
 </a>
 </td>
 
@@ -552,7 +552,7 @@ VR
 </td>
 
 <td id="linkA13" class="main"  >
-<a href="../grafika-3D/" class="linkService">
+<a href="../grafika_3D/" class="linkService">
 3D
 </a>
 </td>

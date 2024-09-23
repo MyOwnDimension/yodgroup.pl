@@ -36,7 +36,7 @@ Wszystkie usługi
 
 <td class=mainMobile  >
 
-<a class='linkServiceMobile'  href='./automatyzacja-pracy/' title='Automatyzacja pracy w firmie'>
+<a class='linkServiceMobile'  href='./automatyzacja_pracy/' title='Automatyzacja pracy w firmie'>
 
     Automatyzacja pracy
 
@@ -45,9 +45,9 @@ Wszystkie usługi
 </td>
 
 <td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./e-mailing/'  title='E-mailing w biznesie'>
+<a class='linkServiceMobile'  href='./e_mailing/'  title='e_mailing w biznesie'>
 
-E-mailing
+e_mailing
 
 </a>
 </td>
@@ -74,7 +74,7 @@ SEO<br>optymalizacja
 <tr class='tr_rowMobile' >
 
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./programy-na-zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
+<a class='linkServiceMobile'  href='./programy_na_zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
 
 Programy<br>na zlecenie
 
@@ -82,7 +82,7 @@ Programy<br>na zlecenie
 </td>
 
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./wtyczki-pluginy/' title='Wtyczki, pluginy, rozszerzanie funkcji aplikacji' >
+<a class='linkServiceMobile'  href='./wtyczki_pluginy/' title='Wtyczki, pluginy, rozszerzanie funkcji aplikacji' >
 
 Wtyczki (pluginy)<br> &nbsp dodatki
 
@@ -101,7 +101,7 @@ VR<br>wirtualna rzeczywistość
 </a>
 </td>
 <td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./grafika-3D/'  title='Grafika 3D'>
+<a class='linkServiceMobile'  href='./grafika_3D/'  title='Grafika 3D'>
 
 Grafika 3D
 
@@ -110,14 +110,14 @@ Grafika 3D
 </tr>
 <tr class='tr_rowMobile' >
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./aplikacje-3D/'  title='Aplikacje 3D'>
+<a class='linkServiceMobile'  href='./aplikacje_3D/'  title='Aplikacje 3D'>
 
 Aplikacje 3D
 
 </a>
 </td>
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./wsparcie-rozwoj-aplikacji/'  title='Wsparcie, rozwój aplikacji'>
+<a class='linkServiceMobile'  href='./wsparcie_rozwoj_aplikacji/'  title='Wsparcie, rozwój aplikacji'>
 
 Wsparcie i rozwój<br> aplikacji
 
@@ -128,14 +128,14 @@ Wsparcie i rozwój<br> aplikacji
 <tr class='tr_rowMobile' >
 
 <td  class=mainMobile   >
-<a class='linkServiceMobile' href='./aplikacja-program/'  title='Aplikacje ,programy do pobrania'>
+<a class='linkServiceMobile' href='./pobierz_program/'  title='Aplikacje ,programy do pobrania'>
 
 Aplikacje do<br>pobrania
 
 </a>
 </td>
 <td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./uslugi-inne/'  title='Inne usługi'>
+<a class='linkServiceMobile'  href='./uslugi_inne/'  title='Inne usługi'>
 
 Inne usługi
 

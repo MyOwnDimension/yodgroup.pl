@@ -1,24 +1,22 @@
 
-<center>
+
 <table class=mainMobile>
 
 <tr  class='mainSmallerMobile'>
 
 <td class='mainSmallerMobile' >
-
-<a class='linkSmallerMobile' href='../'>
-Wszystkie usługi
-</a>
-
+<?php
+include ('../noindex/pl/menuMOBILE-mainIT.php');
+?>
 </td>
 
 <td class='mainSmallerMobile'>
 <?php
  //echo 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
  ?>
- <div class='linkUnknownMobile'>
-Strona w rozwoju
-</div>
+<a class='linkSmallerMobile' href='../o_mnie/'>
+O mnie
+</a>
 </td>
 </tr>
 
@@ -38,7 +36,7 @@ Strona w rozwoju
 
 <td class=mainMobile  >
 
-<a class='linkServiceMobile'  href='./automatyzacja-pracy/' title='Automatyzacja pracy w firmie'>
+<a class='linkServiceMobile'  href='./automatyzacja_pracy/' title='Automatyzacja pracy w firmie'>
 
     Automatyzacja pracy
 
@@ -47,7 +45,7 @@ Strona w rozwoju
 </td>
 
 <td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./e-mailing/'  title='E-mailing w biznesie'>
+<a class='linkServiceMobile'  href='./e_mailing/'  title='E-mailing w biznesie'>
 
 E-mailing
 
@@ -56,18 +54,17 @@ E-mailing
 </tr>
 <tr class='tr_rowMobile' >
 <td  class=mainMobile >
-<a class='linkServiceMobile'  href='./pozycjonowanie/'  title='Pozycjonowanie stron WWW'>
+<a class='linkServiceMobile'  href='./pozycjonowanie_seo/'  title='Pozycjonowanie stron WWW, optymalizacja SEO'>
 
-Pozycjonowanie WWW
+Pozycjonowanie WWW<br>+ SEO
 
 </a>
 </td>
 
 <td class=mainMobile  >
-<a class='linkServiceMobile'  href='./seo-optymalizacja/'  title='SEO - optymalizacja WWW'>
+<a class='linkServiceMobile'  href='./wtyczki_pluginy/'  title='Rozszerzanie funkcji programów: wtyczki, pluginy'>
 
-SEO<br>optymalizacja
-
+Wtyczki (pluginy), dodatki
 </a>
 </td>
 
@@ -76,7 +73,7 @@ SEO<br>optymalizacja
 <tr class='tr_rowMobile' >
 
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./programy-na-zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
+<a class='linkServiceMobile'  href='./programy_na_zlecenie/'  title='Tworzenie programów na zlecenie: PC, Android'>
 
 Programy<br>na zlecenie
 
@@ -84,9 +81,9 @@ Programy<br>na zlecenie
 </td>
 
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./wtyczki-pluginy/' title='Wtyczki, pluginy, rozszerzanie funkcji aplikacji' >
+<a class='linkServiceMobile'  href='./grafika_3D/'  title='Grafika 3D'>
 
-Wtyczki (pluginy)<br> &nbsp dodatki
+Grafika 3D
 
 </a>
 </td>
@@ -103,23 +100,23 @@ VR<br>wirtualna rzeczywistość
 </a>
 </td>
 <td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./grafika-3D/'  title='Grafika 3D'>
+<a class='linkServiceMobile'  href='./cave_jaskinia_3D/'  title='Cave 3D, Jaskinia'>
 
-Grafika 3D
+CAVE 3D<br>Jaskinia
 
 </a>
 </td>
 </tr>
 <tr class='tr_rowMobile' >
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./aplikacje-3D/'  title='Aplikacje 3D'>
+<a class='linkServiceMobile'  href='./aplikacje_3D/'  title='Aplikacje 3D'>
 
 Aplikacje 3D
 
 </a>
 </td>
 <td  class=mainMobile  >
-<a class='linkServiceMobile'  href='./wsparcie-rozwoj-aplikacji/'  title='Wsparcie, rozwój aplikacji'>
+<a class='linkServiceMobile'  href='./wsparcie_rozwoj_aplikacji/'  title='Wsparcie, rozwój aplikacji'>
 
 Wsparcie i rozwój<br> aplikacji
 
@@ -130,14 +127,14 @@ Wsparcie i rozwój<br> aplikacji
 <tr class='tr_rowMobile' >
 
 <td  class=mainMobile   >
-<a class='linkServiceMobile' href='./aplikacja-program/'  title='Aplikacje ,programy do pobrania'>
+<a class='linkServiceMobile' href='./pobierz_program/'  title='Aplikacje ,programy do pobrania'>
 
 Aplikacje do<br>pobrania
 
 </a>
 </td>
 <td  class=mainMobile   >
-<a class='linkServiceMobile'  href='./uslugi-inne/'  title='Inne usługi'>
+<a class='linkServiceMobile'  href='./uslugi_inne/'  title='Inne usługi'>
 
 Inne usługi
 
@@ -165,4 +162,4 @@ Inne usługi
 </tr>
 
 </table>
-</center>
+
